@@ -1,0 +1,2067 @@
+﻿l_english:
+  # =========================
+  # Public Health: COVID-19 Measures & Policies
+  # =========================
+  PRC_lockdown_wuhan: "Lockdown of Wuhan"
+  PRC_lockdown_wuhan_desc: "As panic spreads, the situation is slipping out of control. Since CCTV reported the discovery of a “novel contagious coronavirus,” mass outflows have begun across Hubei Province centered on Wuhan. Citizens are scrambling to flee the city; the expressways are jammed to a standstill. If we do nothing, hospitals nationwide will be reporting many more infections within days. We must act decisively and order a full lockdown of Wuhan now."
+  PRC_nationwide_lockdown: "Nationwide Epidemic Controls"
+  PRC_nationwide_lockdown_desc: "This will be unprecedented in public-health history—China will enter a “quasi-wartime posture” nationwide, imposing strict limits on personal travel and transport to curb viral spread. Citizens infected with coronavirus will be centrally isolated and treated in hospitals and temporary medical facilities. Meanwhile, medical and biological researchers across the country will be mobilized to pool wisdom and find a definitive solution to defeat the virus."
+  PRC_implement_emergency_measures: "Enact Emergency Measures"
+  PRC_implement_emergency_measures_desc: "In a national crisis, all people should stand together. Yet, as expected, unscrupulous anti-Party elements and profiteers are sowing rumors, slandering the Party and government, and sabotaging our control efforts. We will not be gentle: the People’s Police will immediately crack down on hoarding and price-gouging of medicines and masks. At the same time, tighter cyberspace controls will prevent the public from being misled and incited."
+  PRC_implement_widespread_testing: "Roll Out Mass PCR Testing"
+  PRC_implement_widespread_testing_desc: "PCR testing is inexpensive, easy to scale, and enables faster diagnosis of coronavirus infection—critical for timely treatment, surveillance and control, and restoring the economy and normal life. We will roll out testing nationwide and build multiple testing sites in major cities. Government personnel first; in time, all residents—and ultimately all citizens—will be tested."
+  PRC_economic_stability_policy: "Economic Stabilization Policy"
+  PRC_economic_stability_policy_desc: "COVID-19 has heavily disrupted normal economic order and production, seriously slowing growth—potentially undermining our goal of building a modern socialist power by mid-century. With the world struggling yet our epidemic initially contained, it is time to return the nation to the path of development and further consolidate our status as the “world’s factory.”"
+  PRC_zero_covid_policy: "Uphold Zero-COVID"
+  PRC_zero_covid_policy_desc: "Facing the pandemic, the Party and government have always put people’s lives and health first. For the people, we must, under the strong leadership of the Central Committee, fully uphold the zero-COVID policy. The strict early measures have proven effective. Those calling for relaxation now either fail to grasp the virus’s danger or harbor ulterior motives. We will continue to implement zero-COVID—“people first, life first.”"
+  PRC_adopt_the_swedish_model: "Study the Swedish Model"
+  PRC_adopt_the_swedish_model_desc: "As the first country to officially declare the pandemic over, Sweden’s policies have drawn global attention. Some of our health officials and physicians advise we study their approach: easing public-venue restrictions, halting daily case disclosures, and foregoing mandatory PCR testing for non-medical staff and low-risk groups. As transmissibility and virulence wane, this could speed our return to normal."
+  PRC_kickstart_vaccine_research: "Kick-start Vaccine R&D"
+  PRC_kickstart_vaccine_research_desc: "We will order national research institutes and pharmaceutical firms to immediately begin research and trials for a COVID-19 vaccine—not only to control the epidemic faster, but also to elevate our international standing and influence. Multiple candidates, including Sinovac’s inactivated vaccine, are already in clinical trials. We have also informed WHO and developing countries that we are willing to donate vaccines and cooperate on research."
+  PRC_adopt_strict_lockdown_measures: "Impose Stricter Lockdowns"
+  PRC_adopt_strict_lockdown_measures_desc: "Despite preparations, the virus’s transmissibility exceeds expectations. We must further tighten controls, devote more resources, and minimize internal, rural-urban, and cross-border movement. Some accuse us of “forcing a national shutdown,” but to defeat the epidemic, firm lockdowns will prove necessary."
+  PRC_focus_on_vaccine_development: "Focus on Vaccine Development"
+  PRC_focus_on_vaccine_development_desc: "Only by fielding a reliable vaccine can we control viral transmission at its source. Led by Sinovac and other biopharma firms, vaccine R&D has made decisive progress. We must allocate funds and resources wisely to accelerate development and deployment so that our people are ultimately protected from infection."
+  PRC_focus_on_mask_production: "Prioritize Mask Production"
+  PRC_focus_on_mask_production_desc: "Medical masks are inexpensive, mass-producible, and easy to distribute nationwide. Adequate mask supply is a key pillar of stabilizing the epidemic. The State Council will fund expansion of medical mask capacity—especially technical support and subsidies for manufacturers in hard-hit regions."
+  PRC_food_safety_reforms: "Food-Safety Reforms"
+  PRC_food_safety_reforms_desc: "Given that this unfortunate outbreak likely began with a “patient zero” consuming wild game, it is time for sweeping reform of food safety and hygiene. We will legislate to eradicate consumption of wild animals and promote hygienic table etiquette to reduce public-venue transmission. We will also invest further in industrial and convenience-food processing to make products safer and cleaner."
+  PRC_surveillance_state_contact_tracing: "State-Run Contact Tracing"
+  PRC_surveillance_state_contact_tracing_desc: "After the outbreak, we launched the “Health Code” location-tracking app as an e-pass and proof of health status, indicating each user’s epidemic risk level. Only with full, real-time tracking of high-risk groups under government control can we formulate effective policy while ensuring critical national-security data and citizens’ personal information are not leaked."
+  PRC_outsource_contact_tracing: "Outsource Contact Tracing"
+  PRC_outsource_contact_tracing_desc: "After the outbreak, we launched the “Health Code” location-tracking app as an e-pass and health-status certificate that shows personal epidemic risk. To reduce administrative burden and costs, we can entrust operations to trusted private internet companies so they share the load."
+  PRC_miandian_tundi: "Intervene in Myanmar..."
+  PRC_miandian_tundi_desc: "If we cannot end the war quickly, Myanmar will become a bottomless pit."
+  PRC_fund_crowd_immunity_studies: "Fund Herd-Immunity Studies"
+  PRC_fund_crowd_immunity_studies_desc: "As vaccination rates climb, population immunity has markedly improved. A key premise of herd immunity is that as the share of immune individuals rises, transmission chains are more easily broken and nationwide impacts fade. We will task our medical experts and major media to prepare theory and public messaging in advance of any policy pivot toward herd-immunity strategie
+  
+  PRC_blame_the_americans: "Turn the Question on the U.S."
+  PRC_blame_the_americans_desc: "Since the full outbreak of COVID-19, Western powers led by the United States have tirelessly pushed the term “Wuhan virus” and demanded that we “compensate” for their losses. Now the tables have turned: the Fort Detrick (Maryland) biolab has been spotlighted, and many citizens in both countries are questioning whether it is connected to the pandemic—even launching open letters. We can seize this moment to ask the U.S. government why it continues to obfuscate."
+
+  PRC_blame_local_officials: "Hold Local Officials Accountable"
+  PRC_blame_local_officials_desc: "At the onset of the outbreak, some local governments papered over risks to protect their performance records, leaving us unprepared when the epidemic hit. We now see that certain cadres “report only good news.” The CCDI will comprehensively audit the past years’ work and documents of all levels of government, focusing on punishing local officials who were lax in implementing central policy or maintained improper ties with pharmaceutical firms."
+
+  PRC_expand_the_social_safety_net: "Expand the Social Safety Net"
+  PRC_expand_the_social_safety_net_desc: "The epidemic offered a sobering lesson. Many who died were impoverished and socially isolated, especially the elderly, in both rural and urban areas—exposing shortcomings in our social security system. To realize common prosperity, we must craft a more complete safety net that provides timely support for those in need."
+
+  PRC_return_to_normalcy: "Return to Normalcy"
+  PRC_return_to_normalcy_desc: "After years of effort, today we can announce to our people and the world: China has emerged from the era of the COVID-19 pandemic and officially returned to normal. This is not only a victory for the CPC and the PRC, but also a great triumph achieved by 1.4 billion Chinese people!"
+
+  PRC_control_the_oil_crisis: "Contain the Oil Crisis"
+  PRC_control_the_oil_crisis_desc: "A sudden oil crisis has hit our economy hard. Stocks plunged within a week, panic exceeded worst-case expectations, many companies collapsed, and foreign capital began weighing exit risks. Our vaunted transport system has stalled for lack of fuel. The Party has ordered immediate economic repair—yet where to start remains a tangle."
+
+  PRC_crack_down_on_left_radicals: "Crack Down on Ultra-Left Radicals"
+  PRC_crack_down_on_left_radicals_desc: "Predictably, opposition forces are exploiting the crisis to pressure Party leadership for reforms and power concessions. Long-time critics of reform and opening—ultra-left radicals including retired cadres, academics, and disaffected youth—are clamoring for a return to Mao-era egalitarianism and denouncing the current “revisionist” line. Measures are required."
+
+  PRC_crack_down_on_reformist_protesters: "Crack Down on Reformist Protesters"
+  PRC_crack_down_on_reformist_protesters_desc: "Predictably, opposition forces are exploiting the crisis to pressure Party leadership for reforms and power concessions. Many capitalists publicly claim excessive state intervention and crackdowns on private enterprise caused the collapse—echoed by intra-Party reformists and young intellectuals. They must learn to hold their tongues."
+
+  PRC_empower_the_50_cent_army: "Safeguard the Online Environment"
+  PRC_empower_the_50_cent_army_desc: "Online commenters who often voice support for the Party and government are popularly nicknamed “50-centers,” implying they praise authorities for trifling pay. Regardless, they play a key role in guiding online discourse. In times of opinion crises, this tactic has proven effective—and this time is no exception."
+
+  PRC_concessions_to_corporate_demands: "Concessions to Business"
+  PRC_concessions_to_corporate_demands_desc: "The Party’s governance capacity faces a stern test. If business discontent grows, development cannot be assured. We will make measured concessions: pro-business policies such as tax cuts and debt relief, and curbing online vilification of entrepreneurs. Without enterprise-driven GDP, China cannot be a superpower."
+
+  PRC_concessions_to_populist_demands: "Nationalist Messaging"
+  PRC_concessions_to_populist_demands_desc: "The Party’s governance capacity faces a stern test. If popular discontent grows, stability cannot be assured. We will make measured concessions by permitting certain protests and demonstrations as outlets for grievance. After all, nationalist and populist slogans cost us little."
+
+  PRC_stabilize_the_political_sphere: "Stabilize the Political Sphere"
+  PRC_stabilize_the_political_sphere_desc: "Though dissent has not vanished, we have broadly stabilized the political landscape, ensured majority support for the Party and the General Secretary, and accommodated key intra-Party factions and interest groups. This lays a solid foundation for our next steps."
+
+  PRC_contain_the_damage: "Contain the Damage"
+  PRC_contain_the_damage_desc: "Securing domestic stability first will allow us to pursue reforms more effectively to weather the oil crisis and restore national strength. China has never needed unity and strong leadership more than today."
+
+  PRC_a_broken_system: "A Broken System"
+  PRC_a_broken_system_desc: "We must admit the oil shock has exposed the current system’s shortcomings and fragility. Extraordinary times call for strong medicine: embrace bolder reforms and cut deep into outdated structures. Only then can true national rejuvenation follow."
+
+  PRC_expand_domestic_oil_production: "Expand Domestic Oil Production"
+  PRC_expand_domestic_oil_production_desc: "In this perilous moment, we cannot rely on unstable import routes. We will further tap domestic reserves and build more drilling and refining capacity. Energy security must be in our own hands; shorter logistics will also lower costs and soften the crisis’s blow."
+
+  PRC_diversify_the_oil_trade: "Diversify Oil Trade"
+  PRC_diversify_the_oil_trade_desc: "With major producing regions in turmoil, securing stable import channels is vital. Thanks to long-standing ties with developing nations, we can open additional routes—e.g., imports from Venezuela and Brunei—to spread risk."
+
+  PRC_drill_for_xinjiang_oil: "Drill Xinjiang Oil"
+  PRC_drill_for_xinjiang_oil_desc: "Xinjiang’s vast lands have hosted oil extraction for years, but remoteness and sparse population limited effective utilization. Now, with rapid approval of pipelines and new extraction contracts, Xinjiang oil has become a lifeline for our economy."
+
+  PRC_south_china_sea_expansion: "Stabilize the South China Sea"
+  PRC_south_china_sea_expansion_desc: "The South China Sea holds abundant energy reserves—enough to carry us through the crisis. We should intensify exploration and development there to ease our immediate strain while maintaining regional stability."
+  
+  PRC_synthetic_oil_investments: "Invest in Synthetic Oil"
+  PRC_synthetic_oil_investments_desc: "In the current shortage, synthetic petroleum looks attractive. For us, it is relatively low-cost, can be produced quickly at scale, and offers performance comparable to conventional oil. Though stability issues remain, synthetic fuels have already become the primary energy source for many plants along the eastern seaboard—and adoption is spreading."
+
+  PRC_gambit_in_the_gulf: "Gambit in the Gulf"
+  PRC_gambit_in_the_gulf_desc: "To solve a problem, address its roots. We will deepen our presence in the Gulf region and more proactively safeguard our core interests there. By engaging regional governments directly and providing support to stabilize local conditions, we aim to end the crisis’s negative impacts on oil supply."
+
+  PRC_stabilize_the_economic_sphere: "Stabilize the Economy"
+  PRC_stabilize_the_economic_sphere_desc: "We can blunt the oil shock through multiple tools: limit fuel price growth, issue fuel vouchers to curb inventory drawdown, and deliver relief funds and bonds to hard-hit areas to arrest contraction. A package of coordinated measures will demonstrate our capacity to steady the economy."
+
+  PRC_southeast_asian_bailout_package: "Southeast Asia Relief Package"
+  PRC_southeast_asian_bailout_package_desc: "With smaller reserves and weaker economies, Southeast Asian nations saw sharp downturns as the oil crisis began. We can expand our influence with ASEAN by boosting trade and support to stabilize their economies and politics—projecting the image of a responsible major power."
+
+  # =========================
+  # Narrative, Morale & Strategic Vision
+  # =========================
+  PRC_chase_the_chinese_dream: "Pursue the Chinese Dream"
+  PRC_chase_the_chinese_dream_desc: "In national crises, confidence matters. We will amplify messaging around the “Chinese Dream,” stressing that our economic recovery and crisis response are more decisive than any other nation’s. We will spotlight model citizens to strengthen patriotic pride among the masses."
+
+  PRC_rejuvinate_the_nation: "Great Rejuvenation of the Chinese Nation"
+  PRC_rejuvinate_the_nation_desc: "We are emerging from the oil crisis’s shadow: growth is returning, foreign reserves stabilizing, and investors are coming back. Renewed prospects and rising national pride prove once more that no hardship can defeat the Chinese people. National rejuvenation is within reach."
+
+  PRC_a_renewable_revolution: "A Renewable Revolution"
+  PRC_a_renewable_revolution_desc: "We cannot rely solely on restored oil imports. Fortuitously, rapid advances let us better harness wind and solar to offset losses from oil shortages. Wider adoption will also cut pollution and create jobs."
+
+  PRC_a_nuclear_revolution: "A Nuclear Revolution"
+  PRC_a_nuclear_revolution_desc: "Our economists and scientists advise stepping up investment in nuclear power to drive industry and the broader economy. Some raise safety and environmental concerns—but at a critical moment, wavering is not an option."
+
+  PRC_shake_up_the_politburo: "6th Plenum of the 19th CPC Central Committee"
+  PRC_shake_up_the_politburo_desc: "Through sustained effort under Party leadership and unity among all ethnic groups, we achieved decisive victories against COVID-19, the oil crisis, and power-sector reforms. With lives and livelihoods secured—and as U.S. turmoil deepens—this is a moment for bold strategy. Convene the 6th Plenum to review gains and chart major policies ahead."
+
+  # =========================
+  # Taiwan Strait Campaign
+  # =========================
+  PRC_the_final_opportunity: "The Final Opportunity"
+  PRC_the_final_opportunity_desc: "After more than seven decades of stalemate, U.S. domestic turmoil has removed the largest obstacle to national reunification. Though Japan and others claim they will “maintain the status quo,” their economies and militaries cannot match ours—and without U.S. leadership, coordination is doubtful. This is the best—and perhaps last—moment to begin the liberation of Taiwan."
+
+  PRC_blockade_taiwan: "Blockade Taiwan"
+  PRC_blockade_taiwan_desc: "We will declare exclusion zones around the island and deploy escorts and submarines to patrol designated boundaries day and night. Air routes to Taiwan will be tightly monitored. This clears civilian interference for our operations, severs the island’s economic lifelines, and erodes the authorities’ grip. Some will decry a “humanitarian crisis,” but once the island collapses, the conflict will end swiftly."
+
+  PRC_operation_silent_dawn: "§YSilent Dawn Operation§!"
+  PRC_operation_silent_dawn_desc: "The decisive moment has come. We will launch Silent Dawn, a crucial step for campaign success. Rocket Force ballistic missiles and rocket artillery will preemptively strike Taiwan’s key military targets—airfields, SAM sites, and radar—to break early warning. Power plants, substations, and major communications hubs will also be targeted."
+
+  PRC_plan_on_high_alert: "PLAN on High Alert"
+  PRC_plan_on_high_alert_desc: "Since initiating blockade and patrols, the Navy’s critical tasks include thwarting breakout attempts by Taiwan’s fleet and countering harassment by hostile forces such as the U.S. 7th Fleet and JMSDF. The Coast Guard likewise plays a vital role, intercepting multiple attempts by merchant and refugee vessels to run the line."
+
+  PRC_plaaf_on_high_alert: "PLAAF Combat Air Patrols"
+  PRC_plaaf_on_high_alert_desc: "The Air Force will conduct high-intensity combat air patrols near Taiwan, maintaining maximum readiness against all adversaries."
+
+  PRC_air_blockade: "Airspace Interdiction"
+  PRC_air_blockade_desc: "The Air Force will formally close Taiwan’s airspace—cutting all aerial routes inbound to and outbound from the island."
+
+  PRC_finish_what_mao_started: "Complete Chairman Mao’s Unfinished Task"
+  PRC_finish_what_mao_started_desc: "After 1949 a famous slogan vowed to “plant the flag of victory on Taiwan.” Yet by 1976, Chairman Mao did not see reunification. With today’s shifting world and no U.S. interference, the People’s Liberation Army will cross the Strait and liberate all China."
+
+  PRC_final_offensive: "The Final Offensive"
+  PRC_final_offensive_desc: "After protracted fighting, we have encircled the island’s last significant forces within the Taipei metro. Guerrillas linger in the mountains, but taking Taipei will end hostilities. The People’s Liberation Army will conclude the War of Liberation—begun June 26, 1946—and China will be fully unified."
+  
+  PRC_unite_people: "Unite the Masses"
+  PRC_unite_people_desc: "Beyond rooting out hostile elements hidden among the people, we will mobilize the masses to actively conduct counter-espionage. At the same time, to demonstrate the advantages of socialism and build identification with the new order, we will launch extensive aid and reconstruction for Taiwan, offer preferential policies for local residents, and encourage prompt application for PRC ID documents.\n\nRemember the soldiers’ creed; love the people wherever you go.\n\nDefend the motherland and press ever forward—welcomed and supported by all the people!"
+
+  PRC_consolidate_landing_area: "Consolidate the Beachhead"
+  PRC_consolidate_landing_area_desc: "Our Marines have secured the beaches. It is time to push inland."
+
+  PRC_three_rules: "Three Main Rules of Discipline"
+  PRC_three_rules_desc: "Obey orders in all actions; take not a needle or thread from the masses; turn in all captures to the collective.\n\nOn the island, the PLA must hold itself to the highest standards and minimize the scars of war."
+
+  PRC_eight_points: "Eight Points for Attention"
+  PRC_eight_points_desc: "Speak politely; trade fairly; return what you borrow; compensate for damage; do not hit or abuse; do not harm crops; do not harass women; do not mistreat prisoners.\n\nIn this final campaign, our conduct must be exemplary. The PLA is the people’s army—for all Chinese, including those in Taiwan."
+
+  # =========================
+  # Political End-State & Governance Models
+  # =========================
+  PRC_china_victorious_and_united: "China: Powerful and Unified!"
+  PRC_china_victorious_and_united_desc: "We have reclaimed Taiwan—an island severed from the motherland for nearly a century. National unity is restored. The next question is governance: how best to administer an island home to nearly 20 million people?"
+
+  PRC_utilize_xinjiang_methods: "Apply the Xinjiang Governance Package"
+  PRC_utilize_xinjiang_methods_desc: "To restore stability swiftly, some advocate replicating measures used in Xinjiang: deploying a large peacekeeping/CT presence, enforcing strict public-security controls, and curfews in hotspots. This proposal is backed mainly by hardliners, senior officers, and security chiefs."
+
+  PRC_one_china_two_systems: "One Country, Two Systems"
+  PRC_one_china_two_systems_desc: "Others favor the Hong Kong/Macau template—rapidly establishing ‘One Country, Two Systems’ for Taiwan, transferring authority to a newly elected local government while gradually withdrawing PLA and PAP units. This aligns with long-standing commitments and is supported by moderates, diplomats, and civil administrators."
+
+  PRC_gradual_stabilization: "Gradual Stabilization"
+  PRC_gradual_stabilization_desc: "Through sustained effort, stability has broadly returned. Residents are venturing out, commerce and transit are resuming. Lingering resentment may persist, but this outcome is a remarkable success."
+
+  PRC_unify_the_bureacracy: "Unify the Bureaucracy"
+  PRC_unify_the_bureacracy_desc: "Lasting prosperity requires a reliable civil service. In addition to bringing in trusted administrators from the mainland, we should maintain close contact with former Taiwan officials and notable civic figures—inviting cooperation where they support unity and territorial integrity."
+
+  # =========================
+  # Reconstruction & Economic Integration
+  # =========================
+  PRC_evacuation_of_key_industries: "Relocate Key Industries"
+  PRC_evacuation_of_key_industries_desc: "Before reunification, Taiwan hosted several globally competitive firms—TSMC among them—many now damaged by war. We will urgently relocate critical industries to the mainland to restore production quickly and bolster national recovery."
+
+  PRC_accelerate_local_recovery: "Accelerate Local Recovery"
+  PRC_accelerate_local_recovery_desc: "We must rapidly rebuild destroyed infrastructure and surge essential supplies—food, medicine, fuel—from the mainland to avert humanitarian crisis. PLA and PAP units will assist with medical relief and debris clearance, showcasing the people’s army’s image."
+
+  PRC_the_chinese_century: "The Chinese Century!"
+  PRC_the_chinese_century_desc: "Victory in the Strait has delivered full national unity and fulfilled a historic pledge. Few now doubt our power; former ‘superpowers’ can no longer overawe us. We will hold grand celebrations to declare that the Chinese Century has arrived."
+
+  # =========================
+  # Digital Governance & Social Credit Expansion
+  # =========================
+  PRC_creating_the_reputation_society: "Build a Digital Reputation Society"
+  PRC_creating_the_reputation_society_desc: "Our internet-based credit architecture exemplifies marrying modern networking with secure data stewardship. As China’s rise draws global attention, similar systems gain traction abroad. We will further develop our model toward a comprehensive, well-governed reputation society."
+
+  PRC_expand_the_blacklist_system: "Expand the Blacklist Regime"
+  PRC_expand_the_blacklist_system_desc: "Leveraging big data from the social-credit system, we will catalogue the untrustworthy: not only debt evaders and local thugs, but also hostile foreign operatives and online agitators. In time, the digital tide will enable a more honest, orderly society."
+
+  PRC_peoples_social_credit: "National Civic Information System"
+  PRC_peoples_social_credit_desc: "Social credit will underpin a healthy, ethical, and harmonious society while safeguarding personal data. We will build a comprehensive personal-information system and issue digital IDs covering all facets of civic life. Future online usage will be authenticated through this system, reducing risks of data leakage."
+
+  PRC_strengthen_control_of_bureaucracy: "Tighten Cadre Oversight"
+  PRC_strengthen_control_of_bureaucracy_desc: "Extend the credit system to cadre monitoring and evaluation. Record full personal profiles—especially income and expenditures of senior officials. Use it to assess records and performance, uphold integrity and competence, and deter corruption."
+
+  # =========================
+  # Ideological Campaigns & Social Mobilization
+  # =========================
+  PRC_enthusiasm_of_chinese_people: "The People’s Enthusiasm"
+  PRC_enthusiasm_of_chinese_people_desc: "We will instill a new-era patriotic ethos to align all strata. Public information and cultural institutions will act in concert—news, education, arts—to kindle popular zeal and deepen loyalty to the motherland and our cause."
+  
+  PRC_core_socialist_values: "Core Socialist Values"
+  PRC_core_socialist_values_desc: "Prosperity, democracy, civility, harmony; freedom, equality, justice, rule of law; patriotism, dedication, integrity, and amity—these 24 words embody socialism’s leading, advanced, and affirmative role in Chinese society. They also testify to an unbroken lineage from Marxism–Leninism and Mao Zedong Thought to today’s Xi Jinping Thought. We will base ideological education on these values and unwaveringly uphold China’s socialist character."
+
+  PRC_national_rejuvination: "National Rejuvenation"
+  PRC_national_rejuvination_desc: "A defining feature of socialism with Chinese characteristics is the promotion of national rejuvenation. The Party reminds the people that it rescued China from civil war and poverty in 1949 and, in the 21st century, built it into a new superpower. Nothing inspires love and loyalty more effectively than demonstrating the strength and prosperity of the motherland."
+
+  PRC_the_party_of_public_interest: "A Party for the People’s Well-Being"
+  PRC_the_party_of_public_interest_desc: "“Serve the People” is our foundational creed, a constant reminder to all cadres of who we are and why we joined the Party. As the nation enters a new era of prosperity and the bond between Party and people reaches historic highs, we can proudly declare that the Party saved China, liberated the people, and is fulfilling every promise and vision it made."
+
+  PRC_fidelity_to_xiaoping_principles: "Uphold Reform and Opening-Up"
+  PRC_fidelity_to_xiaoping_principles_desc: "After Mao’s passing, when the Party faced turmoil and China’s future was obscured, Deng Xiaoping righted the course—refocusing on economic development and designing Reform and Opening-Up. Today, China’s great ship continues along the course set in 1978, and Xi Jinping is honored as the “Chief Architect of the New Era.”"
+
+  PRC_comprehensive_deepening_of_reforms: "Comprehensively Deepen Reform"
+  PRC_comprehensive_deepening_of_reforms_desc: "Past policies alone cannot secure leadership status or ensure China’s continued rise. We will encourage Party and state organs to propose innovative reforms so the Party remains dynamic—an engine of progress rather than a bureaucratic burden."
+
+  PRC_sinicization_of_marxism: "Advance the Sinicization of Marxism"
+  PRC_sinicization_of_marxism_desc: "Since Marxism entered China after the October Revolution, its Sinicization has never ceased—from early thinkers like Chen Duxiu and Li Dazhao to leaders like Mao Zedong and Deng Xiaoping. As the great leader of the new era, Xi Jinping opens the next stage of Sinicization—an achievement to benefit our age and posterity."
+
+  PRC_modern_socialist_nation: "A New Era for the PRC"
+  PRC_modern_socialist_nation_desc: "From the “Four Modernizations,” to Deng’s “Xiaokang Society,” to Xi’s “Chinese Dream” and “Great Rejuvenation,” the aspiration to reclaim China’s central place among nations has echoed across our history. Today—nearly a century after the founding proclamation of 1 October 1949—that aspiration is within our grasp."
+
+  # =========================
+  # Anti-Corruption & Party Discipline
+  # =========================
+  PRC_final_strike_against_the_corruption: "The Final Strike Against Corruption"
+  PRC_final_strike_against_the_corruption_desc: "Anti-corruption has defined Xi Jinping’s tenure since 2012. Now we will raise it to a new peak. Leveraging data from the social-credit architecture, we will sweep out parasites and vermin within the Party—purifying our ranks to truly serve the people."
+
+  PRC_improve_party_discipline: "Strengthen Party Discipline"
+  PRC_improve_party_discipline_desc: "We will embed probity and self-cultivation deep in every cadre’s mind and prevent corruption from resurging. Beyond moral education, we will refine disciplinary regulations and empower the CCDI and the National Supervisory Commission with broader authorities."
+
+  # =========================
+  # Cadre Management & Institutional Renewal
+  # =========================
+  PRC_restoration_of_cadres_rotation: "Restore Cadre Rotation"
+  PRC_restoration_of_cadres_rotation_desc: "Fixed terms and systematic rotation are essential reforms that renew the cadre corps and elevate emerging talent. In the past decade, top-level rotations were deliberately slowed to preserve authority; with stability restored, it is time to introduce fresh faces in ministries and party committees."
+
+  PRC_ministerial_reshuffle: "Ministerial Reshuffle"
+  PRC_ministerial_reshuffle_desc: "New-era tasks demand new-minded cadres, yet many trained under the old system remain—and some passively resist by inaction. We will overhaul the cadre cohort so younger, more loyal, and reform-oriented officials carry out the Party’s will."
+
+  PRC_implement_10_affirmations: "Implement the Ten Upholds"
+  PRC_implement_10_affirmations_desc: "Proposed by General Secretary Xi, the “Ten Upholds” are a new creed for Party members. While learning from revolutionary practice and theory, cadres must push comprehensive reform according to present needs and maintain deep bonds with the people. This shared spiritual wealth will guide the training of new Party members."
+
+  # =========================
+  # Military Prestige & Security Posture
+  # =========================
+  PRC_approve_pla_loaylity: "Commend the PLA’s Loyalty"
+  PRC_approve_pla_loaylity_desc: "The PLA was tested in the Taiwan Strait and produced many heroes—from victorious commanders to valiant soldiers. We will launch a new campaign to learn from the PLA, elevating its image in the Party and among the people, and promote outstanding officers and commissars into Party leadership."
+
+  PRC_improve_national_security: "Strengthen National Security"
+  PRC_improve_national_security_desc: "Despite historic victories, threats persist—especially to regime stability and state security. We will further empower the MPS and MSS and rely more on national surveillance and intelligent crime-detection systems to raise efficiency and deterrence—so hidden enemies understand that we will find them."
+  
+  # =========================
+  # National Revival & Leadership
+  # =========================
+  PRC_the_great_revival: "The Great Rejuvenation"
+  PRC_the_great_revival_desc: "The rejuvenation of the Chinese nation is now unstoppable—and will keep delivering even more astonishing victories. Historians will mark our era as a turning point dividing China’s past and future. The Chinese people will advance forever along the brilliant path opened by the Party."
+
+  PRC_strengthen_auhority_of_the_chairman: "Strengthen the Chairman’s Authority"
+  PRC_strengthen_auhority_of_the_chairman_desc: "Our achievements and victories demonstrate beyond dispute that Xi Jinping, as the core of the Party, holds an indispensable leadership role. A series of decisions elevating the Chairman’s status, decision-making power, and oversight of Party policy has been approved. Only by following Chairman Xi’s leadership can the Party win victory after victory."
+
+  PRC_xi_jinping_thought_abroad: "Spread Xi Jinping Thought Abroad"
+  PRC_xi_jinping_thought_abroad_desc: "China’s success has drawn global interest in our governance experience. As China’s leader, Xi Jinping’s ideas naturally attract the most attention. We will seize this chance to improve our image and soft power: gifting collections of Xi’s writings to interested officials overseas, accelerating translations, and arranging local publication."
+
+  # =========================
+  # Dare to Dream, Work, and Fight
+  # =========================
+  PRC_dare_to_dream: "Dare to Dream"
+  PRC_dare_to_dream_desc: "21st-century advances make once-fantastical dreams tangible—from crewed spacecraft and Mars rovers, to 5G, AI, gene editing, and cloning. We will further encourage our citizens to embrace scientific exploration. One day, Chinese innovators will represent the pinnacle of human technology."
+
+  PRC_dare_to_work: "Dare to Work"
+  PRC_dare_to_work_desc: "China’s era of ultra-rapid growth has captivated the world, giving rise to the phrase “the China Century.” Post-war prosperity at home and Taiwan’s return again create vast projects and jobs. We will show the world, once more, what Chinese diligence and ingenuity can achieve."
+
+  PRC_dare_to_fight: "Dare to Fight"
+  PRC_dare_to_fight_desc: "Victory in the Taiwan Strait has elevated the PLA’s reputation to its zenith. At home it is lauded as the people’s own army, the Party’s most loyal guardian, and a symbol of rejuvenation; abroad, it is seen as a formidable force of the new era. With the PLA safeguarding us, China will be invincible."
+
+  # =========================
+  # Industry, Trade & Supply Chains
+  # =========================
+  PRC_made_in_china_2025: "Made in China [GetYear]"
+  PRC_made_in_china_2025_desc: "Forty years after Reform and Opening-Up, China possesses the world’s most complete industrial system. On the new journey of this century, we will prove the might of a fully awakened giant."
+
+  PRC_expand_trade_arguments: "Expand Trade Agreements"
+  PRC_expand_trade_arguments_desc: "To take Chinese industry global, we must deepen regional integration. We will invite more countries to join trade pacts and broaden our economic networks."
+
+  PRC_economic_autarky: "Dual-Circulation Economy"
+  PRC_economic_autarky_desc: "Imbalances and insufficiencies remain. We will emphasize the domestic economic circulation—strengthening internal industries and improving living standards nationwide."
+
+  PRC_optimize_the_supply_chain: "Optimize the Supply Chain"
+  PRC_optimize_the_supply_chain_desc: "China’s industrial modernization has entered a new stage. Existing supply chains no longer meet surging demand. We will upgrade them at once—“better and stronger.”"
+
+  PRC_worlds_factory: "Factory of the World"
+  PRC_worlds_factory_desc: "The title “Factory of the World” reflects the capacity of Chinese manufacturing to underpin global production. We will not stop here—expanding further to become the world’s leading manufacturing power."
+
+  PRC_our_secret_weapon: "Our Secret Weapon"
+  PRC_our_secret_weapon_desc: "The people are to the CPC and the PLA what Gaia is to Olympus. We will fuse civilian and military domains more deeply, aligning national defense with economic development."
+
+  PRC_escape_middle_income_trap: "Avoid the Middle-Income Trap"
+  PRC_escape_middle_income_trap_desc: "The “middle-income trap” has stalled once-prosperous developing economies. China’s government and people have long pursued common prosperity and a different fate. The world watches to see the miracle fulfilled."
+
+  # =========================
+  # Megaprojects & National Vision
+  # =========================
+  PRC_endorse_the_megaprojects_cen: "Promote Megaprojects"
+  PRC_endorse_the_megaprojects_cen_desc: "Imagine a cloud-piercing skyscraper dominating the capital’s skyline—stirring pride and awe in all who behold it. Such grand works display national strength and declare cultural confidence. We should champion them."
+
+  PRC_dream_come_true: "Dreams Come True"
+  PRC_dream_come_true_desc: "Dawn lights the City of the Dragon. A maglev glides past; data centers branch like nerves. The world’s largest single building casts a towering shadow over reeds of yesterday.\n\nThe future is here. The chief engineer strokes the digital model—smart towers blaze in hologram. China Speed is reshaping civilization; China Wisdom creates new possibilities.\n\nXiong’an—this city of the new era—shows the world at breathtaking pace that the continuity and breakthrough of Chinese civilization live on this land of millennial strategy.\n\nA renewed capital, a great dream, has taken root."
+
+  # =========================
+  # Science, Technology & Governance
+  # =========================
+  PRC_invest_in_ai: "Invest in Artificial Intelligence"
+  PRC_invest_in_ai_desc: "As AI achievements rapidly deploy into production, new growth engines emerge. To secure a global position in AI, we must intensify investment now."
+
+  PRC_develop_tech_prod_aboard: "Tech Products Go Global"
+  PRC_develop_tech_prod_aboard_desc: "It is time to export our cost-effective high-tech products—proving that, backed by China’s industrial system, they can shatter Western-centric tech monopolies."
+
+  PRC_techno_nationalism: "Technological Superiority"
+  PRC_techno_nationalism_desc: "We will expand support for strategic technologies and apply them where they best solve our pressing challenges."
+
+  PRC_technology_for_everyone: "Technology for Everyone"
+  PRC_technology_for_everyone_desc: "Science is the primary productive force—but only if people use it. We will broaden access to cutting-edge products so more citizens enjoy a higher quality of life."
+
+  PRC_rein_in_corp: "Rein in Capital"
+  PRC_rein_in_corp_desc: "Capital’s pursuit of profit is blind—even for Chinese firms. To harness this wild horse for the people, it must wear a bridle and run on rules that serve the public good."
+  
+  # =========================
+  # Anti-Corruption & Ecological Development
+  # =========================
+  PRC_anti_corpruption_tech: "Tech-Driven Anti-Corruption"
+  PRC_anti_corpruption_tech_desc: "Some call corruption a ‘lubricant,’ but too much and the machine seizes. We will apply advanced technologies to monitor, prevent, and prosecute corruption—closing avenues for abuse before they appear."
+
+  PRC_continue_eco_dev: "Sustain Ecological Development"
+  PRC_continue_eco_dev_desc: "“Lucid waters and lush mountains are invaluable assets.” To better meet our people’s desire for a happy life, we will accelerate improvements to our ecological environment."
+
+  PRC_integrate_sezs: "Integrate Special Economic Zones"
+  PRC_integrate_sezs_desc: "Legacy SEZ boundaries no longer fit current needs. By consolidating and coordinating SEZs, we can unlock their advantages for the next stage of development."
+
+  PRC_expand_resource_excavation: "Expand Resource Extraction"
+  PRC_expand_resource_excavation_desc: "Rising demand requires more extraction. Though it cuts against our greener vision, society must advance; responsibly scaling extraction now will give us room to maneuver later."
+
+  PRC_chinese_green_rev: "China’s Green Revolution"
+  PRC_chinese_green_rev_desc: "Resources are finite; sustainability is the path. We will expand support for environmental industries and launch a new green industrial revolution in China."
+
+  # =========================
+  # Workforce, Talent & Industry
+  # =========================
+  PRC_professional_dev: "Professionalize the Workforce"
+  PRC_professional_dev_desc: "Compulsory education has produced a vast talent reserve. Expanding vocational and professional training will inject fresh vitality into China’s future development."
+
+  PRC_cheap_foreign_spec: "Affordable Foreign Experts"
+  PRC_cheap_foreign_spec_desc: "Bringing in more overseas talent and embedding foreign best practices into production will strengthen our edge in global competition."
+
+  PRC_modernization_of_military_prod: "Modernize the Defense Industry"
+  PRC_modernization_of_military_prod_desc: "Civil industry is surging; defense industry must not lag. We will upgrade military production lines to modern standards that meet force-building needs."
+
+  PRC_stimulate_fertility: "Stimulate Births"
+  PRC_stimulate_fertility_desc: "Urbanization and industrialization have depressed fertility. We will adjust family policy and incentives to support higher birth rates and safeguard long-term development."
+
+  PRC_real_estate_market_stab: "Soft-Land the Housing Market"
+  PRC_real_estate_market_stab_desc: "Speculative capital inflated a dangerous property bubble. To avoid a Japan-style crash, we will guide the market to a soft landing through calibrated measures."
+
+  PRC_fund_space_dev: "Fund Space R&D"
+  PRC_fund_space_dev_desc: "Space represents a nation’s technological frontier. Strong support for our space sector showcases industrial strength and leadership in cutting-edge science."
+
+  # =========================
+  # Crisis, Security & Party Reorganization
+  # =========================
+  PRC_chinas_most_dire_hour: "China’s Most Dire Hour"
+  PRC_chinas_most_dire_hour_desc: "The ancient vessel again lists in rough seas. Though the helm seems lost, we will not abandon hope. Only steadfast faith can carry us toward the distant light."
+
+  PRC_chinas_spot_in_the_sun: "Rise of Huaxia"
+  PRC_chinas_spot_in_the_sun_desc: "Building a military that defends national interests with modern combat capability is a fundamental, enduring task. Defense modernization will remain ‘always on the road’—not an empty slogan."
+
+  PRC_empower_the_mss: "Empower the Ministry of State Security"
+  PRC_empower_the_mss_desc: "Our state security comrades will strike hard at society’s parasites—without leniency. They will use every necessary measure to safeguard order and stability."
+
+  PRC_reorganize_the_party: "Reorganize Party Structures"
+  PRC_reorganize_the_party_desc: "We must restore public trust in the Party: only under Party leadership can China secure a bright future. The CPC is the sole force to lead the nation to prosperity."
+
+  PRC_recreate_the_red_guards: "Party Leadership"
+  PRC_recreate_the_red_guards_desc: "Obedience to Party leadership is every citizen’s duty and the foundation of lasting stability. To reject Party leadership is to betray the people and the nation."
+
+  PRC_reorient_the_economy: "Reorient the Economy"
+  PRC_reorient_the_economy_desc: "Our economy is a lone boat in a gale—industries struggling, markets volatile, livelihoods strained. Without timely action, we may lose the course."
+
+  PRC_strengthen_the_chairman: "Strengthen the Chairman’s Power"
+  PRC_strengthen_the_chairman_desc: "History shows dynasties fell when central will could not be enforced. We will reinforce central authority and ensure absolute loyalty across departments to preserve unity and stability."
+
+  PRC_increase_party_democracy: "Improve Intra-Party Democracy"
+  PRC_increase_party_democracy_desc: "We must unify Party thought and rally all members. Marching in step under Party guidance is essential to lead China out of turbulence."
+
+  # =========================
+  # Demographics & Employment
+  # =========================
+  PRC_tackle_youth_unemployment: "Tackle Youth Unemployment"
+  PRC_tackle_youth_unemployment_desc: "Youth are society’s engine. Too many now stand on the sidelines. If we cannot provide jobs and pathways, the pulse of development will slow."
+
+  PRC_tackle_the_demographic_collapse: "Address Demographic Decline"
+  PRC_tackle_the_demographic_collapse_desc: "Persistently low births are an undercurrent reshaping our future. If we fail to act, aging and stagnation will follow on an unprecedented scale."
+
+  # =========================
+  # Forces, Missiles & Lessons Learned
+  # =========================
+  PRC_modernize_the_missile_corps: "Modernize the Missile Forces"
+  PRC_modernize_the_missile_corps_desc: "Aircraft are only half the arsenal—missiles matter equally. Our PL series AAMs and HQ series SAMs are world-class, but we will further raise domestic content and integration to meet operational needs."
+
+  PRC_prepare_for_the_next_war: "Sharpen the Spear"
+  PRC_prepare_for_the_next_war_desc: "Greater trials lie ahead for the PLA and the Chinese people. With the drums of war echoing across the world, Asia will not be immune. We must prepare for harsher contests."
+
+  PRC_lessons_from_the_taiwan_war: "Lessons from the Taiwan War"
+  PRC_lessons_from_the_taiwan_war_desc: "The Taiwan campaign was our largest conflict in four decades and the 21st century’s largest multi-domain amphibious operation. We will distill its classic cases to guide the next fight."
+  
+  # =========================
+  # Historical Narrative & Regional Influence
+  # =========================
+  PRC_honor_the_past_dynasties: "Restore the Glory of History"
+  PRC_honor_the_past_dynasties_desc: "Once we were a civilization that shaped the world—our cavalry thundered across the steppe, our wealth and splendor drew distant envoys. We have no reason to scorn that legacy. We will reclaim the mantle of a great civilization and let Chinese brilliance shine for centuries to come."
+
+  PRC_eadi_war_games: "Coordinate with ASEAN"
+  PRC_eadi_war_games_desc: "With China’s digitized command-and-control and information systems, joint planning and exercises now give our partners a substantial uplift in readiness and integration."
+
+  PRC_masters_of_asia: "Master of Asia"
+  PRC_masters_of_asia_desc: "For millennia, the Middle Kingdom stood at the political, economic, and cultural center of East Asia. Drawing on that legacy—and on modern strength—we will ensure our neighbors respect our leadership and our security interests."
+
+  # =========================
+  # Ground Forces & Special Operations
+  # =========================
+  PRC_sharpen_the_southern_blade: "Hone the Southern Blade"
+  PRC_sharpen_the_southern_blade_desc: "Formed in the 1980s as auxiliaries for ‘local wars under high-tech conditions,’ our Army special forces can be reformed into a precision instrument—optimized for counterterrorism, clandestine tasks, deep reconnaissance, and strategic raids."
+
+  PRC_expand_the_thunder_gods: "Expand the ‘Thunder God’ Commandos"
+  PRC_expand_the_thunder_gods_desc: "The Airborne Corps has a proud record—from stability operations to joint drills and disaster relief. The elite ‘Thunder God’ unit will anchor a major expansion of airborne formations, learning from historical Soviet mass-airborne doctrine to play starring roles in decisive campaigns."
+
+  PRC_next_generation_army: "Next-Generation Army"
+  PRC_next_generation_army_desc: "Upgrading PLA ground combat power is our hardest modernization task. We must replace vast legacy inventories, absorb new technologies, and train soldiers and NCOs to operate them with skill and confidence."
+
+  PRC_improve_officer_training: "Improve Officer Training"
+  PRC_improve_officer_training_desc: "Commanders are the PLA’s brain and nervous system. We will raise commissioning standards, expand National Defense University curricula, and emphasize operational art and strategic thinking across the officer corps."
+
+  PRC_modern_special_forces: "Modernize Special Operations Forces"
+  PRC_modern_special_forces_desc: "Pilot reforms have paid off. Now we will scale them across all special operations brigades—standardizing selection, kit, and doctrine to create a force that breaks the enemy’s will with speed and precision."
+
+  PRC_militarize_society: "Militarize Society"
+  PRC_militarize_society_desc: "Service in uniform must be honored. Society should understand that the armed forces are the nation’s shield and sinew. Those able to serve will be encouraged to do so, and national institutions will prioritize support to defense."
+
+  # =========================
+  # Navy: Production, Doctrine & Sea Control
+  # =========================
+  PRC_a_blue_water_navy: "People’s Navy"
+  PRC_a_blue_water_navy_desc: "Founded on 23 April 1949, the PLA Navy safeguards sovereignty and maritime rights, contributes public security goods, and supports a shared maritime future. With deepening technical cooperation and growing capacity, it is becoming a pillar of regional and oceanic stability."
+
+  PRC_increase_naval_production: "A Renewed People’s Navy"
+  PRC_increase_naval_production_desc: "Many PDO states field capable fleets—Japan foremost among them. Past pain lives in memory, but the future is ours: in both scale and quality our shipbuilding surge will overmatch any adversary."
+
+  PRC_carrier_primacy: "Carrier Primacy"
+  PRC_carrier_primacy_desc: "Carrier strike groups once defined only a few navies. Today, carrier decks under the Five-Star Red Flag are a familiar sight in the Western Pacific. We will grow naval aviation and expand a balanced carrier force."
+
+  PRC_supremacy_above_and_below_waters: "Supremacy Above and Below the Waves"
+  PRC_supremacy_above_and_below_waters_desc: "Blue-water power needs both surface and subsurface strength. Critics once doubted our undersea tech; those days are over. We will pair advanced submarine forces with a formidable surface fleet."
+
+  PRC_dominate_south_china_sea: "Secure the South China Sea"
+  PRC_dominate_south_china_sea_desc: "The South China Sea is vital to our security and prosperity. With fortified reefs, surveillance networks, and forward-deployed forces, we will deny threats and uphold stable maritime order."
+
+  PRC_redefine_naval_warfare: "Redefine Naval Warfare"
+  PRC_redefine_naval_warfare_desc: "As Mahan shaped U.S. sea power, we will refine concepts for distributed lethality, sea denial, and integrated fires—ensuring initiative and advantage in future maritime conflicts."
+
+  # =========================
+  # Airpower & Air–Sea Integration
+  # =========================
+  PRC_next_generation_airforce: "People’s Air Force"
+  PRC_next_generation_airforce_desc: "Airpower decides modern wars. We will expand the PLAAF’s edge in sensors, stealth, long-range strike, and command networks—ensuring air superiority when it matters most."
+
+  PRC_dominate_the_skies: "Command the Skies"
+  PRC_dominate_the_skies_desc: "The PLAAF fields the world’s largest fighter inventory, but legacy types remain. We will recapitalize across bombers, fighters, and strike aircraft—networked and survivable."
+
+  PRC_rain_fire_from_above: "Elite Marine Commandos"
+  PRC_rain_fire_from_above_desc: "The ‘Jiaolong’ commandos are among our oldest special units and the sharp edge of the Marine Corps. With expanded recruitment, reequipped arsenals, and revamped training, they will deliver outsized effects in littoral and expeditionary ops."
+
+  PRC_air_navy_coordination: "Air–Sea Coordination"
+  PRC_air_navy_coordination_desc: "Since WWII, sea control has depended on airpower. Given our theater, tight PLAAF–PLAN integration is essential: coastal air cover, far-seas ISR, and layered fleet air defense will be our standard."
+
+  PRC_trust_in_the_pilot: "Drone Warfare"
+  PRC_trust_in_the_pilot_desc: "Uncrewed systems proved decisive in the Taiwan campaign. We will field advanced HALE/MALE UAVs and broaden missions—from ISR and jamming to air-to-air teaming and strike."
+
+  PRC_deus_ex_machina_nat: "Deus ex Machina"
+  PRC_deus_ex_machina_nat_desc: "Our designers prioritize flight control and avionics. With rapid advances in domestic electronics, we will harden EW suites, improve human–machine interfaces, and issue superior communications gear to aircrews."
+  
+  PRC_streamline_aircraft_production: "Aircraft Production Lines"
+  PRC_streamline_aircraft_production_desc: "Victory favors the side that fields more capable arms. We will fund expanded, more efficient lines at Shenyang (SAC), Chengdu (CAC), Xi’an (XAC), and Hongdu to scale output of urgently needed aircraft."
+
+  # =========================
+  # National Cohesion & Revolutionary Messaging
+  # =========================
+  PRC_unity_nationalism_revolution: "Unity, Nation, Revolution"
+  PRC_unity_nationalism_revolution_desc: "As the vanguard of the Chinese nation, our mission is to unite and lead all peoples. True independence requires uprooting imperialism and feudal remnants, building a socialist state centered on the Chinese nation."
+
+  PRC_national_fanaticism: "National Fervor"
+  PRC_national_fanaticism_desc: "Centuries of conflict left scars—and narratives. When diplomacy strains, history can mobilize support for national defense and decisive action."
+
+  PRC_will_of_the_chinese_people: "Will of the Chinese People"
+  PRC_will_of_the_chinese_people_desc: "No war is won without the people. Through patriotic messaging, shared sacrifice, and deep PLA–society integration, our struggle will be sustained by 1.4 billion citizens."
+
+  # =========================
+  # Army Doctrine & Force Emphasis
+  # =========================
+  PRC_mobile_warfare_nat: "Swift as the Wind"
+  PRC_mobile_warfare_nat_desc: "Mobility wins modern wars. With force-wide mechanization achieved, we now push tempo, logistics, and combined-arms integration to exploit speed and shock."
+
+  PRC_infantry_primacy_nat: "The Finest Soldiers"
+  PRC_infantry_primacy_nat_desc: "Courage, loyalty, and mission focus define victory. Advanced training and political education will forge infantry who are disciplined, resilient, and second to none."
+
+  PRC_tank_primacy_nat: "Great Wall of Steel"
+  PRC_tank_primacy_nat_desc: "Firepower is the backbone of land warfare. Since 2016 we have revitalized artillery and armor; now we deepen modernization to deliver overwhelming, precise ground fires."
+
+  PRC_tidal_wave_of_bodies: "Steel Torrent"
+  PRC_tidal_wave_of_bodies_desc: "From German blitzkrieg to Soviet deep battle, massed, fast-moving armor breaks lines and wills. Our armored formations will deter any foe through scale, tempo, and lethality."
+
+  # =========================
+  # Regional Coordination & Joint Ops
+  # =========================
+  PRC_coordinate_eadi_militaries: "Coordinate ASEAN Militaries"
+  PRC_coordinate_eadi_militaries_desc: "In the Myanmar intervention, ASEAN forces will deploy under unified command. We will host discreet training areas in China for joint drills to align tactics, comms, and logistics before entry."
+
+  # =========================
+  # Strategic Campaigns & Operations
+  # =========================
+  PRC_operation_wu_qi: "§YWuqi Operation§!"
+  PRC_operation_wu_qi_desc: "Comrades—hear the drums, and the cries of Asia’s peoples under oppression. Our generation must raise the torch, sweep the Pacific, and uproot imperialist power across the continent so that dignity and peace can take root."
+
+  # =========================
+  # Party Narrative, Vetting & Purges
+  # =========================
+  PRC_rewrite_the_history_of_the_party: "Rewrite Party History"
+  PRC_rewrite_the_history_of_the_party_desc: "Past narratives bent for fragile compromises. Now we present the Party’s true course and achievements—showing that only its leadership can guarantee stability and prosperity."
+
+  PRC_social_credit: "Society-Wide Political Vetting"
+  PRC_social_credit_desc: "Lax screening let corruption and disloyalty fester. We will tighten political vetting—extending checks to family, associates, and workplaces—to safeguard Party cohesion and discipline."
+
+  PRC_purge_the_liberal_reformers: "Purge Liberal Reformers"
+  PRC_purge_the_liberal_reformers_desc: "So-called ‘liberals’ led the country toward fracture. We will prosecute those who undermine unity and stability."
+
+  PRC_purge_the_communist_hardliners: "Purge Communist Hardliners"
+  PRC_purge_the_communist_hardliners_desc: "Reactionary hardliners would drag China back to isolation and turmoil. We will remove those who reject necessary change and obstruct the future."
+
+  # =========================
+  # Law, Culture & Social Control
+  # =========================
+  PRC_instill_legalist_values: "Promote Legalist Values"
+  PRC_instill_legalist_values_desc: "‘Use law to end law’—firm, predictable penalties deter disorder. We will apply resolute measures to make defiance of state authority an unthinkable path."
+
+  PRC_revive_traditional_culture: "Revive Traditional Culture"
+  PRC_revive_traditional_culture_desc: "Cultural infiltration erodes confidence and cohesion. We will elevate classical traditions and narratives to anchor values against external subversion."
+
+  PRC_instill_confucious_values: "Infuse Confucian Ethics"
+  PRC_instill_confucious_values_desc: "Confucian ideals of public virtue and the common good echo socialist aims. We will integrate these traditions with modern governance to strengthen ideological integrity."
+
+  PRC_expand_the_surveillance_state: "Expand Surveillance"
+  PRC_expand_the_surveillance_state_desc: "Hidden threats adapt faster than outdated tools. We will densify sensors, analytics, and coverage so every space and seam falls within our protective awareness."
+
+  # =========================
+  # Civilizational Narrative
+  # =========================
+  PRC_the_great_chinese_nation: "The Great Chinese Nation"
+  PRC_the_great_chinese_nation_desc: "From ice fields to deserts, rainforests to steppe, Chinese footprints mark human progress. Our civilization has shaped the world—and will continue to do so in the centuries ahead."
+
+  PRC_the_organic_state: "The Organic State"
+  PRC_the_organic_state_desc: "Sun Yat-sen opened the modern chapter; Mao set the socialist course; in the 21st century, under the PLA’s shield and the people’s drive, the nation stands tall again. We carry forward past brilliance to meet a brighter future."
+  
+  PRC_national_rebirth: "National Rebirth"
+  PRC_national_rebirth_desc: "An unseen hand passes over boundless rivers and mountains,\nIts fingers stained with blood and ash, its palm with shadow.\nOnly a distant corner remains intact—\nWarm, bright, firm, and bursting with spring.\nI gather all my strength into my palm,\nPress it there, entrusting love and every hope,\nFor only there is the sun, is spring,\nThat drives out darkness and brings renewal—\nOnly there do we not live like beasts\nNor die like ants…\nThere, the eternal China!"
+
+  PRC_revolt_against_the_modern: "Revolt Against the ‘Modern’"
+  PRC_revolt_against_the_modern_desc: "The West’s ‘modernity’ wallows in decadence and nihilism, belittling our culture and denying millennia of heritage. We will shatter that imposed yoke, defend our dignity and belief, and reject narratives that render Chinese descendants ignorant or ashamed."
+
+  PRC_the_kingdom_of_heaven: "Key to the All-Seeing, All-Knowing"
+  PRC_the_kingdom_of_heaven_desc: "Every camera, processor, and datum on this land lies within our grasp. Those who fancy themselves hidden in darkness are already mapped—every motion, every word—observed and attributable."
+
+  PRC_a_reformed_peoples_republic: "Bedrock of the Red Republic"
+  PRC_a_reformed_peoples_republic_desc: "Crisis proves it: soldier-statesmen deliver stability and resolve. Where civilian factions barter endlessly, disciplined command cuts through chaos and preserves national continuity."
+
+  PRC_the_celestial_empire: "Ascendant Celestial Empire"
+
+  # =========================
+  # Domestic Recovery & Mass Mobilization
+  # =========================
+  PRC_spur_domestic_production: "Stimulate Domestic Industry"
+  PRC_spur_domestic_production_desc: "Reviving homegrown production relights the engine of recovery, restores resilience, and underwrites true economic independence amid global headwinds."
+
+  PRC_public_works_campaign: "Public Works Campaign"
+  PRC_public_works_campaign_desc: "A surge in national works will create jobs at scale and inject durable demand, while upgrading the foundations of long-term growth."
+
+  PRC_youth_military_brigades: "Youth to the Colors"
+  PRC_youth_military_brigades_desc: "Call the young to serve. In uniform they forge discipline, grit, and unity—becoming a living shield for the future."
+
+  PRC_youth_construction_brigades: "Youth Construction Brigades"
+  PRC_youth_construction_brigades_desc: "Send youth to sites and frontiers—to the vast lands where the nation needs them most—so they lay the groundwork, by their own hands, for the future they will inherit."
+
+  # =========================
+  # Labor, Gender & Social Organization
+  # =========================
+  PRC_state_syndicalism: "State Syndicalism"
+  PRC_state_syndicalism_desc: "Workers lead the Republic. After decades favoring entrepreneurs for organizational capacity, we rebalance toward a polity that substantively represents labor and renews its civic virtues."
+
+  PRC_women_in_the_workforce: "Women in the Workforce"
+  PRC_women_in_the_workforce_desc: "Women hold up half the sky—pillars of family and essential to national productivity. Their talents should flourish across all sectors."
+
+  PRC_traditional_gender_roles: "Traditional Gender Roles"
+  PRC_traditional_gender_roles_desc: "A nation is a great tree; new life is its sap. We will honor motherhood’s role in renewal and encourage higher births to sustain vitality."
+
+  PRC_the_new_revolutionary_woman: "The New Revolutionary Woman"
+  PRC_the_new_revolutionary_woman_desc: "Women hold up half the sky!"
+
+  PRC_national_corporatism: "National Corporatism"
+  PRC_national_corporatism_desc: "To shape policy for the real economy, we must face intensifying social frictions—especially between capital and labor. The state will act as stabilizing arbiter to reconcile interests and maintain cohesion."
+
+  PRC_subsidize_child_raising: "Child-Raising Subsidies"
+  PRC_subsidize_child_raising_desc: "Birth is easy; rearing is hard. Robust allowances, services, and housing support can lift fertility and gradually rejuvenate demographics."
+
+  PRC_reconstruct_the_iron_rice_bowl_nat: "Reforge the Iron Rice Bowl"
+  PRC_reconstruct_the_iron_rice_bowl_nat_desc: "Excess churn in the civil service erodes continuity and enables malfeasance. We will stabilize tenures within a rigorous, rules-bound system to safeguard execution."
+
+  PRC_synthesis_of_state_and_labor: "State–Worker Complex"
+  PRC_synthesis_of_state_and_labor_desc: "A strong national union architecture lets us allocate labor efficiently across regions and projects while ensuring real welfare protections for workers."
+
+  # =========================
+  # Markets, Ownership & Consumption
+  # =========================
+  PRC_restrict_the_markets: "Restrict the Markets"
+  PRC_restrict_the_markets_desc: ""
+
+  PRC_absorb_western_enterprise: "Absorb Western Enterprise"
+  PRC_absorb_western_enterprise_desc: "Western firms will cease to be parasites and serve national and popular interests. Brands are façades; behind the signboard, all value is built by our hands—and shall be aligned with state goals."
+
+  PRC_decommodification_nat: "De-Commodification"
+  PRC_decommodification_nat_desc: "Consumerism eroded thrift and self-discipline. We will strip away the false halo of luxury and spectacle so people see goods as means, not idols."
+
+  # =========================
+  # Values, Prosperity & Social Narrative
+  # =========================
+  PRC_to_struggle_is_to_live: "Struggle Makes a Good Life"
+  PRC_to_struggle_is_to_live_desc: "Guard minds against decadent lures. We will resist corrosive imports that dissolve tradition and mislead the people."
+
+  PRC_to_prosper_is_to_live: "Prosperity Makes a Good Life"
+  PRC_to_prosper_is_to_live_desc: "Shelves are full, patients are treated without ruinous cost, and homes are affordable—an era of people’s prosperity in which we stride forward with confidence."
+
+  # =========================
+  # Financial System & Real Economy
+  # =========================
+  PRC_definancialization: "De-Financialization"
+  PRC_definancialization_desc: "The market’s cold numerals seduce fortunes into a mirage. We will curb speculative excess so finance serves production rather than devouring household wealth."
+
+  # =========================
+  # Cadre Renewal & Governance
+  # =========================
+  PRC_reinvigorate_the_cadres_nat: "Reinvigorate the Cadres"
+  PRC_reinvigorate_the_cadres_nat_desc: "Bureaucrats grew distant—reading numbers from soft chairs. Bring them out of offices and into the field to relearn the people’s needs first-hand."
+
+  # =========================
+  # Pragmatic Economics
+  # =========================
+  PRC_a_pragmatic_economy: "Pragmatic Economic Policy"
+  PRC_a_pragmatic_economy_desc: "No empty slogans, no unattainable targets—policy must be felt by the people: higher employment, rising incomes, and faster productivity growth already attest to our approach."
+  
+  # =========================
+  # Economic Line & Regional Strategy
+  # =========================
+  PRC_productivism_over_distributionism: "Production Over Distribution"
+  PRC_productivism_over_distributionism_desc: "Only by continuously scaling production can we lay a firm foundation for national development. From industry and agriculture to services and frontier tech, output growth is not mere accumulation—it is competitiveness made concrete and national power expressed in totals and throughput."
+
+  PRC_all_under_the_soe: "All Under the SOE"
+  PRC_all_under_the_soe_Desc: "Along with private enterprise came the West’s degeneracies—capital’s greed and factional pursuit corroding a once-sturdy core. Experience shows that state-owned enterprise is the final home of industry. Under unified planning and control, firms align with national priorities and serve the people."
+
+  PRC_joint_eadi_development_nat: "Joint EADI Development"
+  PRC_joint_eadi_development_nat_desc: "Asia is a civilizational family—kin by history and culture. Let us bridge old rifts, pool capital and technology, and co-develop corridors, grids, ports and digital rails to meet a shared dawn."
+
+  PRC_extraction_from_the_periphery: "Extract from the Periphery"
+  PRC_extraction_from_the_periphery_desc: "We liberated oppressed brothers and lifted the yoke from their necks. Liberation, however, is not without cost: their resources and markets will help amortize the burden of our stabilizing mission."
+
+  PRC_control_the_market: "Regulate the Market"
+  PRC_control_the_market_desc: "We will shape prices and flows with targeted quotas, anti-monopoly enforcement, capital controls and strategic reserves—tamping speculation, protecting households, and ensuring critical inputs reach priority sectors first."
+
+  PRC_endorse_the_megaprojects: "Champion Megaprojects"
+  PRC_endorse_the_megaprojects_desc: "Envision a spire that punctures the sky—a silhouette that commands awe and pride. Monumental works manifest capacity, organize supply chains, and proclaim confidence. We will promote such nation-signature projects."
+
+  PRC_send_chinese_peacekeepers: "Dispatch Chinese Peacekeepers"
+  PRC_send_chinese_peacekeepers_desc: "We will deploy peacekeepers to global flashpoints—preserving order while quietly building logistics, goodwill, and commercial footholds that extend national interests in complex theaters."
+
+  PRC_class_collaborationism: "Class Collaborationism"
+  PRC_class_collaborationism_desc: "Capital, labor, and the state will be organized into formal councils to negotiate wages, investment, and standards. The government arbitrates, converting zero-sum conflicts into coordinated growth and social peace."
+
+  PRC_secure_the_sinosphere: "Secure the Sinosphere"
+  PRC_secure_the_sinosphere_desc: "Chinese civilization is both inheritance and world treasure. We will defend cultural sovereignty, invest in classics and language, and knit the wider Sinosphere—diaspora, media, and institutions—into a resilient community."
+
+  PRC_sinofuturism_nat: "Sinofuturism"
+  PRC_sinofuturism_nat_desc: "Safeguarding the future of the Chinese nation demands shared values, scientific literacy, and sustainability. We will cultivate youth ethos, align incentives with green growth, and design an economy that endures for centuries."
+
+  PRC_the_national_economic_revolution: "National Economic Revolution"
+
+  # =========================
+  # Liberal Reform Path (Alt)
+  # =========================
+  china_liberal_focus: "China Reform"
+  PRC_the_chinese_glasnost: "Beijing Spring"
+  PRC_the_chinese_glasnost_desc: "Heirs to Reform and Opening have wrested power from hypocritical conservatives and grasping oligarchs. The capital’s upheaval is settled; a fragile but real victory is won. We now consolidate key posts to preempt reaction."
+
+  PRC_open_the_window: "Open the Window to the World"
+  PRC_open_the_window_desc: "Recent years saw foreign press and rights observers shut out, culminating in confrontation over Xinjiang. To advance our agenda, outside sympathy and assistance are essential. We will invite scrutiny, cooperate where prudent, and rebuild credibility abroad."
+
+  PRC_reform_the_upper_leadership: "Full Speed Ahead!"
+  PRC_reform_the_upper_leadership_desc: "Since 1989, reformist voices were muzzled under the talisman of ‘development first.’ We will not entrench past errors. Structural reform begins now—and faster is better."
+
+  PRC_roll_back_censorship_programs: "Reform Local Leadership"
+  PRC_roll_back_censorship_programs_desc: "Local governments amassed privileges—direct deals with banks and firms, command over police—breeding corruption. We will prune and restructure local authority, separate powers, and raise probity and efficiency."
+
+  PRC_release_the_tianmen_archives: "Reform the Ministry of State Security"
+  PRC_release_the_tianmen_archives_desc: "The MSS commands vast networks with heavy political weight—an existential risk to reform. Replace partisan ministers with loyal professionals, codify oversight, and bind operations to law and national—not personal—interest."
+
+  PRC_establish_the_principles_of_confucian_democracy: "Embrace Communitarianism"
+  PRC_establish_the_principles_of_confucian_democracy_desc: "Democracy is our north star, but not atomized liberalism. We privilege collective goods, social duties, and community councils—adapting representation to civilizational norms while preserving stability."
+
+  PRC_special_political_zones: "Pragmatic Reform"
+  PRC_special_political_zones_desc: "Haste scalds the tongue. Reform contests millennia of habit; we will align internal factions, recruit dependable allies in state and party, and neutralize retired patrons before pushing deeper."
+  
+  # =========================
+  # Liberal Reform – Central/Local Governance & Media
+  # =========================
+  PRC_encourage_provincial_autonomy: "Consolidate Guiding Principles"
+  PRC_encourage_provincial_autonomy_desc: "Factional infighting once crippled governance. We will not repeat that error. Reform must be executed with firm vertical discipline, and the whole Party must unite closely around the Central Committee with Comrade Wang Yang as General Secretary to ensure clarity of purpose and unity of action."
+
+  PRC_praise_the_wukan_model: "Back Loyal Centralist Reformers"
+  PRC_praise_the_wukan_model_desc: "The USSR’s liberalization failed—and the Union shattered—because Party leadership abdicated control and admitted hostile elements into the state. We will not permit a second Gorbachev. Reform will be entrusted only to those loyal to the Party and the nation."
+
+  PRC_support_pro_democracy_candidates: "Uproot the Weeds"
+  PRC_support_pro_democracy_candidates_desc: "Endless anti-corruption drives have exposed a bloated apparatus of obsolete posts and redundant offices—breeding lethargy and graft. We will sweep the system clean, retaining only structures and cadres that truly add value."
+
+  PRC_question_the_four_cardinal_principles: "Prepare Soil for Reform"
+  PRC_question_the_four_cardinal_principles_desc: "Reform requires social consensus. We will amplify messaging, widen exposure for new policies, and empower official media—up to a dedicated leadership interview with General Secretary Wang Yang—so citizens understand the program and its aims."
+
+  PRC_rehabilitate_political_dissidents: "‘Provincial Autonomy’ Initiative"
+  PRC_rehabilitate_political_dissidents_desc: "Center–provincial friction has long threatened stability—even national unity. Drawing on successful federal practices abroad, we will grant measured self-government to provinces and their citizens while preserving the inviolable authority of the center."
+
+  PRC_push_for_local_democracy: "Thaw the Chinese Media"
+  PRC_push_for_local_democracy_desc: "Our state has been criticized for suppressing journalists and monopolizing news. We will gradually relax reporting controls and loosen the Party’s grip on channels so the public can increasingly access verified, plural sources."
+
+  PRC_relax_censorship_laws: "Unshackle the National People’s Congress"
+  PRC_relax_censorship_laws_desc: "In theory, the NPC is supreme; in practice, the Politburo rules and the NPC ratifies. Reform ends this fiction. We will raise the NPC’s institutional weight and participation, turning deputies into genuine tribunes of the people."
+
+  PRC_unchain_the_united_front: "‘Great Society’ Initiative"
+  PRC_unchain_the_united_front_desc: "The Party’s end goal is common well-being. With political obstacles receding, we will launch inclusive welfare programs spanning housing, health, and education, and refresh our environmental agenda—lightening household burdens and brightening prospects."
+
+  PRC_remove_the_guiding_role: "‘Service-Oriented Government’ Initiative"
+  PRC_remove_the_guiding_role_desc: "As Premier Li Keqiang urged, we will streamline administration and devolve power. Government steps back from paternalism and leans into service delivery—unleashing civic and economic initiative while improving state efficiency."
+
+  PRC_the_chinese_spring: "Springtime for China"
+  PRC_the_chinese_spring_desc: "Early reforms are bearing fruit. A fresher political climate and energized society win praise—even from erstwhile conservatives. We will press the advantage, deepen change, and replicate proven policies nationwide."
+
+  PRC_promote_political_participation: "Broaden Political Participation"
+  PRC_promote_political_participation_desc: "We will expand consultative forums, open primaries and local hearings, and professionalize civic organizations—channeling social energy into lawful participation that strengthens legitimacy and policy quality."
+
+  # =========================
+  # Liberal Reform – Economic Program
+  # =========================
+  PRC_economic_cake_growth: "Grow the ‘Economic Cake’"
+  PRC_economic_cake_growth_desc: "As Wang Yang argued in Guangdong, prosperity must be expanded before it is divided. Sustained growth raises living standards broadly and creates the fiscal space for fairer distribution—paving the road to common prosperity."
+
+  PRC_break_soe_hegemony: "Break SOE Hegemony"
+  PRC_break_soe_hegemony_desc: "SOEs dominate transport, energy, tobacco and more—Leviathans entwined with bureaucracy. To revive dynamism, we will undertake major surgery on sclerotic, inefficient, and corrupt state giants."
+
+  PRC_chinese_theory_corporatism: "A Chinese Theory of Corporatism"
+  PRC_chinese_theory_corporatism_desc: "Widening inequality and rough competition fuel social strain. We will institutionalize sectoral councils of labor, capital, and the state—to set fair baselines, curb race-to-the-bottom practices, and align growth with social order."
+
+  PRC_introduce_separation_state_economy: "Separate State and Economy"
+  PRC_introduce_separation_state_economy_desc: "SASAC-controlled conglomerates and state-dominated finance can move markets—yet helped incubate structural crises, notably in property. Only root-and-branch reform can put the economy beyond recurring systemic risk."
+
+  PRC_encourage_competition: "Encourage Competition"
+  PRC_encourage_competition_desc: "With SOE reform underway, we will open formerly closed sectors to private entrants, enforce antitrust law, and let competition cull the weak—raising productivity and international competitiveness."
+
+  PRC_ten_strikes_burdensome_tarrifs: "Strike at Burdensome Tariffs"
+  PRC_ten_strikes_burdensome_tarrifs_desc: "Markets do not flourish under arbitrary levies and local protectionism. We will cut targeted taxes and fees for key firms, discipline parochial barriers, and standardize the national market so enterprise can breathe."
+  
+  PRC_final_blow_iron_bowl: "End the Iron Rice Bowl"
+  PRC_final_blow_iron_bowl_desc: "It is time to advance the most controversial, most radical reform. Posts in state-owned entities—long called the “iron rice bowl” for their benefits and stability—will become history. Welfare will shift toward performance incentives. Stricter evaluations and streamlining will cut headcount substantially and raise labor mobility across SOEs and public institutions."
+
+  PRC_preserve_two_mountain_theory: "Uphold the Two Mountains Theory"
+  PRC_preserve_two_mountain_theory_desc: "The real economy is China’s lifeblood and the foundation of national competitiveness. Our development focus must anchor in the real economy while embracing sustainability—so our children inherit a viable future."
+
+  PRC_encourage_digitalization: "Encourage Digitalization"
+  PRC_encourage_digitalization_desc: "In the 21st century, the virtual—or digital—economy is integral to advanced nations and a hub to global markets. We will elevate the digital economy as a priority track, improve institutions around it, and attract and encourage greater investment."
+
+  PRC_sez_expansion: "Expand Special Economic Zones"
+  PRC_sez_expansion_desc: "SEZs—Deng Xiaoping’s innovation—pilot reform in limited areas, distill what works, then scale nationally. This lowers systemic risk and builds support. We will extend this great policy tradition and adapt it to current needs."
+
+  PRC_set_free_private_defense_companies: "Unshackle the Private Sector"
+  PRC_set_free_private_defense_companies_desc: "Private enterprise is the most dynamic part of our economy. We will further encourage entrepreneurship and innovation, champion a “bright outlook” for China’s economy, and relax unnecessary constraints on private business."
+
+  # =========================
+  # Science & Technology, Market Governance
+  # =========================
+  PRC_prioritize_tech_sector: "Technology Leads the Way"
+  PRC_prioritize_tech_sector_desc: "Science and technology are the first productive force—and the first competitive force. We will rally society to the global tech race, and deepen collaboration among state labs, private institutes, and manufacturers."
+
+  PRC_guiding_role_market: "The Market’s Guiding Hand"
+  PRC_guiding_role_market_desc: "We will further strengthen macro-regulatory capacity over the economy and financial markets. The state will act as proactive arbiter and honest broker—promoting growth while safeguarding national interests."
+
+  PRC_harmonization_companies: "Corporate Coordination"
+  PRC_harmonization_companies_desc: "Dedicated liaison groups and committees at central and local levels will mediate corporate frictions to avoid destructive rivalry. Some fear this empowers giants politically; final adjudication remains with the Party, ensuring balance."
+
+  PRC_corporate_autonomism: "Enterprise Autonomy"
+  PRC_corporate_autonomism_desc: "We previously encouraged Party cells in private firms to strengthen oversight. Building on that, we will foster closer Party–entrepreneur cooperation while protecting firms’ freedom to operate and create wealth."
+
+  PRC_reformed_corporate_iron_bowl: "Reform the SOE Iron Rice Bowl"
+  PRC_reformed_corporate_iron_bowl_desc: "We will pair efficiency and competitiveness gains with staffing reforms: leaner rosters, higher entry bars, and genuine mobility—attracting top talent and breathing new life into SOEs."
+
+  # =========================
+  # Wang Yang’s Three Campaigns & Sector Drives
+  # =========================
+  PRC_wang_yang_three_campaigns: "Wang Yang’s Three Campaigns"
+  PRC_wang_yang_three_campaigns_desc: "Answering General Secretary Wang Yang’s call, we will adjust, consolidate, and elevate around three pillars: defense industry, advanced manufacturing, and environmental industries."
+
+  PRC_military_industries_renewal_campaign: "Defense-Industrial Revitalization"
+  PRC_military_industries_renewal_campaign_desc: "National revival and reform rebirth require a strong military—and a healthy defense industry to feed it. Without robust arteries, the force cannot fulfill its mission."
+
+  PRC_china_future_campaign: "China’s Future Campaign"
+  PRC_china_future_campaign_desc: "We must look beyond today’s geopolitics and cycles. Only by fixing our gaze on the horizon can China rise from world factory to a leader in global economy and technology."
+
+  PRC_greening_economy_campaign: "Green Economy Campaign"
+  PRC_greening_economy_campaign_desc: "Unchecked externalities will one day ruin the planet we depend on. China will lead by example—becoming a principal contributor in environmental protection and sustainable growth."
+
+  # =========================
+  # Naval Capacity, Military Standards, Energy & Industry Upgrades
+  # =========================
+  PRC_100_dockyard_plan: "Hundred Dockyards Plan"
+  PRC_100_dockyard_plan_desc: "We will launch a sweeping program to expand and build shipyards—upgrading key facilities in Dalian, Qinhuangdao, Shanghai, Guangzhou, and beyond. Rapidly restoring—and surpassing—our naval capacity is imperative."
+
+  PRC_set_new_military_standarts: "Set New Military Standards"
+  PRC_set_new_military_standarts_desc: "Raise the tech content of our arms, modernize production lines, improve research methods, and reorganize weapons R&D teams—so we can compete with our most dangerous adversaries."
+
+  PRC_lower_tax_high_tech: "Lower Taxes for High-Tech Firms"
+  PRC_lower_tax_high_tech_desc: "High-tech entrepreneurs argue heavy taxes slow scale-up and upgrades. Where once we prioritized revenue and reined in overexpansion, we will now answer with targeted relief to unlock innovation."
+
+  PRC_phased_decommissioning_old_plants: "Phase Out Old Power Plants"
+  PRC_phased_decommissioning_old_plants_desc: "Legacy fossil plants are dirty and inefficient. We will execute a staged, systematic program to replace them with cleaner, more advanced generation assets."
+
+  PRC_encourage_industrial_modernization: "Encourage Industrial Modernization"
+  PRC_encourage_industrial_modernization_desc: "Process upgrades, equipment renewal, and skilled people are the path through tech blockades and economic walls. We will refine workflows and train engineers and shop-floor talent for new lines."
+
+  PRC_invest_mass_smart_manufacturing: "Invest in Large-Scale Smart Manufacturing"
+  PRC_invest_mass_smart_manufacturing_desc: "Beyond tax relief, we will mobilize local investment into high-tech firms—via research grants, reduced land rents, and targeted talent programs—to scale intelligent manufacturing nationwide."
+  
+  PRC_support_agricultural_modernization: "Support Agricultural Modernization"
+  PRC_support_agricultural_modernization_desc: "For over seventy years, the countryside, farmers, and agriculture have borne the burden as the “fuel” of national construction. Only by expanding pathways to rural prosperity and improving living conditions can we resolve this crucial issue at its root."
+
+  PRC_shipbuilding_ingenuity: "Ingenuity in Shipbuilding"
+  PRC_shipbuilding_ingenuity_desc: "We will spur innovation across the shipbuilding sector—robotic assembly and maintenance, AI-assisted hull and systems design, and digital yards—drawing in a new cohort of young, well-trained naval architects and marine engineers."
+
+  PRC_expand_research_development: "Expand R&D"
+  PRC_expand_research_development_desc: "Advanced science and technology will steer tomorrow’s progress. We will not fear failure or dry wells: any project with promising research prospects deserves attention, pilot funding, and institutional support."
+
+  PRC_encourage_domestic_production: "Boost Domestic Materials Industries"
+  PRC_encourage_domestic_production_desc: "New materials are pivotal to industry and informatization. The State Council will coordinate nationwide development while leveraging our strength in rare-earths and other strategic inputs."
+
+  PRC_green_energy_green_vehicles_plan: "\"Green Energy – Green Vehicles\" Plan"
+  PRC_green_energy_green_vehicles_plan_desc: "NEVs are a crown-jewel of high-end manufacturing. We will deepen NEV production and its full upstream–downstream chain, expand solar cell manufacturing, and support Chinese auto brands “going global.”"
+
+  # =========================
+  # Political Narrative & Outcomes
+  # =========================
+  PRC_new_china_model: "The New China Model"
+  PRC_new_china_model_desc: "Under General Secretary Wang Yang’s leadership, our three great economic campaigns have prevailed. The “China Model” is renewed—not a rigid state-capitalist mold, but an organic whole-of-nation engine. China’s prosperity will not be fleeting; it heralds a new era."
+
+  PRC_shameful_display: "A Shameful Display"
+  PRC_shameful_display_desc: "It is over—utterly. We wagered the nation’s future on victory in the Taiwan Strait, only to see it sink with warships and pile up on beaches as fallen soldiers. We must swallow this bitter disgrace while the T.O.A. crows about “freedom and democracy,” and we must now untangle a domestic crisis in chaos."
+
+  # =========================
+  # Crisis Management – Institutions & Streets
+  # =========================
+  PRC_suspend_the_npc: "Suspend the NPC Session"
+  PRC_suspend_the_npc_desc: "Defeat has cost us public trust and internal support; whispers echo through the Great Hall’s corridors. The General Office holds solid evidence that factions are maneuvering to convene a new NPC Standing Committee to “review the errors of the Taiwan defeat.” For now, we can only preserve a façade of unity and pray they do not move in the open."
+
+  PRC_quell_the_protests: "Quell the Protests"
+  PRC_quell_the_protests_desc: "Since our setback in Taiwan, demonstrations have surged: disaffected students, wounded veterans, and bankrupt business owners—victims of sanctions—crowd the streets, condemning not just the defeat but the Party’s folly. Police have been mobilized nationwide, but whether morale and capacity suffice is uncertain."
+
+  PRC_salvage_the_situation: "[salvage_the_situation_dynamic]"
+  PRC_salvage_the_situation_desc: "[salvage_the_situation_dynamic_desc]"
+  salvage_the_situation_fake: "Stabilize the Situation"
+  salvage_the_situation_real: "Military Restores Order"
+
+  # =========================
+  # Hardline Turn
+  # =========================
+  PRC_put_an_end_to_weakness: "Put an End to Weakness"
+  PRC_put_an_end_to_weakness_desc: "We can no longer let Party cadres decide the nation’s fate. Too many are corrupt, feckless, or idealists unfit to govern. We will entrust the Republic to the People’s Liberation Army until the reactionaries are crushed—and Mao’s banner flies high."
+
+  # =========================
+  # Re-Convening Leadership
+  # =========================
+  PRC_prepare_the_new_congress: "Prepare a New Party Congress"
+  PRC_prepare_the_new_congress_desc: "Xi Jinping and his clique have paid for grave errors and crimes. We will convene an extraordinary Central Committee plenum—like those in 1945, 1978, and 1989—to decide the Party and nation’s destiny. Will the Five-Star Red Flag, dyed by martyrs’ blood, still fly high?"
+
+  # =========================
+  # Leadership Choices – Reform Wing
+  # =========================
+  PRC_consolidate_hu_chunhua_support: "Back Hu Chunhua Unequivocally"
+  PRC_consolidate_hu_chunhua_support_desc: "Once tipped as a successor by Hu Jintao, Hu Chunhua served in the CYL and Tibet, entered the Politburo in 2012, and was Vice Premier over agriculture and poverty relief—his achievements often eclipsed by Xi. Respected for youth, modesty, and pragmatism, Hu was sidelined as a rival. Elevating a leader who knows the people’s hardships offers China real hope."
+
+  PRC_wang_yang_connections: "Leverage Wang Yang’s Network"
+  PRC_wang_yang_connections_desc: "Former CPPCC Chair Wang Yang is widely known as a liberal reformer—quick-minded, practical, and reform-minded as Guangdong Party Secretary and as Vice Premier. In stature he outshines the ponderous incumbent. We will choose this worthy son of China as General Secretary to lead the country out of crisis and back to prosperity."
+  
+  # =========================
+  # Extraordinary Plenum & Mandate
+  # =========================
+  PRC_begin_the_session_of_cpc: "Open the Session"
+  PRC_begin_the_session_of_cpc_desc: "We have finally passed what may be the most perilous, most fraught stretch in our modern history. An extraordinary Central Committee plenum has convened in Beijing. All eyes in China are fixed on the Great Hall of the People, expecting their delegates to choose what is right for the nation and the people. We cannot afford to let them down again."
+
+  PRC_the_red_phoenix: "Socialist China Reborn"
+  PRC_the_red_phoenix_desc: "Heaven lays heavy tasks upon the chosen: Hu Chunhua has assumed the post of General Secretary of the CPC. The new central leadership will change the country’s trajectory and guide the great socialist China through phoenix-like rebirth."
+
+  # =========================
+  # Ideological Re-centering
+  # =========================
+  PRC_invite_new_left_scholars: "Invite Left Scholars"
+  PRC_invite_new_left_scholars_desc: "Many in the academy have long argued for a revolutionary path distinct from the post-reform orthodoxy, yet their voices were sidelined. We will bring them to the table—let them speak freely, critique, and advise."
+
+  PRC_humanist_marxism: "Reread Marxism"
+  PRC_humanist_marxism_desc: "Marxism has been distorted—obscured by forced industrialization, purges, and zealotry. We will restore its humanist core: Marx’s profound meditation on human destiny, alienation, and his solidarity with the proletariat."
+
+  PRC_legacy_of_mao: "Teachings of Comrade Mao"
+  # (No separate description provided in source; keep title-only focus node.)
+
+  # =========================
+  # National Narrative & Civil–Military Balance
+  # =========================
+  PRC_fuel_chinese_nationalism: "Reignite Chinese Nationalism"
+  PRC_fuel_chinese_nationalism_desc: "Nationalism has always found deep roots in China; after the Taiwan defeat, we must harness it to restore confidence and unity—carefully, responsibly, and toward constructive nation-building."
+
+  PRC_reconcile_with_militarists: "Reaffirm ‘The Party Commands the Gun’"
+  PRC_reconcile_with_militarists_desc: "Since the strait war, PLA commanders and defense-industry leaders wield rising influence. Some fear they will press advantage. Our duty is pragmatic engagement under firm principle: strengthen cooperation while upholding the Party’s absolute leadership over the gun."
+
+  PRC_denounce_xi_revisionism: "Denounce Xi’s Revisionism"
+  PRC_denounce_xi_revisionism_desc: "Re-center the class narrative. We will critique depoliticized developmentalism, restore analysis of class power and exploitation, and re-anchor policy in labor’s interests, solidarity, and socialist equality."
+
+  # =========================
+  # Leadership Cohesion
+  # =========================
+  PRC_reliable_politburo: "A Reliable Politburo"
+  PRC_reliable_politburo_desc: "The Politburo is the Party’s supreme leadership organ and the locus of real power. At historic inflection points, safeguarding collective cohesion is itself a strategic task—discipline, clarity, and unity above all."
+
+  # =========================
+  # 21st-Century Socialist Renewal
+  # =========================
+  PRC_revolution_of_21_century: "Revolution of the 21st Century"
+  PRC_revolution_of_21_century_desc: "We will creatively develop Marxism and Mao Zedong Thought to fit 21st-century realities—platform capitalism, data power, ecological limits, and intelligentized production—so socialism can again lead history."
+
+  PRC_revive_peoples_war_mindset: "Revive the People’s War Mindset"
+  PRC_revive_peoples_war_mindset_desc: "People’s War was a decisive CPC asset, but advances in military technology pushed it into neglect. After the strait setback, we will renew the doctrine: the nation in arms, society mobilized in depth, and civilians integrated as the resolute rear of the regular forces."
+  
+  # =========================
+  # Rectification & Vanguard Restoration
+  # =========================
+  PRC_right_the_wrongs_of_1978: "Right the Wrongs of 1978"
+  PRC_right_the_wrongs_of_1978_desc: "(No description provided in source text.)"
+
+  PRC_revitilize_peoples_democratic_dictatorship: "Revitalize the People’s Democratic Dictatorship"
+  PRC_revitilize_peoples_democratic_dictatorship_desc: "In pursuit of growth we made too many compromises—such as admitting capitalists into the Party—allowing elite and nascent bourgeois interests to dilute proletarian leadership. We will reverse the drift and restore the Party as a revolutionary vanguard of the working class."
+
+  PRC_popular_socialist_democracy: "Socialism for a New Era"
+  PRC_popular_socialist_democracy_desc: "Socialism must become the people’s living instrument against bureaucratic capitalism and imperial power. Hu Chunhua will declare that socialist ideals are to permeate the lives and minds of 1.4 billion citizens—not remain empty slogans."
+
+  PRC_the_party_belongs_to_the_youth: "The Party Belongs to the Youth!"
+  PRC_the_party_belongs_to_the_youth_desc: "(No description provided in source text.)"
+
+  PRC_the_international_revolution_burns_once_more: "Reignite the International Revolution"
+  PRC_the_international_revolution_burns_once_more_desc: "(No description provided in source text.)"
+
+  PRC_emphasize_self_criticism: "Encourage Self-Criticism"
+  PRC_emphasize_self_criticism_desc: "(No description provided in source text.)"
+
+  PRC_expand_provincial_authority: "Establish Revolutionary Committees at All Levels"
+  PRC_expand_provincial_authority_desc: "(No description provided in source text.)"
+
+  PRC_stir_up_youth_patriotism: "Reform the Communist Youth League"
+  PRC_stir_up_youth_patriotism_desc: "Youth thought shapes the country’s climate for decades. Through celebrating heroes of socialist struggle and construction, we will deepen young people’s love for—and identification with—the socialist motherland."
+
+  PRC_communist_vanguard_restored: "Communist Vanguard Restored"
+  PRC_communist_vanguard_restored_desc: "Forward, heroic people of every nationality! Under the Party’s leadership we continue the Long March—united toward a communist tomorrow—building and defending the motherland with courage and resolve."
+
+  PRC_rejuvinate_cpc_cadres: "Renew the Cadre Corps"
+  PRC_rejuvinate_cpc_cadres_desc: "Stale office-holders are no help to communist ideals. We will “promote people of real talent,” elevating younger, driven, empathetic cadres into central leadership."
+
+  PRC_exonorate_neo_maoists: "Uphold Mao Zedong Thought"
+  PRC_exonorate_neo_maoists_desc: "Since reform and opening, neo-Maoists were mocked as relics and malcontents—an unjust slander of people devoted to the masses. They will return to the spotlight as a vital voice of the people."
+
+  PRC_reverse_confucian_turn: "Down with the Confucian Shop"
+  PRC_reverse_confucian_turn_desc: "Confucianism’s imprint remains deep and, in the 21st century, was revived as “traditional culture.” We will end this extraction of backward ideas for official use; Confucius’s proper home will be the museum."
+
+  PRC_restore_party_authority: "Restore Party Authority"
+  PRC_restore_party_authority_desc: "Party membership became a ladder for personal ambition and privilege, hollowing image and capacity alike. We will make the Party once again an advanced organization that serves the people."
+
+  PRC_new_red_culture_initiative: "New Red Culture Initiative"
+  PRC_new_red_culture_initiative_desc: "Socialism stands for progress and plural culture, yet for four decades the cultural sphere became a base for liberal opposition. We will revive socialist culture, marry popular arts to China’s conditions, and curb decadent hedonism."
+
+  PRC_revise_cultural_revolution_verdict: "Declassify the Cultural Revolution"
+  PRC_revise_cultural_revolution_verdict_desc: "The Cultural Revolution is inescapable—an acid test of left and right. Official condemnations cemented legitimacy before; we will re-examine it with sobriety and open select archives to rekindle public memory and debate."
+
+  PRC_crackdown_on_corruption: "Strike at Corruption"
+  PRC_crackdown_on_corruption_desc: "Corruption is not merely personal failing but a class struggle. Anti-corruption will be a just campaign by socialism’s progressive forces against bourgeois elements and revisionists. Let the people breathe easier."
+
+  PRC_cutdown_party_bureaucracy: "Trim Party Bureaucracy"
+  PRC_cutdown_party_bureaucracy_desc: "The Party swelled with institutions and sinecures, inviting incompetents and opportunists indifferent to communism. Only by cutting this ballast can the state recover vitality and efficiency."
+
+  PRC_foster_authoritative_statesmen: "Cultivate Authoritative Statesmen"
+  PRC_foster_authoritative_statesmen_desc: "A socialist ruling party cannot lack a core or authority. Elevate the most revolutionary and capable to lead as a collective—so the red state endures."
+
+  PRC_reform_the_cppcc: "Reform the CPPCC"
+  PRC_reform_the_cppcc_desc: "The CPPCC, long seen as a powerless salon of elites from the CPC and democratic parties, will gain real authority and broaden intake: alongside elites, admit moral exemplars and model workers from all walks."
+
+  PRC_expand_provincial_autonomy: "Expand Provincial Autonomy"
+  PRC_expand_provincial_autonomy_desc: "Central bureaucratism and misguided edicts anger the people. We will expand provincial powers—not to empower unaccountable officials, but to enlarge citizens’ participation and oversight in each province so they shape their own fate."
+
+  # =========================
+  # Rights, Institutions & Democratic Renewal
+  # =========================
+  PRC_eadi_exercises_new_left: "EADI Exercises"
+  PRC_eadi_exercises_new_left_desc: "(No description provided in source text.)"
+
+  PRC_protect_human_rights: "Protect Human Rights"
+  PRC_protect_human_rights_desc: "Past leadership shied from the words “human rights,” betraying a lack of confidence in socialism. We will place rights protection at the top of the new center’s agenda so the people feel socialism’s warmth."
+
+  PRC_free_political_prisoners: "Release Political Prisoners"
+  PRC_free_political_prisoners_desc: "The Party seldom pardons defeated foes, but this time will be an exception. Under law we will grant amnesty to select political prisoners jailed since 2000. Some names may be familiar…"
+
+  PRC_emancipate_the_npc: "Emancipate the NPC"
+  PRC_emancipate_the_npc_desc: "The nation’s highest organ long had title without power. To found socialist democracy in practice, begin with intellectual liberation inside the NPC—let national elites and people’s delegates openly deliberate the socialist future."
+
+  PRC_modernize_hu_jintao_theories: "Modernize Hu Jintao’s Theories"
+  PRC_modernize_hu_jintao_theories_desc: "Hu Jintao’s tenure (2002–2012) was marked by lenience, growth with equity, and the Scientific Outlook on Development—he is also our current General Secretary’s mentor. We will further develop that outlook for today’s China."
+
+  PRC_anti_lobbying_laws: "Anti-Lobbying Law"
+  PRC_anti_lobbying_laws_desc: "Do not assume socialism is immune to business–politics collusion. The public’s anger is real, yet past governments shrugged it off as a cost of growth. We will legislate and publicly wage war on lobbying corruption."
+
+  PRC_permit_business_assosications: "Regularize Business Associations"
+  PRC_permit_business_assosications_desc: "Government support accelerates enterprise; enterprise feedback sharpens policy. We will acknowledge this relationship and formalize it by law—transparent, regulated, and accountable."
+
+  PRC_reform_local_elections: "Reform Local Elections"
+  PRC_reform_local_elections_desc: "At last, the crucial step: after decades of trial and setback, a new grassroots electoral and self-governance system will enter daily politics—better reflecting people’s concrete interests and reversing chronic political apathy."
+
+  PRC_from_the_clean_slate: "A Clean Slate"
+  PRC_from_the_clean_slate_desc: "For seventy years, bureaucracy has been the greatest obstacle to popular interests. We will remake the system—replacing tangled patronage with a new framework combining internal selection of officials and NPC-based vetting."
+
+  PRC_theory_of_neo_socialism: "[PRC_theory_of_neo_socialism_scripted_loc]"
+  PRC_theory_of_neo_socialism_desc: "[PRC_theory_of_neo_socialism_scripted_loc_desc]"
+
+  PRC_concessions_to_partocrats: "Concession to One-Party Rule"
+  PRC_concessions_to_partocrats_desc: "Even in China’s most chaotic hours, Mao never yielded the CPC’s leading role. As his heirs and socialism’s successors, we will likewise uphold Party leadership—and, through reform, make it a better builder of socialism."
+  
+  # =========================
+  # Party Modernization & Datong Vision
+  # =========================
+  PRC_modernization_of_the_party: "Modernization of the Party"
+  PRC_modernization_of_the_party_desc: "By applying a renewed socialist doctrine, the Party will become a truly modern organization that keeps pace with the times and binds itself more closely to the people. The Party will lead social progress, while public sentiment propels the Party’s self-transformation."
+
+  PRC_a_truly_harmonious_society: "Datong Society"
+  PRC_a_truly_harmonious_society_desc: "Ancient myth spoke of an age so harmonious that “doors needed no bolts and lost items lay unclaimed.” For millennia this vision stirred the dreams of countless Chinese. Today we proudly proclaim that such a harmonious society is being built—in 21st-century China."
+
+  PRC_prepare_for_the_peoples_war: "Prepare for People’s War"
+  PRC_prepare_for_the_peoples_war_desc: "(No description provided in source text.)"
+
+  PRC_denounce_deng_xiao_ping_thought: "Repudiate Deng Xiaoping’s Reforms"
+  PRC_denounce_deng_xiao_ping_thought_desc: "It is time to puncture the myth of “reform and opening.” In practice, reform sacrificed the many to enrich the few, while opening enabled a restoration of bureaucratic capitalism. We will sweep away these remnants and build a genuinely socialist China."
+
+  PRC_socialist_modernization: "Socialist Modernization"
+  PRC_socialist_modernization_desc: "Modernization cannot be a stopgap of “the rich lead the rest.” The gains of growth must be shared by all. We will expand inter-provincial transfers and launch a new wave of infrastructure to spread development’s benefits nationwide."
+
+  PRC_peoples_oriented_development: "People-Oriented Development Concept"
+  PRC_peoples_oriented_development_desc: "Economic policy must center on personal dignity, well-being, and the fulfillment of aspirations—this follows from the socialist nature of our state. Where we once fell short, we now correct course."
+
+  # =========================
+  # Space, Automation, AI & Digital Socialism
+  # =========================
+  PRC_fund_space_development: "Fund Space R&D"
+  PRC_fund_space_development_desc: "Space represents a nation’s most advanced frontier. Robust support for our space sector showcases China’s industrial strength and our capacity to lead at the technological vanguard."
+
+  PRC_towards_automated_socialism: "Toward Automated Socialism"
+  PRC_towards_automated_socialism_desc: "Automation—the north star of socialist production—has inspired generations of scientists and pioneers. We will take that dream from blueprint to reality in China."
+
+  PRC_invest_in_artificial_intelligence: "Invest in Artificial Intelligence"
+  PRC_invest_in_artificial_intelligence_desc: "Western cinema paints AI as a menace. New China believes people shape their destiny. In the hands of a diligent nation, AI becomes the most effective tool for socialist construction."
+
+  PRC_nationalize_tech_industry: "Nationalize the Tech Industry"
+  PRC_nationalize_tech_industry_desc: "Joining the front ranks of high technology has long been our ambition. To truly succeed, we must rely on Party leadership. As many champions of the sector hold CPC membership, we will go further and nationalize key firms under Party stewardship."
+
+  PRC_anti_corruption_technology: "Tech-Driven Anti-Corruption"
+  PRC_anti_corruption_technology_desc: "(No description provided in source text.)"
+
+  PRC_advanced_economic_planning: "Advanced Economic Planning"
+  PRC_advanced_economic_planning_desc: "China once leaned on low costs and scale—but that is no laurels to rest upon. We will prioritize high-value industries and overturn the stereotype of low productivity and high strain."
+
+  PRC_fund_supercomputing_expansion: "Expand Supercomputing"
+  PRC_fund_supercomputing_expansion_desc: "Supercomputing is a central arena of 21st-century science. Systems like Sunway TaihuLight once led the world; we intend to keep that summit Chinese."
+
+  PRC_intelligent_supply_chains: "Intelligent Supply Chains"
+  PRC_intelligent_supply_chains_desc: "We will embed AI and autonomous tech across the transport grid and traffic management, achieving true coverage across 9.6 million km²—a feat no other nation has realized."
+
+  PRC_economic_computerization: "Computerize the Economy"
+  PRC_economic_computerization_desc: "We will hand planning and real-time monitoring to automated systems. With self-learning AI adjusting parameters dynamically, the economy can escape the bureaucratic sclerosis that dogged earlier socialist states."
+
+  PRC_expand_network_coverage: "Expand Network Coverage"
+  PRC_expand_network_coverage_desc: "China already hosts the world’s largest internet community. We will further upgrade nationwide coverage and telecom tech so that the old slogan—“The network in every home”—finally rings true."
+
+  PRC_inegrate_research_institutes: "Integrate Research Institutes"
+  PRC_inegrate_research_institutes_desc: "We will restructure the maze of research bodies—cut redundancy, merge by discipline, and spin off state research companies tied to commercialization so science proceeds with fewer obstacles."
+
+  PRC_ai_assisted_governance: "AI-Assisted Governance"
+  PRC_ai_assisted_governance_desc: "Policy must remain in human hands, or unforeseen risks can spiral. Still, AI will play a decisive supporting role in designing, implementing, and evaluating economic policy."
+
+  PRC_towards_a_digital_communism: "Toward Digital Communism"
+  PRC_towards_a_digital_communism_desc: "Across cyberspace, torrents of data converge into a boundless ocean. A socialist China rides this digital tide toward a radiant communist future."
+
+  PRC_the_internet_of_things_desc: "Across cyberspace, torrents of data converge into a boundless ocean. A socialist China rides this digital tide toward a radiant communist future."
+
+  # =========================
+  # Distribution, Markets & Self-Sufficiency
+  # =========================
+  PRC_institute_wage_caps: "Institute Wage Caps"
+  PRC_institute_wage_caps_desc: "China’s inequality is rooted in distribution. Alongside higher minimum wages we will impose an upper bound on personal income and prevent top officials and magnates from padding wealth through allowances and side channels."
+
+  PRC_decommodification: "Decommodification"
+  PRC_decommodification_desc: "Luxury and hedonism born of commodification jar with socialist spirit. Such side-effects occur under any system, but we must curb them—or drift toward a decadent capitalism."
+
+  PRC_end_landlordism: "End Real-Estate Landlordism"
+  PRC_end_landlordism_desc: "China’s property bubble rivals Japan’s 1980s excess, driven by localities’ dependence on land finance. We will reform this at the root—restore public housing and allocative systems—and end the bubble-ridden era."
+
+  PRC_focus_on_protectionism: "Emulate a Protective Model"
+  PRC_focus_on_protectionism_desc: "Past urban development’s roughshod pace erased cultural treasures. We will correct course and balance protection with growth so heritage and progress coexist."
+
+  PRC_enrich_domestic_market: "Enrich the Domestic Market"
+  PRC_enrich_domestic_market_desc: "Foreign markets under hegemonic sway bring sanctions and blockades. Our 1.4-billion-strong domestic market can carry us through hardship—if we nourish its depth and variety."
+
+  PRC_agricultural_self_sufficiency: "Agricultural Self-Sufficiency"
+  PRC_agricultural_self_sufficiency_desc: "Food security safeguards socialist construction and preserves the fruits of development. Ensuring stable, ample supplies for all has been a Chinese aspiration for millennia."
+
+  PRC_chinese_socialist_dream: "The Chinese Socialist Dream"
+  PRC_chinese_socialist_dream_desc: "What is socialism? Our foes equate it with poverty and claim only quasi-capitalist policies yield prosperity. Reality has shattered that slander. The people of socialist China shall enjoy lasting abundance."
+
+  # =========================
+  # Regional Strategy & Model Revivals
+  # =========================
+  PRC_regional_industrialization: "Regional Industrialization"
+  PRC_regional_industrialization_desc: "Inter-provincial specialization and coordination will form an organic national economy—ever lively, ever adjustable to the people’s changing needs."
+
+  PRC_revive_ideas_chongqing_model: "Revive the Chongqing Model"
+  PRC_revive_ideas_chongqing_model_desc: "The “Chongqing Model” blended charismatic leadership, resolute social governance—campaigns against criminal syndicates and revived Mao-era civic culture—and bold economics: front-loaded urban investment and aggressive redistribution via bonds. Reborn for a new era, it suits China’s present needs."
+  
+  # =========================
+  # Industry, Labor & Energy
+  # =========================
+  PRC_modernize_manufacturing_clasters: "Modernize Industrial Clusters"
+  PRC_modernize_manufacturing_clasters_desc: "Industrial upgrading will be achieved under state leadership through the tireless efforts of the people. Only then can socialist China truly join the ranks of developed nations. One day, “Made in China” will become “Created in China.”"
+
+  PRC_revive_iron_rice_bowl: "Revive the Iron Rice Bowl"
+  PRC_revive_iron_rice_bowl_desc: "State-owned enterprises will remain the bedrock of our economy—providing ample employment, equitable pay, and comprehensive social benefits."
+
+  PRC_tackle_youth_unemployment: "Tackle Youth Unemployment"
+  PRC_tackle_youth_unemployment_desc: "Youth are the engine of social progress. Yet too many drift at the margins today. If we fail to create sufficient opportunities for the young, society’s pulse will fade."
+
+  PRC_nuclear_construction_plan: "Nuclear Power Construction Plan"
+  PRC_nuclear_construction_plan_desc: "Nuclear power carries risks, but beyond that it is almost pure benefit—the frontier of human energy development. We will go beyond a few coastal plants and launch large-scale nuclear buildouts across northern and western provinces."
+
+  PRC_fusion_investements: "Fusion Investments"
+  PRC_fusion_investements_desc: "(Placeholder for fusion investment.)"
+
+  PRC_upgrade_energy_grid: "Upgrade the Power Grid"
+  PRC_upgrade_energy_grid_desc: "We take pride in the State Grid’s efficiency, yet remote villages still lack stable electricity. We will upgrade grid technology and expand recruitment until every citizen enjoys reliable power."
+
+  PRC_ecological_development: "Ecological Development"
+  PRC_ecological_development_desc: "As we continue building the economy, we must “walk on two legs”—grow green, eco-friendly industries and cut waste in socialist construction."
+
+  # =========================
+  # EADI & Korean Peninsula
+  # =========================
+  PRC_establish_eadi: "Establish the East Asia Defense Initiative (EADI)"
+  PRC_establish_eadi_desc: "China has long upheld Zhou Enlai’s Five Principles of Peaceful Coexistence, especially mutual non-aggression. But with a Japan-led neoliberal bloc openly targeting us, a self-described defensive alliance centered on China has become necessary. Only strength safeguards peace."
+
+  PRC_our_commitment_to_korea: "Our Commitment to Korea"
+  PRC_our_commitment_to_korea_desc: "The 1961 Sino–DPRK Treaty binds our security together. We will not abandon an ally—least of all on a peninsula so vital and one that possesses nuclear arms."
+
+  PRC_push_for_thaw: "Push for a Thaw"
+  PRC_push_for_thaw_desc: "Years of sanctions—and authoritarian excess—have isolated the DPRK. Using our leverage, we will encourage political and economic reforms to modernize the country and deepen cooperation."
+
+  PRC_support_the_korean_way: "Support the Korean Path"
+  PRC_support_the_korean_way_desc: "We reaffirm support for the Workers’ Party of Korea and Kim Jong Un—helping stabilize domestic politics and suppress sabotage. Traditional friendship will deepen, and Pyongyang will lean further toward Beijing."
+
+  PRC_joint_military_exercises: "Joint Military Exercises"
+  PRC_joint_military_exercises_desc: "PLA–KPA drills will test interoperability and signal closeness—deterring Japan and South Korea and keeping the initiative on the peninsula firmly in our hands."
+
+  PRC_korean_economic_assistence: "Economic Assistance to Korea"
+  PRC_korean_economic_assistence_desc: "Under UN sanctions the DPRK economy is brittle; shortages are chronic and famines recur—worsened since 2020. We will quietly supply materials via border ports and extend low-interest loans for reconstruction."
+
+  PRC_finilize_korean_revolution: "Finalize the Korean Revolution"
+  PRC_finilize_korean_revolution_desc: "After sustained effort, the DPRK stands as our most loyal ally. The CPC can now shape WPK affairs in depth, and the PLA integrates the KPA into its operational system—guiding Pyongyang’s governance and preparing for conflict with its southern foe."
+
+  # =========================
+  # India Front & Japan Operations
+  # =========================
+  PRC_counter_indian_aggression: "Counter Indian Encroachment"
+  PRC_counter_indian_aggression_desc: "Border disputes with India are longstanding; clashes since 1962 keep the fuse lit. Against New Delhi’s “forward policy,” we will reinforce Tibet, respond tit-for-tat, and not yield an inch."
+
+  PRC_anti_japanese_covert_operations: "Anti-Japanese Covert Operations"
+  PRC_anti_japanese_covert_operations_desc: "Before any open conflict, we must strengthen intelligence. Expand MSS networks in Japan, cultivate assets, and gather political, military, and economic intelligence. Dispatch elite operatives to liaise with Chinese communities and improve station command."
+
+  PRC_build_up_fortifications: "Build Fortifications"
+  PRC_build_up_fortifications_desc: "India fields more troops and heavy weapons along the plateau; its mountain forces are formidable. We will construct layered defenses and logistics hubs behind the line, wearing the enemy down from prepared positions."
+
+  PRC_expand_border_training: "Expand Border Training"
+  PRC_expand_border_training_desc: "PLA units in Tibet will intensify mountain-warfare curricula—adding high-altitude survival and reconnaissance. Elite aviation units will rotate in for altitude air-combat training."
+
+  PRC_support_pakistan: "Support Pakistan"
+  PRC_support_pakistan_desc: "Our traditional ally is key to tying down India. Conduct joint drills and equip Pakistan with advanced arms—main battle tanks and 4th-generation fighters—so the PA remains a constant headache for New Delhi."
+
+  PRC_himalayan_frontier: "The Himalayan Frontier"
+  PRC_himalayan_frontier_desc: "India’s many border disputes are our opportunity. We will draw Nepal, Bhutan, and others into EADI to form a defensive web that forces India to overextend in an arms race—until, like the USSR, it gradually loses the capacity to confront us."
+  
+  # =========================
+  # Southeast Asia & Myanmar
+  # =========================
+  PRC_south_asian_brothers: "Brothers of Southeast Asia"
+  PRC_south_asian_brothers_desc: "In the 19th and 20th centuries, China—like many nations across Southeast Asia—suffered invasion and colonial rule by Western imperialist powers and fought for national freedom and independence. In the 21st century, our economic and cultural ties have only deepened. Building on long-standing friendships, we will bring all of Southeast Asia into our alliance framework."
+
+  PRC_revolution_in_myanmar: "Revolution in Myanmar"
+  PRC_revolution_in_myanmar_desc: "Myanmar has long been wracked by internal turmoil. A weak central government ceded power to a corrupt military; ethnic conflicts are fierce; and ceaseless warlord skirmishes have plunged the people into misery. To restore peace and prosperity, we will not stand by—we will intervene and help the people launch a revolution."
+
+  # =========================
+  # Party, Legitimacy & Culture
+  # =========================
+  PRC_made_in_china_dummy_idea2: "Socialism with Chinese Characteristics"
+
+  PRC_Party_Pushback: "The Communist Party’s Counterattack"
+  PRC_Party_Pushback_desc: "Although reformers’ standing surged after Wang Yang became General Secretary and President, it is naïve to think everyone will move in lockstep with the new leadership. Within the Party, orthodox communist establishment figures remain a formidable force, resolutely resisting reforms that threaten entrenched interests or the state’s basic structure—and much of the public still supports them. Unless we win their assent (or shield our work from their scrutiny), our efforts may well come to nothing."
+
+  PRC_Spectre_of_Death_idea: "A Dead Specter"
+  PRC_Spectre_of_Death_idea_desc: "Declassifying the Tiananmen archives detonated a political earthquake. The Party’s gleaming mask was ripped away in an instant. Beginning with 1989, a record of countless abuses against dissenters stood exposed. Party membership and popular support plunged; mass protests erupted nationwide—while overwhelming public sentiment rallied to Chairman Wang, hailing him as a “great pioneer of democracy.”"
+
+  PRC_intra_party_democracy: "Intra-Party Democracy"
+  PRC_intra_party_democracy_desc: "New socialist democracy — the Nepal model."
+
+  PRC_single_party_dictatorship: "One-Party Dictatorship"
+  PRC_single_party_dictatorship_desc: "What use are those so-called ‘participating parties’?"
+
+  PRC_Blink_the_Eye: "MSS Purge and Reshuffle"
+
+  # =========================
+  # Korea, Air Campaigns & Operations
+  # =========================
+  PRC_north_korean_intervention: "Intervene in the Korean War"
+  PRC_bombing_raids: "PLA Air Campaign"
+
+  PRC_anti_western_proaganda_idea: "Anti-Western Propaganda"
+  PRC_operation_crimson_sky_idea: "Operation Crimson Sky"
+  PRC_operation_guan_yu_idea: "Operation Guan Yu"
+  PRC_operation_li_jing: "Operation Li Jing"
+
+  # =========================
+  # Mass Line & United Front
+  # =========================
+  PRC_doctrine_of_the_mass_line_idea: "Mass Line Doctrine"
+  PRC_united_front_of_new_democracy_idea: "New Democracy United Front"
+
+  # =========================
+  # Internal Security & Labor
+  # =========================
+  PRC_the_separatist_problem: "The Separatist Problem"
+  PRC_new_left_workers_strikes_idea: "New Left Workers’ Strikes"
+
+  # =========================
+  # PLA Readiness & Lessons
+  # =========================
+  PRC_plan_high_alert: "PLA Navy on High Alert"
+  PRC_plan_high_alert_desc: ""
+
+  PRC_insufficient_understanding_of_modern_warfare_idea: "New Lessons of War"
+  PRC_insufficient_understanding_of_modern_warfare_idea_desc: ""
+
+  # =========================
+  # Culture & Propaganda
+  # =========================
+  PRC_new_red_culture_idea: "New Red Culture"
+
+  # =========================
+  # Oil Crisis Recovery Stages
+  # =========================
+  PRC_oil_crash1: "Oil Crisis"
+  PRC_oil_crash2: "Slight Recovery from the Oil Crisis"
+  PRC_oil_crash3: "Partial Recovery from the Oil Crisis"
+  PRC_oil_crash4: "Broad Recovery from the Oil Crisis"
+  PRC_oil_crash5: "Full Recovery from the Oil Crisis"
+
+  # =========================
+  # “Made in China” & Environment Dynamics
+  # =========================
+  PRC_made_in_china_new_left_dynamic: "Socialism with Chinese Characteristics"
+  PRC_made_in_china_idea: "Socialism with Chinese Characteristics"
+  PRC_made_in_china_dynamic: "Socialism with Chinese Characteristics"
+  PRC_made_in_china_dynamic_desc: "\n\n\n\n\n£GFX_PRC_socialism_with_chinese_characteristics_banner£\n\n\n\n\n\nWhere there is a well, there are Chinese goods—electronics, phones, furniture, clothing, even food. Riding the late-Cold-War gale of decentralization launched by Comrade Deng Xiaoping and the globalization-driven surge of industrialization, such products sprouted like bamboo after rain. Becoming the world’s largest exporter made our “world factory” laurels well-earned. Yet with Western protectionism rising, our prosperity has ebbed.\n\nThe “Made in China” label became tied to a perception of low quality—due in part to weak export quality inspections. In recent years, however, the Party has pushed industrial upgrading from assembly toward high technology—a difficult, grinding transition."
+
+  PRC_chinese_enviroment_dynamic: "China’s Ecological Environment"
+  PRC_chinese_enviroment_dynamic_desc: "China’s breakneck growth brought some of the worst pollution in history: soil loss from deforestation, air and water contamination from heavy industry, and mass species endangerment under lax oversight all demand urgent remedies.\n\nSince Xi Jinping took office, aggressive green policies made “lucid waters and lush mountains are invaluable assets” a household phrase. Though strict industrial limits slowed growth and raised unemployment, environmentalists call them necessary sacrifices.\n\nCurrent environmental reform progress: [?PRC_enviromental_progress|=+1%]"
+
+  # =========================
+  # Sino–Japanese Races (Dynamic)
+  # =========================
+  PRC_sino_japanese_computing_race_dynamic: "Sino–Japanese Computing Race"
+  PRC_sino_japanese_computing_race_dynamic_desc: "Supercomputers: ji-ji-ji-ji-ji-ji-ji-ji."
+
+  PRC_sino_japanese_space_race_dynamic: "Sino–Japanese Space Race"
+  PRC_sino_japanese_space_race_dynamic_desc: "Spaceships—‘ship ship ship.’"
+
+  # =========================
+  # PLA Dynamic & Ideas
+  # =========================
+  PRC_pla_dynamic: "People’s Liberation Army"
+  PRC_pla_dynamic_desc: "From the 1927 Nanchang Uprising onward, the PLA—especially its ground forces—has been the Party’s and the people’s trusted sword and shield. The modernization reforms launched by Xi Jinping in 2016 endowed it with the capabilities to fight and win in modern battle environments. No longer a force for homeland defense alone, the PLA can deploy across Northeast Asia and the wider Pacific. The future will offer further chances to prove it."
+
+  PRC_pla_idea: "People’s Liberation Army"
+
+  PRC_chinese_enviroment_idea: "China’s Ecological Environment"
+  
+  # =========================
+  # Advisors, Alliances & War Weariness
+  # =========================
+  PRC_chinese_advisors: "Chinese Advisors"
+  PRC_plan_dynamic: "People's Liberation Army Navy"
+  PRC_plan_dummy_1: "People's Liberation Army Navy"
+  PRC_unwilling_ally: "Reluctant Ally"
+  PRC_pakistan_military_support: "Chinese Military-Industrial Aid"
+  PRC_pakistan_industrial_support: "Chinese Industrial Aid"
+  PRC_war_exhaustion: "War Exhaustion"
+  PRC_war_exhaustion2: "War Exhaustion"
+  PRC_dare_to_die_corps: "Dare-to-Die Corps"
+  HKN_spirit_of_hk: "Rebellious City"
+
+  # =========================
+  # Party Congress (Category)
+  # =========================
+  PRC_national_peoples_congress_cat: "National Congress of the Communist Party of China"
+  PRC_national_peoples_congress_cat_desc: "\n\n\n\n\n£GFX_PRC_npc_category_banner\n\n\n\n\n\n\n\n§YNational Congress of the Communist Party of China§! The National Congress of the Communist Party of China and the Central Committee it elects are the Party’s highest leadership organs. It is convened every five years by the Central Committee. If the Central Committee deems it necessary, or if more than one third of provincial-level organizations so request, the National Congress may be convened in advance; barring exceptional circumstances, it must not be postponed.\n§YCentral Committee of the Communist Party of China§! The CPC Central Committee is the Party’s core organ of power, elected by the National Congress and commonly abbreviated as the CPC Central Committee. It was established at the 5th National Congress of the CPC in 1927, replacing the previous Central Executive Committee.\nThe Central Committee is composed of full members and alternate members. Its principal leader now holds the title General Secretary of the CPC Central Committee, commonly abbreviated as the CPC General Secretary.\n\n[PRC_centrist_text]\n[PRC_reform_text]\n[PRC_nat_text]\n[PRC_lib_text]\n[PRC_newleft_text]"
+
+  # =========================
+  # Foreign & Environmental Policy (Categories)
+  # =========================
+  PRC_foreign_policy_category: "Foreign Policy"
+  PRC_foreign_policy_category_desc: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
+  PRC_enviromental_policy_category: "Environmental Policy"
+  PRC_enviromental_policy_category_desc: "Building ecological civilization is one of the core pillars of the ‘Five-Sphere Integrated Plan’ for advancing socialist modernization. Unfortunately, over the past 50 years of rapid development, environmental issues were—intentionally or not—neglected, replaced by a reckless, extensive expansion of industry. With the new millennium, harsh living conditions have forced the Chinese people to face polluted rivers and skies, and millions of tons of carcinogens directly vented into the air; urban morbidity and mortality have surged. As global warming becomes a shared challenge for all nations and rising seas threaten to inundate cities like Shanghai and Tianjin, the state has begun moving toward greener, energy-saving, and environmentally friendly policies. Yet the road to a beautiful green future remains long and arduous. We must show the resolve to ‘cut off a festering limb to save the body,’ letting go of extensive, backward, high-energy-consuming industries that once drove growth, while pushing supply-side structural reform and environmental policy reform. If we fail to respond proactively to climate change, then in the foreseeable future the southern lowlands will be swallowed by the sea, while the Gobi and deserts will nibble away at China’s west. The Chinese nation would be drawn into a perpetual twilight.\n\nCurrent environmental reform progress: [?PRC_enviromental_progress|=+1%]"
+
+  PRC_chinas_liberalization_category: "China Reform"
+
+  # =========================
+  # Oil Crisis & Pandemic (Categories)
+  # =========================
+  PRC_oil_crisis_category: "Resolve the Oil Crisis"
+  PRC_oil_crisis_category_desc: "The oil crisis is one of the greatest obstacles on China’s path to great-power status. It has stalled economic growth and employment, preventing further advances in the core indicators of national strength. The entire country must therefore shift its focus to resolving this thorny problem as quickly as possible, so we can return to the track of development."
+
+  PRC_coronavirus_category: "COVID-19 Outbreak"
+  PRC_coronavirus_category_desc: "Due to lax oversight and poor management, a COVID-19 outbreak has erupted in Wuhan. Immediate action is required before the situation spirals out of control.\n\nCurrent epidemic status: [get_covid_status]"
+
+  # =========================
+  # Unity & Internal Stability (Category Desc)
+  # =========================
+  PRC_chinese_unity_category_desc: "To make China once again the foremost world power—and to keep it—we must first become great at home. While many regions such as the heartland and the three northeastern provinces already meet that mark, others—like Xinjiang and Tibet—are less stable; and some, such as Taiwan, actively resist us, seeking to destroy China altogether! China must unite for national rejuvenation, §Rat any cost!§!"
+  
+  # =========================
+  # War Categories: Siberia, Taiwan Strait, Rebellious West
+  # =========================
+  PRC_siberian_war_cat: "Siberian War"
+  PRC_siberian_war_cat_desc: "Siberia may be one of the most resource-rich regions in the world, yet it has long remained sparsely populated and desolate. With the 1858 Treaty of Aigun, our country lost vast tracts of land. Now, it is time for China to restore its lost homeland. Russia still has not recovered from its war with NATO, making this the best moment to reclaim these territories.\n\nHowever, we cannot sustain a protracted war in Siberia; if the conflict drags on, public support will likely evaporate. This campaign must therefore be §Rswift and decisive§!, like many a successful precedent. To win decisively and gain a foothold in Siberia, we must secure §YIrkutsk§!§Rand§!§YBirobidzhan§!.\n\n\n§RPrimary Objectives§!:\n\n§YVladivostok§!: [GLOBAL.get_vladivostok_status]\n§YKhabarovsk§!: [GLOBAL.get_khabatovsk_status]\n§YBirobidzhan§!: [GLOBAL.get_birobidzhan_status]\n§YIrkutsk§!: [GLOBAL.get_irkutsk_status]\n\n§GAllied Cities§!:\n\n§YHulunbuir§!: [GLOBAL.get_hulunbuir_status]\n§YQiqihar§!: [GLOBAL.get_qiqihar_status]\n§YMudanjiang§!: [GLOBAL.get_mudanjiang_status]\n§YHarbin§!: [GLOBAL.get_harbin_status]"
+
+  PRC_taiwan_war_cat: "War in the Taiwan Strait"
+  PRC_taiwan_war_cat_desc: "Seventy years have flashed by, yet our national map still bears a gap. When the People’s Liberation Army liberated all of China in 1949, the craven Kuomintang reactionaries fled to the island of Taiwan. The two twins—the People’s Republic of China and the Republic of China—were separated by the Strait and developed apart. Over time, Western influence quietly seeped in, luring the people of Taiwan to forsake their roots and to craft a separate identity. But a tree without roots cannot live; division cannot last forever. Now, with the United States plunged into chaos, the coming war will decide whether we can fulfill our historic mission and bring a long-divided motherland back into one."
+
+  PRC_the_rebellious_west_cat: "The Rebellious West"
+  PRC_the_rebellious_west_cat_desc: "\n\n\n\n\n£GFX_PRC_the_rebellious_west_cat_banner\n\n\n\n\n\n\n\nIn China’s far west, a sudden Uyghur uprising has set Xinjiang ablaze, while Tibet has entered a state of emergency amid mass protests by Tibetans. It seems the nightmares of 1989, 2008, and 2011 may return once more. We must act…"
+
+  # =========================
+  # Regional Missions & Conflicts
+  # =========================
+  PRC_the_rebellious_west_mission: "Pacify Xinjiang"
+  PRC_the_pacification_of_tibet: "Pacify Tibet"
+  PRC_indo_pakistan_war: "Indo–Pakistani War"
+  PRC_chinese_economic_miracle: "Chinese Economic Recovery"
+
+  # =========================
+  # PLA Reform (Progress Display)
+  # =========================
+  PRC_pla_reformation: "PLA Military Reform"
+  PRC_pla_reformation_desc: "From the Nanchang Uprising of 1927 onward, the People’s Liberation Army—especially its ground forces—has remained the trusted armed strength of the Party and the people. The military modernization reforms launched by Xi Jinping in 2016 have endowed it with the capability to fight and prevail in modern battle environments. The PLA is no longer merely a homeland defense force, but a powerful military able to deploy across Northeast Asia and even throughout the Pacific. There may be many more chances to prove this in the future.\n\n§RReform§! progress: [?PRC_army_reform_progress|G0%][Root.PRC_project_ghost][Root.PRC_project_nib][Root.PRC_project_swimmer][Root.PRC_project_impulse][Root.PRC_project_dark_sword][Root.PRC_project_flash][Root.PRC_project_nami]"
+
+  # =========================
+  # Maoist Politburo (Category)
+  # =========================
+  PRC_maoist_politburo_cat: "Central Politburo"
+  PRC_maoist_politburo_cat_desc: "\n\n\n\n\n£GFX_PRC_maoist_politburo_banner\n\n\n\n\n\n\n\nChina needs a strong Central Politburo to lead us out of betrayal and revisionism, toward the future Chairman Mao truly sought for us."
+
+  # =========================
+  # Great Asian War (Targets & Allies)
+  # =========================
+  PRC_great_asian_war: "Great Asian War"
+  PRC_great_asian_war_desc: "§RPrimary Objectives§!:\n\n§YTokyo§!: [GLOBAL.get_tokyo_status]\n§YDelhi§!: [GLOBAL.get_delhi_status]\n§YSeoul§!: [GLOBAL.get_seoul_status]\n§YSingapore§!: [GLOBAL.get_singapore_status]\n§YJakarta§!: [GLOBAL.get_jakarta_status]\n§YSydney§!: [GLOBAL.get_sydney_status]\n\n§RSecondary Objectives§!:\n\n§YManila§!: [GLOBAL.get_manila_status]\n§YHo Chi Minh City§!: [GLOBAL.get_hochiminh_status]\n§YBangkok§!: [GLOBAL.get_bangkok_status]\n§YNaypyidaw§!: [GLOBAL.get_naypyidaw_status]\n§YDhaka§!: [GLOBAL.get_dhaka_status]\n§YKuala Lumpur§!: [GLOBAL.get_kualalumpur_status]\n§YTaipei§!: [GLOBAL.get_taipei_status]\n\n§GAllied Cities§!:\n\n§YBeijing§!: [GLOBAL.get_beijing_status]\n§YShanghai§!: [GLOBAL.get_shanghai_status]\n§YNanjing§!: [GLOBAL.get_nanjing_status]\n§YGuangzhou§!: [GLOBAL.get_guangzhou_status]\n§YHong Kong§!: [GLOBAL.get_hong_kong_status]\n§YPyongyang§!: [GLOBAL.get_pyongyang_status]\n§YIslamabad§!: [GLOBAL.get_islamabad_status]\n§YKathmandu§!: [GLOBAL.get_kathmandu_status]\n"
+
+  # =========================
+  # Taiwan Operation & Pandemic Timers
+  # =========================
+  PRC_taiwan_invasion_mission: "Begin the Assault on Taiwan"
+  PRC_vaccine_development_mission: "Vaccine Research"
+  PRC_waning_coronavirus: "Pandemic Recedes"
+  PRC_taiwan_war_countdown: "Assault on Taiwan Concludes"
+
+  # =========================
+  # Factional Crisis & Provincial Alignments
+  # =========================
+  PRC_impending_party_coup: "Impending Party Coup"
+  PRC_guangdong_sways: "Guangdong Party Committee Picks a Side"
+  PRC_sichuan_sways: "Sichuan Party Committee Picks a Side"
+  PRC_nanjing_sways: "Unrest in South China"
+  PRC_dongbei_sways: "MSS Loyalty Dissipates"
+  PRC_new_left_capital_flight: "Capital Flight from China"
+
+  # =========================
+  # Lobbying for Factions
+  # =========================
+  PRC_lobby_for_aut_decision: "Lobby Support for §gAuthoritarians§!"
+  PRC_lobby_for_nat_decision: "Lobby Support for §OHardliners§!"
+  PRC_lobby_for_cen_decision: "Lobby Support for §YEstablishment§!"
+  PRC_lobby_for_new_decision: "Lobby Support for §RNew Left§!"
+  PRC_lobby_for_lib_decision: "Lobby Support for §GDemocrats§!"
+
+  # =========================
+  # National Efforts & Campaigns
+  # =========================
+  PRC_advocate_for_militarization: "Conduct Military Exercises"
+  PRC_revanchist_propaganda: "Coordinate the Military-Industrial Complex"
+  PRC_attack_opposition_factions: "Develop New Equipment"
+  PRC_distribute_vaccines: "Distribute Vaccines"
+  PRC_hold_pro_government_rally: "New Propaganda Campaign"
+  PRC_spread_pro_government_messages: "Infrastructure Investment Plan"
+  PRC_censor_opposition_parties: "Intensify Surveillance"
+
+  # =========================
+  # Track Investments & Industry Drives
+  # =========================
+  PRC_jianzhi_1: "Increase Military-Industrial Funding"
+  PRC_gaige_1: "Synthesize Advanced Production Experience"
+  PRC_gaige_2: "Attract Foreign Investment"
+  PRC_gaige_3: "Adopt New Construction Machinery"
+  PRC_mingzhu_1: "Strengthen Domestic Development"
+  PRC_mingzhu_2: "Advance Industrial Construction"
+  PRC_mingzhu_3: "Unite Party Factions"
+
+  # =========================
+  # Agitation & Counter-Agitation
+  # =========================
+  PRC_discredit_capitalist_roaders: "Vilify the Revisionists"
+  PRC_look_for_politburo_sympathisers: "Seek Politburo Backers"
+  PRC_organize_a_red_culture_event: "Organize a Red Culture Campaign"
+  PRC_stir_up_the_workers: "Mobilize the Workers"
+  PRC_left2: "Increase R&D Investment"
+  PRC_left3: "Improve Worker Benefits"
+  PRC_demand_reforms: "Demand Reforms"
+  PRC_spread_anti_status_quo_messages: "Spread Anti-Government Messages"
+  PRC_hold_a_protest: "Control the Protests"
+  PRC_blackmail_a_critical_politician: "Blackmail a Key Politician"
+
+  # =========================
+  # Security & Public Health Actions
+  # =========================
+  PRC_deploy_the_pla: "Deploy the PLA"
+  PRC_construct_emergency_hospitals: "Build Emergency Hospitals"
+  PRC_distribute_masks: "Distribute Masks"
+  PRC_burn_infected_bodies: "Cremate Bodies"
+  PRC_declare_a_curfew: "Declare Lockdowns"
+  PRC_visit_wuhan: "Visit Wuhan"
+  PRC_shut_down_factories_covid: "Shut Down Factories"
+  PRC_reopen_factories_covid: "Resume Production"
+
+  # =========================
+  # Debug / Loader Decisions
+  # =========================
+  PRC_go_boom_debug_decision: "Dissolution of the PRC"
+  PRC_project_debug: "Gain Military Reform Tech"
+  PRC_load_Dian_focus_debug_decision: "Load Power Reform Focus Tree"
+  PRC_load_You_focus_debug_decision: "Load Oil Crisis Focus Tree"
+  PRC_load_full_taiwan_tree_debug_decision: "Load Full Taiwan War Focus Tree"
+  debug_decisions_LRD: "Hidden Dragon in the Abyss — Debug Decisions"
+  debug_decisions_LRD_desc: "Current national score: [?sum_all]\nFactory score: [?sum_gongchang_use]\nTerritory score: [?sum_dikuai_use]\nArmy score: [?sum_lujun_use]\nNavy score: [?sum_haijun_use]\nAir Force score: [?sum_kongjun_use]\nDiplomacy score: [?sum_waijiao_use]"
+
+  PRC_load_full_postwar_tree_debug_decision: "Load Full Post-War Focus Tree"
+
+  SUM_TT: "[?sum_all]"
+  LRD_TEST_SUM: "Score Test"
+
+  PRC_load_nationalist_focus_debug_decision: "Load §YHardliner§! Focus Tree"
+  PRC_load_liberal_focus_debug_decision: "Load §6Democrats§! Focus Tree"
+  PRC_load_new_left_focus_debug_decision: "Load §RNew Left§! Focus Tree"
+
+  PRC_defend_of_maos_homeland_prop: "§YPolitical Propaganda:§! Defend Chairman Mao’s Country!"
+  PRC_defend_of_maos_homeland_prop_desc: "\n\n\n\n\n£GFX_PRC_defend_of_maos_homeland_banner\n\n\n\n\n\n"
+
+  PRC_study_theories_of_chairman_prop: "§YPolitical Propaganda:§! Study Chairman Mao’s Theories!"
+  PRC_follow_lei_feng_example_prop: "§YPolitical Propaganda:§! Learn from Lei Feng’s Good Example!"
+  PRC_study_theories_of_chairman_prop_desc: "\n\n\n\n\n£GFX_PRC_study_theories_of_chairman_banner\n\n\n\n\n\n"
+
+  PRC_masses_mobilize_prop: "§YPolitical Propaganda:§! Mobilize the Masses!"
+  PRC_masses_mobilize_prop_desc: "\n\n\n\n\n£GFX_PRC_masses_mobilize_banner\n\n\n\n\n\n"
+
+  PRC_spread_maoist_propaganda: "Expand Maoist Propaganda"
+  PRC_call_upon_cultural_revolution: "Invoke the Cultural Revolution"
+  PRC_purge_anti_chinese_intelligentsia: "Purge Anti-Chinese Intelligentsia"
+  PRC_fight_against_liberal_dissent: "Suppress Liberal Dissent"
+  PRC_radicalize_CYLC: "Radicalize the Communist Youth League"
+
+  PRC_nationalist_influence_increasing_mission: "§OHardliners§! gaining influence!"
+  PRC_nationalist_attacking_libs_mission: "§OHardliners§! are attacking §GDemocrats’§! influence!"
+  PRC_nationalist_pro_war_propoganda_mission: "§OHardliners§! conducting pro-war propaganda!"
+  PRC_nationalist_militarization_mission: "§OHardliners§! agitating for militarization!"
+
+  PRC_centrist_influence_increasing_mission: "§YEstablishment§! gaining influence!"
+  PRC_centrist_attacking_new_left_mission: "§YEstablishment§! attacking §RNew Left’s§! influence!"
+  PRC_centrist_buiding_infrastructure_mission: "§YEstablishment§! lobbying for infrastructure investment!"
+  PRC_centrist_attacking_nationalists_mission: "§YEstablishment§! attacking §OHardliners’§! influence!"
+
+  PRC_new_left_influence_increasing_mission: "§RNew Left§! gaining influence!"
+  PRC_new_left_attacking_squo_mission: "§RNew Left§! attacking the §YEstablishment’s§! influence!"
+  PRC_new_left_red_culture_mission: "§RNew Left§! organizing a Red Culture campaign!"
+  PRC_new_left_organizing_workers_mission: "§RNew Left§! organizing workers!"
+
+  PRC_liberal_influence_increasing_mission: "§GDemocrats§! gaining influence!"
+  PRC_liberal_attacking_authoritarians_mission: "§GDemocrats§! attacking the §gEstablishment’s§! influence!"
+  PRC_liberal_demanding_reforms_mission: "§GDemocrats§! demanding reforms!"
+  PRC_liberal_market_oriented_policy_mission: "§GDemocrats§! implementing market-oriented policies!"
+
+  PRC_operation_crimson_sky: "§YOperation Crimson Sky§!"
+  PRC_operation_guan_yu: "§YOperation Guan Yu§!"
+  PRC_war_propaganda: "War Propaganda"
+  PRC_anti_western_proaganda: "Anti-Western Propaganda"
+  PRC_taiwan_bombing_raid: "Authorize Unrestricted Bombing"
+  PRC_operation_li_jing_decision: "§YOperation Li Jing§!"
+
+  PRC_defend_kinmen_island: "Defend Kinmen Island"
+
+  PRC_send_xinjiang_reinforcements: "Reinforce §RXinjiang§!"
+  PRC_send_xinjiang_guns: "Ship Equipment to §RXinjiang§!"
+  PRC_xinjiang_bombing_raid: "Launch Airstrikes in §RXinjiang§!"
+
+  PRC_send_tibet_reinforcements: "Reinforce §RTibet§!"
+  PRC_send_tibet_guns: "Ship Equipment to §RTibet§!"
+  PRC_tibetbombing_raid: "Launch Airstrikes in §RTibet§!"
+
+  PRC_saudi_intervention_tt: "Unlocks £decision_icon_small §HDecision§!: §YIntervene in the Saudi Civil War§!"
+  PRC_Xinjiang_Referendum_event_tt: "An independence referendum in [SIK.GetFlag]§CXinjiang§! will be held within 30 days."
+
+  PRC_send_rac_weapons: "Send Weapons to the People’s Union"
+  PRC_arm_rac_miltia: "Arm the People’s Union Forces"
+  PRC_pro_rac_bombings: "Arab Bombing Campaign"
+
+  PRC_arm_rac_miltia_cost: "£command_power §Y30§! £pol_power §Y50§!"
+  PRC_pro_rac_bombings_cost: "£command_power §Y50§! £pol_power §Y100§!"
+  PRC_arm_rac_miltia_cost_blocked: "£command_power §Y30§! £pol_power §Y50§!"
+  PRC_pro_rac_bombings_cost_blocked: "£command_power §Y50§! £pol_power §Y100§!"
+
+  PRC_pro_arr_bombings: "Arab Bombing Raids"
+  PRC_arm_arr_miltia: "Train Republican Militia"
+  PRC_send_arr_weapons: "Send Weapons to the Republicans"
+
+  PRC_send_apla_weapons: "§YUSA§!: Send Weapons to the American People’s Liberation Army"
+  PRC_train_apla_militia: "§YUSA§!: Train APLA Militia"
+  PRC_arm_the_apla_airforce: "§YUSA§!: Arm the APLA Air Force"
+
+  PRC_invite_nepal_eadi: "§YEADI§!: Invite [NEP.GetFlag]§Y[NEP.GetName]§! to join the East Asian Defense Initiative"
+  PRC_invite_bhutan_eadi: "§YEADI§!: Invite [BHU.GetFlag]§Y[BHU.GetName]§! to join the East Asian Defense Initiative"
+  PRC_military_operation_in_bhutan: "§YEast Asian Defense Initiative§!: Conduct a §Rmilitary operation§! against [BHU.GetFlag]§Y[BHU.GetName]§!"
+  PRC_invite_sri_lanka_eadi: "§YEADI§!: Invite [SRL.GetFlag]§Y[SRL.GetName]§! to join the East Asian Defense Initiative"
+
+  PRC_authorize_north_korean_intervention: "Deploy Conventional Forces to §RNorth Korea§!"
+  PRC_arm_the_prk: "Arm the §HKorean People’s Army§!"
+  PRC_send_pla_advisors: "Dispatch PLA Advisors to North Korea"
+  PRC_launch_cyberattack_rok: "Launch a Cyberattack on the ROK"
+  
+  PRC_invite_cambodia_eadi: "§YEADI§!: Invite [CAM.GetFlag]§Y[CAM.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_cambodia: "§YMilitary Influence§!: [CAM.GetFlag]§Y[CAM.GetName]§!"
+  PRC_invest_in_cambodia: "§YEconomic Influence§!: [CAM.GetFlag]§Y[CAM.GetName]§!"
+  PRC_sabotage_japanese_influence_in_cambodia: "§YSabotage Japanese Influence§!: [CAM.GetFlag]§Y[CAM.GetName]§!"
+
+  PRC_invite_indonesia_eadi: "§YEADI§!: Invite [INS.GetFlag]§Y[INS.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_indonesia: "§YMilitary Influence§!: [INS.GetFlag]§Y[INS.GetName]§!"
+  PRC_invest_in_indonesia: "§YEconomic Influence§!: [INS.GetFlag]§Y[INS.GetName]§!"
+  PRC_sabotage_japanese_influence_in_indonesia: "§YSabotage Japanese Influence§!: [INS.GetFlag]§Y[INS.GetName]§!"
+  PRC_support_indonesian_counterinsurgency: "§YSpecial Influence§!: Aid Counterinsurgency"
+
+  PRC_invite_laos_eadi: "§YEADI§!: Invite [LAO.GetFlag]§Y[LAO.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_laos: "§YMilitary Influence§!: [LAO.GetFlag]§Y[LAO.GetName]§!"
+  PRC_invest_in_laos: "§YEconomic Influence§!: [LAO.GetFlag]§Y[LAO.GetName]§!"
+  PRC_sabotage_japanese_influence_in_laos: "§YSabotage Japanese Influence§!: [LAO.GetFlag]§Y[LAO.GetName]§!"
+
+  PRC_invite_malaysia_eadi: "§YEADI§!: Invite [MAL.GetFlag]§Y[MAL.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_malaysia: "§YMilitary Influence§!: [MAL.GetFlag]§Y[MAL.GetName]§!"
+  PRC_invest_in_malaysia: "§YEconomic Influence§!: [MAL.GetFlag]§Y[MAL.GetName]§!"
+  PRC_sabotage_japanese_influence_in_malaysia: "§YSabotage Japanese Influence§!: [MAL.GetFlag]§Y[MAL.GetName]§!"
+
+  PRC_invite_myanmar_eadi: "§YEADI§!: Invite [BRM.GetFlag]§Y[BRM.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_myanmar: "§YMilitary Influence§!: [BRM.GetFlag]§Y[BRM.GetName]§!"
+  PRC_invest_in_myanmar: "§YEconomic Influence§!: [BRM.GetFlag]§Y[BRM.GetName]§!"
+  PRC_sabotage_japanese_influence_in_myanmar: "§YSabotage Japanese Influence§!: [BRM.GetFlag]§Y[BRM.GetName]§!"
+  PRC_support_junta: "§RMilitary Action§!: Intervene in the §YMyanmar Civil War§!"
+
+  PRC_invite_philippines_eadi: "§YEADI§!: Invite [PHI.GetFlag]§Y[PHI.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_philippines: "§YMilitary Influence§!: [PHI.GetFlag]§Y[PHI.GetName]§!"
+  PRC_invest_in_philippines: "§YEconomic Influence§!: [PHI.GetFlag]§Y[PHI.GetName]§!"
+  PRC_sabotage_japanese_influence_in_philippines: "§YSabotage Japanese Influence§!: [PHI.GetFlag]§Y[PHI.GetName]§!"
+
+  PRC_invite_singapore_eadi: "§YEADI§!: Invite [SIG.GetFlag]§Y[SIG.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_singapore: "§YMilitary Influence§!: [SIG.GetFlag]§Y[SIG.GetName]§!"
+  PRC_invest_in_singapore: "§YEconomic Influence§!: [SIG.GetFlag]§Y[SIG.GetName]§!"
+  PRC_sabotage_japanese_influence_in_singapore: "§YSabotage Japanese Influence§!: [SIG.GetFlag]§Y[SIG.GetName]§!"
+
+  PRC_invite_thailand_eadi: "§YEADI§!: Invite [SIA.GetFlag]§Y[SIA.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_thailand: "§YMilitary Influence§!: [SIA.GetFlag]§Y[SIA.GetName]§!"
+  PRC_invest_in_thailand: "§YEconomic Influence§!: [SIA.GetFlag]§Y[SIA.GetName]§!"
+  PRC_sabotage_japanese_influence_in_thailand: "§YSabotage Japanese Influence§!: [SIA.GetFlag]§Y[SIA.GetName]§!"
+
+  PRC_invite_vietnam_to_eadi: "§YEADI§!: Invite [VIN.GetFlag]§Y[VIN.GetName]§! to join the East Asian Defense Initiative"
+  PRC_increase_military_influence_in_vietnam: "§YMilitary Influence§!: [VIN.GetFlag]§Y[VIN.GetName]§!"
+  PRC_invest_in_vietnam: "§YEconomic Influence§!: [VIN.GetFlag]§Y[VIN.GetName]§!"
+  PRC_sabotage_japanese_influence_in_vietnam: "§YSabotage Japanese Influence§!: [VIN.GetFlag]§Y[VIN.GetName]§!"
+  PRC_relinquish_chinese_claims: "§YSpecial Influence§!: Relinquish Sovereignty Claims over the Paracel Islands"
+
+  PRC_SPZ_south_china: "Establish a Special Administrative Zone in §Y[FROM.GetName]§!"
+
+  PRC_meet_2020_goal: "Meet the 2020 Environmental Goals"
+  PRC_enforce_eco_friendly_construction: "Enforce Eco-Friendly Construction Plan"
+  PRC_subsidize_solar_plant_construction: "Subsidize Solar Power Plant Construction"
+  PRC_subsidize_wind_plant_construction: "Subsidize Wind Power Plant Construction"
+  PRC_increase_punishments_for_enviromental_crimes: "Impose Harsher Penalties for Environmental Crimes"
+  PRC_subsidize_electric_cars: "Subsidize Electric Vehicles"
+  PRC_green_cities_initiative: "Green Cities Initiative"
+
+  PRC_modernize_chengdu_lhasa_railway: "Modernize the Qinghai–Tibet Railway"
+  PRC_complete_pearl_river_megacity: "Complete the Pearl River Megacity"
+  PRC_beijing_tianjin_megacity: "Link the Beijing–Tianjin Megacity"
+  PRC_infrastructure_overhaul: "Infrastructure Overhaul"
+
+  PRC_ban_private_education: "Ban Private Education"
+  PRC_expand_charter_schools: "Expand Public Schools"
+  PRC_privacy_protection_law: "Personal Information Protection Law"
+
+  PRC_nationalist_propaganda_campaign: "Promote §ORevanchism§!"
+  PRC_conduct_army_exercises: "Organize PLA Army Exercises"
+  PRC_curtail_party_corruption: "Crack Down on §RParty§! Corruption"
+  PRC_hold_patriotic_rally: "Hold Patriotic Rally"
+  PRC_lobby_for_npc_support: "Secure NPC Support"
+  PRC_reign_in_ceos: "Reign in CEOs"
+  PRC_government_employment_program: "Government Employment Program"
+  PRC_regulate_financial_speculation: "Regulate Financial Speculation"
+
+  PRC_create_imperial_holding_xinjiang: "Create Imperial Holding: §YXinjiang§!"
+  PRC_create_imperial_holding_tibet: "Create Imperial Holding: §YTibet§!"
+  PRC_create_imperial_holding_gansu: "Create Imperial Holding: §YGansu§!"
+  PRC_create_imperial_holding_mongolia: "Create Imperial Holding: §YInner Mongolia§!"
+  PRC_create_imperial_holding_dongbei: "Create Imperial Holding: §YNortheast§!"
+  PRC_create_imperial_holding_taiwan: "Create Imperial Holding: §YTaiwan§!"
+
+  PRC_arrest_liberal_politicians: "Arrest Democratic Politicians"
+  PRC_raid_univiersities: "Raid Universities"
+  PRC_step_into_guangdong: "Declare Martial Law in §YGuangdong§!"
+  PRC_step_into_nanjing: "Declare Martial Law in §YNanjing§!"
+  PRC_step_into_sichuan: "Declare Martial Law in §YSichuan§!"
+  PRC_step_into_dongbei: "Declare Martial Law in §YNortheast§!"
+
+  PRC_arrest_communist_politicians: "Arrest Communist Politicians"
+  PRC_arrest_labor_agitators: "Arrest Labor Agitators"
+
+  PRC_merge_the_tech_companies: "Merge Tech Companies"
+  PRC_merge_the_banks: "Expand the Banks"
+  PRC_merge_the_resource_extraction_corps: "Merge Resource Extraction Corporations"
+  
+  PRC_adapt_to_modern_defense: "Adapt to Modern Defensive Strategy"
+  PRC_adapt_to_modern_offensives: "Adapt to Modern Offensive Strategy"
+  PRC_adapt_to_modern_airbattles: "Adapt to Modern Ground-Support Doctrine"
+
+  PRC_destroy_taiwan_infr: "Destroy Taiwan's Infrastructure"
+  PRC_destroy_taiwan_civ_industry: "Destroy Taiwan's Civilian Industrial Complex"
+  PRC_destroy_taiwan_war_industry: "Destroy Taiwan's War Industry"
+
+  PRC_strike_senkaku: "Strike the Senkaku Islands"
+  PRC_strike_okinawa: "Strike Okinawa"
+
+  PRC_host_non_nuclear_negotiations: "§YDiplomacy§!: Host Denuclearization Talks"
+
+  PRC_send_pakistan_planes: "§YAid§!: Send Aircraft to Pakistan"
+  PRC_send_pakistan_weapons: "§YAid§!: Deliver Weapons"
+  PRC_embed_advisors_pakistan: "§YAid§!: Dispatch Military Advisors to Pakistan"
+
+  PRC_initiate_operation_gul: "§YAid§!: Initiate §YOperation Gul§!"
+  PRC_initiate_operation_gul_desc: "\n\n\n\n\n\n\n\n\n\\n\n\n\n£GFX_operation_gul_texticon\n\n\n\n\n\n\n\n\n\n\n\n"
+
+  PRC_initiate_operation_khalid: "§YAid§!: Initiate §YOperation Khalid§!"
+  PRC_initiate_operation_khalid_desc: "\n\n\n\n\n\n\n\\n\n\n\n£GFX_operation_khalid_texticon\n\n\n\n\n\n\n\n\n\n"
+
+  PRC_women_in_the_workforce_decision: "Women in the Workforce"
+
+  PRC_proudly_serve_your_nation: "§YPolitical Propaganda§!: Be Proud to Serve Your Nation!"
+  PRC_proudly_serve_your_nation_desc: ""
+
+  PRC_naval_exercises_decision: "§YEADI§!: Conduct Naval Exercises"
+  PRC_intensify_marine_training: "§YProgram§!: Intensify Amphibious Training"
+
+  PRC_thunder_god_program_mountain: "§YThunder God Assault Team§!: Extreme Mountain Training"
+  PRC_thunder_god_program_jungle: "§YThunder God Assault Team§!: Jungle Training"
+
+  PRC_military_intervention_vin: "§YIntervention§!: Invade Vietnam"
+  PRC_military_intervention_thailand: "§YIntervention§!: Invade Thailand"
+
+  PRC_modern_dare_to_die_corps: "Form a Modern ‘Dare-to-Die’ Corps"
+
+  PRC_nuke_tokyo: "Deploy §RTactical Nuclear Weapons§! on §YTokyo§!"
+  PRC_nuke_nagoya: "Deploy §RTactical Nuclear Weapons§! on §YNagoya§!"
+  PRC_nuke_osaka: "Deploy §RTactical Nuclear Weapons§! on §YOsaka§!"
+  PRC_nuke_hiroshima: "Deploy §RTactical Nuclear Weapons§! on §YHiroshima§!"
+  PRC_nuke_seoul: "Deploy §RTactical Nuclear Weapons§! on §YSeoul§!"
+  PRC_nuke_busan: "Deploy §RTactical Nuclear Weapons§! on §YBusan§!"
+  PRC_nuke_dehli: "Deploy §RTactical Nuclear Weapons§! on §YDelhi§!"
+  PRC_nuke_chennai: "Deploy §RTactical Nuclear Weapons§! on §YChennai§!"
+
+  PRC_taiwan_war_lost: "The §YPeople's Republic of China§! has lost the §YTaiwan Strait War§!"
+
+  catastrophic_covid: "§RCatastrophic§!"
+  crippling_covid: "§RDisastrous§!"
+  serious_covid: "§RSevere§!"
+  moderate_covid: "§YModerate§!"
+  mild_covid: "§GMild§!"
+
+  enemy_control: "§RUnder Enemy Control§!"
+  friendly_control: "§CUnder Allied Control§!"
+  our_control: "§GUnder Our Control§!"
+
+  prc_approval_tt: "£GFX_approval_rating_texticon §YApproval Rating§! is at least §R50%§!"
+
+  PRC_pragmatic_reformation_tt: "§7We will attempt mutual compromise with the conservatives.§!"
+  PRC_full_speed_ahead_tt: "§5We will move to purge disloyal conservatives from the Party.§!"
+
+  PRC_revive_peoples_war_mindset_1_tt: "If the §GReignite Chinese Nationalism§! focus is completed:"
+  PRC_revive_peoples_war_mindset_2_tt: "\nIf the §GDenounce Revisionism§! focus is completed:"
+  PRC_rejuvinate_cpc_cadres_reward_tt: "If the §GNew Blood for the Cadre Corps§! focus is completed:"
+  PRC_reliable_politburo_reward_tt: "\nIf the §GReliable Politburo§! focus is completed:"
+  PRC_begin_the_session_of_cpc_tt: "§6China's future will be decided here…§!"
+
+  PRC_national_corporatism_tt: "Unlocks £decision_icon_small §HDecision§!: §YForm Large State-Owned Enterprises§!"
+  PRC_youth_construction_brigades_tt: "Unlocks £decision_icon_small §HDecision§!: §YBuild Mega-Projects§!"
+  PRC_purge_the_liberal_reformers_tt: "Unlocks £decision_icon_small §HDecision§!: §YEnd the Shanghai Faction§!"
+  PRC_purge_the_communist_hardliners_tt: "Unlocks £decision_icon_small §HDecision§!: §YEnd the Tuanpai§!"
+  PRC_honor_the_past_dynasties_tt: "Unlocks £decision_icon_small §HBalance of Power Decisions§! related to §YGlorifying the Dynasties of China§!"
+  PRC_the_organic_state_tt: "We will §Rcrush all opposition§! in one stroke and safeguard the nation's future!"
+  PRC_chinas_natural_boundaries_tt: "We will §Rreclaim§! lands lost by the §YQing Dynasty§! and complete the §YSinicization§! of §YTibet§!, §YXinjiang§!, and §YTaiwan§!."
+
+  PRC_has_approval_rating_greater_than_or_equals_tt: "§YApproval Rating§! at least §G[?PRC_approval_rating_trigger_temp|1%]§! "
+  PRC_modernize_the_missile_corps_tt: "This will add §Radditional objectives§! in a §YGreat Asian War§! event."
+  PRC_enviromental_complete_greater_than_or_equals_tt: "Environmental Reform Progress at least §Y[?PRC_enviromental_progress_temp|1%]§!"
+  PRC_has_approval_rating_greater_than_or_equals_to: "£GFX_approval_rating_texticon §YIntra-Party Approval§! at least §Y[?PRC_approval_rating_trigger_temp|1%]§! "
+  PRC_add_party_approval_tt: "Gain £GFX_approval_rating_texticon §YIntra-Party Approval§!: [?PRC_approval_rating_var_temp|=+1%]."
+  PRC_capital_flight_timeout_tt: "£YCapital Flight§! will last §Y[?PRC_capital_flight_timeout_temp]§! days!"
+
+  PRC_operation_crimson_sky_decision_cost: "£command_power §Y30§!"
+  PRC_operation_crimson_sky_decision_cost_blocked: "£command_power §R30§!"
+  PRC_launch_cyberattack_rok_cost: "£command_power §R50§!"
+
+  PRC_operation_crimson_sky_tt: "Deploy §RParatroopers§! to seize Taiwanese beachheads"
+  PRC_operation_guan_yu_tt: "Deploy §RMarine Corps§! to seize Taiwanese beachheads"
+  PRC_second_wave_missile_strikes_tt: "All divisions §Rlose 15%§! Organization and Attack"
+  PRC_strike_senkaku_tt: "Enemy divisions on the Senkaku Islands §Rlose 30%§! Organization and Attack"
+  PRC_strike_okinawa_tt: "Enemy divisions on Okinawa §Rlose 15%§! Organization and Attack"
+
+  PRC_air_deconservation_tt: "The following equipment will be added to reserves:\n§Y50 Xi'an JH-7\n250 Shenyang J-7\n100 Shenyang J-8\n250 Hongdu Q-5§!"
+
+  PRC_add_influence_nat_tooltip: "Gain §OHardliners§! Influence: [?PRC_influence_nat_var_temp|=+1%]."
+  PRC_has_influence_nat_greater_than_or_equals_tooltip: "§OHardliners§! Influence at least §Y[?PRC_influence_nat_trigger_temp|1%]§! "
+  PRC_has_influence_nat_less_than_tooltip: "§OHardliners§! Influence less than §Y[?PRC_influence_nat_trigger_temp|1%]§! "
+  PRC_has_influence_nat_greatest_tooltip: "§OHardliners§! have the highest Influence"
+
+  PRC_add_influence_cen_tooltip: "Gain §YCentrists§! Influence: [?PRC_influence_cen_var_temp|=+1%]."
+  PRC_has_influence_cen_greater_than_or_equals_tooltip: "§YCentrists§! Influence at least §Y[?PRC_influence_cen_trigger_temp|1%]§! "
+  PRC_has_influence_cen_less_than_tooltip: "§YCentrists§! Influence less than §Y[?PRC_influence_cen_trigger_temp|1%]§! "
+  PRC_has_influence_cen_greatest_tooltip: "§YCentrists§! have the highest Influence"
+
+  PRC_add_influence_new_tooltip: "Gain §RNew Left§! Influence: [?PRC_influence_new_var_temp|=+1%]."
+  PRC_has_influence_new_greater_than_or_equals_tooltip: "§RNew Left§! Influence at least §Y[?PRC_influence_new_trigger_temp|1%]§! "
+  PRC_has_influence_new_less_than_tooltip: "§RNew Left§! Influence less than §Y[?PRC_influence_new_trigger_temp|1%]§! "
+  PRC_has_influence_new_greatest_tooltip: "§RNew Left§! have the highest Influence"
+
+  PRC_add_influence_ref_tooltip: "Gain §3Reformists§! Influence: [?PRC_influence_ref_var_temp|=+1%]."
+  PRC_has_influence_ref_greater_than_or_equals_tooltip: "§3Reformists§! Influence at least §Y[?PRC_influence_ref_trigger_temp|1%]§! "
+  PRC_has_influence_ref_less_than_tooltip: "§3Reformists§! Influence less than §Y[?PRC_influence_ref_trigger_temp|1%]§! "
+  PRC_has_influence_ref_greatest_tooltip: "§3Reformists§! have the highest Influence"
+
+  PRC_add_influence_lib_tooltip: "Gain §GDemocrats§! Influence: [?PRC_influence_lib_var_temp|=+1%]."
+  PRC_has_influence_lib_greater_than_or_equals_tooltip: "§GDemocrats§! Influence at least §Y[?PRC_influence_lib_trigger_temp|1%]§! "
+  PRC_has_influence_lib_less_than_tooltip: "§GDemocrats§! Influence less than §Y[?PRC_influence_lib_trigger_temp|1%]§! "
+  PRC_has_influence_lib_greatest_tooltip: "§GDemocrats§! have the highest Influence"
+  
+  PRC_influence_nat_tooltip: "§OHardliners§! influence will change by [?PRC_influence_nat_var_temp|=+1%]."
+  PRC_influence_lib_tooltip: "§GDemocrats§! influence will change by [?PRC_influence_lib_var_temp|=+1%]."
+  PRC_influence_cen_tooltip: "§YCentrists§! influence will change by [?PRC_influence_cen_var_temp|=+1%]."
+  PRC_influence_new_tooltip: "§RNew Left§! influence will change by [?PRC_influence_new_var_temp|=+1%]."
+  PRC_influence_ref_tooltip: "§3Reformists§! influence will change by [?PRC_influence_ref_var_temp|=+1%]."
+
+  PRC_piss_off_uhygers: "This will §Rgreatly enrage§! the local Uyghur population."
+  PRC_side_with_nat_tooltip: "Side with the §OHardliners§! and restore China’s dominance in Asia!"
+  PRC_side_with_cen_tooltip: "Side with the §YCentrists§!, lead China to achieve the Two Centenary Goals, and realize the Chinese Dream of national rejuvenation!"
+  PRC_side_with_lib_tooltip: "Side with the §GDemocrats§! to reform China into a Western-style democracy and restore freedom and the rule of law to this troubled land."
+  PRC_side_with_left_tooltip: "Side with the §RNew Left§! and fulfill China’s socialist ambition for comprehensive development!"
+
+  PRC_control_the_coronavirus_mission: "Control the Outbreak"
+  PRC_covid19_tooltip: "View the spread of COVID-19."
+  PRC_set_up_checkpoints_tooltip: "The §GPLA§W will deploy to §YWuhan§W and surrounding cities to establish checkpoints, §Rpreventing further spread of the outbreak.§W"
+  PRC_increase_corona: "The COVID-19 outbreak will §Rworsen§!."
+  PRC_chinese_unity_tooltip: "View rebellious regions."
+
+  PRC_taiwan_invasion_deadline_tooltip: "To §Gsuccessfully§! §Yreunify Taiwan§!, you must fully control the island and hold it until the §Rdeadline§!."
+  PRC_taiwan_invasion_deadline_successful_tooltip: "Now we have §Gsucceeded§!!"
+  PRC_taiwan_invasion_deadline_failure_tooltip: "Now we have §Rfailed§!!"
+
+  PRC_vaccine_development_mission_tt: "§YCOVID-19 vaccine§! research is nearing completion"
+  PRC_drill_for_xinjiang_oil_tt: "\nThis will §Rgreatly enrage§! the local §YUyghur§! population!"
+  PRC_joint_ownership_with_vietnam_tt: "\n§YChina–Vietnam§! relations will §Gimprove significantly!§! This will increase the likelihood that §YVietnam§! joins the §REast Asian Defense Initiative§! after the Taiwan Strait war ends."
+  PRC_continue_artificial_island_construction_tt: "\n§YChina–Vietnam§! relations will §Rdeteriorate sharply!§!"
+  PRC_shake_up_the_politburo_tt: "§RChina stands at a crossroads. Her future—her fate—depends on how Xi Jinping chooses in the coming days.§!"
+  PRC_spz_tooltip: "View provinces eligible to establish Special Political Zones."
+
+  PRC_add_CAM_influence_tt: "§READI§! influence in @CAM §YCambodia§!: §Y[?global.PRC_influence_CAM_var_temp|=+1%]§!"
+  PRC_subtract_CAM_influence_tt: "§READI§! influence in @CAM §YCambodia§!: §Y[?global.PRC_influence_CAM_var_temp|=+1%]§!"
+  PRC_add_INS_influence_tt: "§READI§! influence in @INS §YIndonesia§!: §Y[?global.PRC_influence_INS_var_temp|=+1%]§!"
+  PRC_subtract_INS_influence_tt: "§READI§! influence in @INS §YIndonesia§!: §Y[?global.PRC_influence_INS_var_temp|=+1%]§!"
+  PRC_add_LAO_influence_tt: "§READI§! influence in @LAO §YLaos§!: §Y[?global.PRC_influence_LAO_var_temp|=+1%]§!"
+  PRC_subtract_LAO_influence_tt: "§READI§! influence in @LAO §YLaos§!: §Y[?global.PRC_influence_LAO_var_temp|=+1%]§!"
+  PRC_add_MAL_influence_tt: "§READI§! influence in @MAL §YMalaysia§!: §Y[?global.PRC_influence_MAL_var_temp|=+1%]§!"
+  PRC_subtract_MAL_influence_tt: "§READI§! influence in @MAL §YMalaysia§!: §Y[?global.PRC_influence_MAL_var_temp|=+1%]§!"
+  PRC_add_BRM_influence_tt: "§READI§! influence in @BRM §YMyanmar§!: §Y[?global.PRC_influence_BRM_var_temp|=+1%]§!"
+  PRC_subtract_BRM_influence_tt: "§READI§! influence in @BRM §YMyanmar§!: §Y[?global.PRC_influence_BRM_var_temp|=+1%]§!"
+  PRC_add_SIG_influence_tt: "§READI§! influence in @SIG §YSingapore§!: §Y[?global.PRC_influence_SIG_var_temp|=+1%]§!"
+  PRC_subtract_SIG_influence_tt: "§READI§! influence in @SIG §YSingapore§!: §Y[?global.PRC_influence_SIG_var_temp|=+1%]§!"
+  PRC_add_SIA_influence_tt: "§READI§! influence in @SIA §YThailand§!: §Y[?global.PRC_influence_SIA_var_temp|=+1%]§!"
+  PRC_subtract_SIA_influence_tt: "§READI§! influence in @SIA §YThailand§!: §Y[?global.PRC_influence_SIA_var_temp|=+1%]§!"
+  PRC_add_VIN_influence_tt: "§READI§! influence in @VIN §YVietnam§!: §Y[?global.PRC_influence_VIN_var_temp|=+1%]§!"
+  PRC_subtract_VIN_influence_tt: "§READI§! influence in @VIN §YVietnam§!: §Y[?global.PRC_influence_VIN_var_temp|=+1%]§!"
+  PRC_add_PHI_influence_tt: "§READI§! influence in @PHI §YPhilippines§!: §Y[?global.PRC_influence_PHI_var_temp|=+1%]§!"
+  PRC_subtract_PHI_influence_tt: "§READI§! influence in @PHI §YPhilippines§!: §Y[?global.PRC_influence_PHI_var_temp|=+1%]§!"
+
+  PRC_army_hq_tt: "Create §G3§! §YArmy Division HQs§!"
+  PRC_marine_division: "Form §G3§! §YMarine Divisions§! in §YMinhai§!"
+  PRC_conservates_angry: "§RThe conservatives will be furious.§!"
+
+  PRC_nat_loc: "\n£GFX_PRC_nationalist_decision §OHardliners§! Influence: [PRC_nat_status_text]\n"
+  PRC_lib_loc: "\n£GFX_PRC_liberal_decision §GDemocrats§! Influence: [PRC_lib_status_text]\n"
+
+  state_visit: "State Visit"
+  recent_territorial_violations: "Recent Terrorist Attacks"
+  PRC_blockade_of_taiwan: "Blockade of Taiwan"
+  threat_PRC_taiwan_invasion: "PRC Continues the Liberation War"
+  PRC_east_asian_defense_initative_faction: "East Asian Defense Initiative"
+  
+  PRC_totalitarian_socialist_party_long: "Ministry of State Security"
+  PRC_totalitarian_socialist_party: "Ministry of State Security"
+
+  PRC_communist_party_long: "Communist Party of China"
+  PRC_communist_party: "Communist Party of China"
+
+  PRC_libertarian_socialist_party_long: "Revolutionary Committee of the Chinese Kuomintang"
+  PRC_libertarian_socialist_party: "Revolutionary Committee of the Chinese Kuomintang"
+
+  PRC_social_democrat_party_long: "Jiusan Society"
+  PRC_social_democrat_party: "Jiusan Society"
+
+  PRC_social_liberal_party_long: "China Zhi Gong Party"
+  PRC_social_liberal_party: "China Zhi Gong Party"
+
+  PRC_market_liberal_party_long: "China Democratic League/China Association for Promoting Democracy"
+  PRC_market_liberal_party: "China Democratic League/China Association for Promoting Democracy"
+
+  PRC_conservative_party_long: "Independents"
+  PRC_conservative_party: "Independents"
+
+  # NOTE: Corrected to match the Chinese names (民主促进会/农工党)
+  PRC_authoritarian_democrat_party_long: "China Association for Promoting Democracy/Chinese Peasants' and Workers' Democratic Party"
+  PRC_authoritarian_democrat_party: "China Association for Promoting Democracy/Chinese Peasants' and Workers' Democratic Party"
+
+  PRC_nationalist_party_long: "People's Liberation Army"
+  PRC_nationalist_party: "People's Liberation Army"
+
+  PRC_fascist_party_long: "§RIllegal§!"
+  PRC_fascist_party: "§RIllegal§!"
+  PRC_national_socialist_party_long: "§RIllegal§!"
+  PRC_national_socialist_party: "§RIllegal§!"
+  PRC_suspended_party_long: "§RSuspended§!"
+  PRC_suspended_party: "§RSuspended§!"
+
+  CHF_market_liberal_long: "Provisional Revolutionary Government"
+  CHF_market_liberal_short: "National Revolutionary Conference"
+
+  PRC_nat_totalitarian_socialist_long: "Communist Party of China - Militarists"
+  PRC_nat_totalitarian_socialist_short: "CPC - Militarists"
+  PRC_nat_communist_long: "Communist Party of China - Moderates"
+  PRC_nat_communist_short: "CPC - Moderates"
+
+  PRC_nat_fascist_long: "National Restoration Party (Radical)"
+  PRC_nat_fascist_short: "National Restoration Party (Radical)"
+  PRC_nat_authoritarian_democrat_long: "National Restoration Party (Centre)"
+  PRC_nat_authoritarian_democrat_short: "National Restoration Party (Centre)"
+
+  PRC_libertarian_socialist_nat_long: "§RIllegal§!"
+  PRC_libertarian_socialist_nat_short: "§RIllegal§!"
+  PRC_nat_social_democrat_long: "§RIllegal§!"
+  PRC_nat_social_democrat_short: "§RIllegal§!"
+  PRC_nat_market_liberal_long: "§RIllegal§!"
+  PRC_nat_market_liberal_short: "§RIllegal§!"
+  PRC_nat_social_liberal_long: "§RIllegal§!"
+  PRC_nat_social_liberal_short: "§RIllegal§!"
+  PRC_nat_conservative_long: "§RIllegal§!"
+  PRC_nat_conservative_short: "§RIllegal§!"
+
+  PRC_cpc_maoist_tot_soc: "Communist Party of China - Maoists"
+  PRC_cpc_maoist_tot_soc_short: "CPC - Maoists"
+  PRC_cpc_rad_maoist_tot_soc: "Communist Party of China - Red Guards"
+  PRC_cpc_rad_maoist_tot_soc_short: "CPC - Red Guards"
+  PRC_cpc_fail_authsoc: "Communist Party of China - Centrists"
+  PRC_cpc_fail_authsoc_short: "CPC - Centrists"
+  PRC_cpc_neomarxist_libsoc: "Communist Party of China - Reformers"
+  PRC_cpc_neomarxist_libsoc_short: "CPC - Reformers"
+  PRC_cpc_liberals_authdem: "Communist Party of China - Liberals"
+  PRC_cpc_liberals_authdem_short: "CPC - Liberals"
+  
+  saudi_civil_war_flag: "§YSaudi Civil War§! has broken out!"
+  PRC_oil_crisis_ongoing: "§YOil Crisis§! is ongoing"
+  us_civil_war_flag: "§YAmerican Civil War§! has broken out!"
+  PRC_dealt_with_coronavirus: "Our §YCOVID-19 vaccine§! has been §Gsuccessfully developed§!."
+  PRC_no_coronavirus: "§RCOVID-19 outbreak§! has ended!"
+  PRC_cold_war_flag: "§RAsian Cold War§! has begun!"
+  north_korean_civil_war: "§RNorth Korean Civil War§! §Yis still ongoing§!."
+  pan_asian_war_ongoing: "§RGreat Asian War§! §Yis ongoing§!"
+  PRC_suspend_the_npc_flag: "The §YStanding Committee§! has resigned"
+  PRC_protests_southern_cities_flag: "§RProtests erupt in southern cities§!"
+  PRC_protests_against_xi_flag: "§RAnti-Xi protests§!"
+  PRC_ongoing_taiwan_war: "§YTaiwan Strait War§! §Rongoing§!"
+  PRC_fast_finalization_flag: "Selected the §Y“Speed is Paramount”§! plan"
+  PRC_slowly_but_surely_flag: "Selected the §YSteady Progress§! plan"
+
+  PRC_balance_of_power_category: "Central Economic Balance Plan"
+  PRC_power_balance: "Dual Nature of the Communist Party of China"
+  PRC_nationalization_side: "With §REquality§! at the Core"
+  PRC_privitization_side: "With §BProsperity§! at the Core"
+  PRC_total_nationalization_range: "Extreme §REquality§!"
+  PRC_nationalization_dominant_range: "Advance §REquality§!"
+  PRC_nationalizaton_alligned_range: "Encourage §REquality§!"
+  PRC_nationalization_lean_range: "Lean toward §REquality§!"
+  PRC_privitization_lean_range: "Lean toward §BProsperity§!"
+  PRC_privitization_alligned_range: "Encourage §BProsperity§!"
+  PRC_privitization_dominant_range: "Advance §BProsperity§!"
+  PRC_privitization_total_control_range: "Extreme §BProsperity§!"
+  PRC_nationalist_bop: "Balance of Power"
+
+  PRC_Liberal_Conservative_power_balance: "Winds of Democracy"
+  PRC_conservate_side: "£GFX_PRC_oligarchs §gOligarchs§!"
+  PRC_conservate_side_desc: "The wave of reform is sweeping China, but the old order still dominates the bureaucracy. These remnants of the communist era are intent on disrupting, subverting, and toppling the new government."
+  PRC_liberal_side: "£GFX_NL_LS §3Reformers§!"
+  PRC_liberal_side_desc: "As reform arrives, the foundations of the People’s Republic must be replaced by a new basis built on democratic process and freedom of speech."
+  PRC_conservate_total_control_range: "£GFX_PRC_oligarchs §gOligarchs§! Total Control"
+  PRC_conservate_dominant_range: "£GFX_PRC_oligarchs §gOligarchs§! Dominant"
+  PRC_conservate_alligned_range: "£GFX_PRC_oligarchs §gOligarchs§! Aligned"
+  PRC_conservate_lean_range: "£GFX_PRC_oligarchs §gOligarchs§! Ascendant"
+  PRC_balance_range: "Perfect Balance"
+  PRC_liberal_lean_range: "£GFX_NL_LS §3Reformers§! Ascendant"
+  PRC_liberal_alligned_range: "£GFX_NL_LS §3Reformers§! Aligned"
+  PRC_liberal_dominant_range: "£GFX_NL_LS §3Reformers§! Dominant"
+  PRC_liberal_total_control_range: "£GFX_NL_LS §3Reformers§! Total Control"
+  PRC_balance_of_power_liberal_category: "Winds of Democracy"
+
+  PRC_Embrace_Communitarianism: "Embrace Communitarianism"
+  PRC_Proprierty: "£GFX_Proprierty_texticon Propriety"
+  PRC_Righteousness: "£GFX_Righteousness_texticon Righteousness"
+  PRC_Integrity: "£GFX_Integrity_texticon Integrity"
+  PRC_Shame: "£GFX_Shame_texticon Shame"
+  PRC_Bend_to_Party_Demands: "Bend to Party Demands"
+  PRC_Communist_Kickbacks: "“Moderate” Communism"
+  PRC_Reinforce_Communist_Doctrine: "Reinforce Communist Principles"
+  PRC_Set_New_Gaokao_Standards: "Set New Gaokao Standards"
+  PRC_Negotiate_with_the_Fuerdai: "Negotiate with the Fuerdai"
+  PRC_Step_Past_Chairman_Xiaoping: "Move Beyond Comrade Xiaoping"
+  PRC_Acknowledge_Government_Mistakes: "Acknowledge Government Mistakes"
+  PRC_Quiet_Moderate_Politicians: "Quell Radical Impulses"
+  PRC_Reform_by_Force: "Top-Down Reform"
+  PRC_Disband_the_SPC: "Indefinitely Suspend the NPC Standing Committee"
+  PRC_Force_Federalism: "Impose Federalization"
+  PRC_Sack_the_SPC: "Manipulate the NPC Standing Committee"
+  PRC_Propogate_Factionalism: "Expand Factional Struggle"
+  PRC_Utilize_Political_Favours: "Exploit Political Backchannels"
+  PRC_Empower_Democratic_Opposition_in_NPC: "Democratize the NPC"
+  PRC_Replace_Western_Bureaucracy: "Replace Xinjiang Bureaucrats"
+  PRC_Utilize_Political_Refugees: "Leverage Political Refugees"
+  PRC_Reshuffle_Bureaucracy: "Reshuffle the Bureaucracy"
+  PRC_Recall_Unpopular_Politicians: "Recall Disfavored Politicians"
+  PRC_Negotiate_with_the_Conservative: "Negotiate with the Conservatives"
+
+  PRC_LIB_communist_long: "Communist Party of China"
+  PRC_LIB_communist: "Communist Party of China"
+  PRC_LIB_libertarian_socialist_long: "Progressive Party"
+  PRC_LIB_libertarian_socialist: "Progressive Party"
+  PRC_LIB_social_democrat_long: "Society for Regenerating China"
+  PRC_LIB_social_democrat: "Society for Regenerating China"
+  PRC_LIB_social_liberal_long: "New Democracy Party of China"
+  PRC_LIB_social_liberal: "New Democracy Party of China"
+  PRC_LIB_conservative_long: "Chinese United Party"
+  PRC_LIB_conservative: "Chinese United Party"
+  PRC_LIB_auth_dem_long: "Communist Party of China (Reformers)"
+  PRC_LIB_auth_dem: "Communist Party of China (Reformers)"
+
+  PRC_kashgar_oil_contract: "Kashgar Oil Contract"
+  PRC_hoton_oil_contract: "Mongolian Oil Contract"
+  PRC_altai_oil_contract: "Altai Oil Contract"
+  PRC_set_energy_price_controls: "Set Energy Price Controls"
+  PRC_liberalize_energy_prices: "Liberalize Energy Prices"
+  PRC_energy_price_controls_flag: "§RNo§! energy price controls"
+  PRC_liberalized_energy_prices_flag: "§RNo§! liberalization of energy prices"
+
+  NMA_ussr: "Northeast Socialist Republic"
+  NMA_russia: "Northeast Military District"
+  NMA_fascist: "Yellow Russia"
+
+  PRC_empire: "Chinese Empire"
+  SIK_empire: "Imperial Xinjiang"
+  TIB_empire: "Imperial Tibet"
+  MST_empire: "Imperial Northeast"
+  CHI_empire: "Imperial Taiwan"
+  XIE_empire: "Imperial Gansu"
+  INM_empire: "Imperial Inner Mongolia"
+
+  PRC_surveillanced_city: "Digital Credit System"
+  PRC_megacity: "Megacity"
+  PRC_opposition_crushed_nat: "Internal dissenters have been §Rcrushed§!"
+  PRC_occupied_guangdong: "§RMartial law§! is in force in §YGuangdong§!"
+  PRC_occupied_sichuan: "§RMartial law§! is in force in §YSichuan§!"
+  PRC_invasion_of_kinmen_threat: "Invasion of Kinmen"
+  PRC_invasion_of_taiwan_threat: "Invasion of Taiwan"
+
+  CGK: "Republic of San'in-do"
+  KYU: "People's Republic of Kyushu"
+  HOK: "Hokkaido Federation"
+  SHK: "Shikoku Socialist Republic"
+  KSI: "Kansai State"
+  CHB: "Chubu Republic"
+  KTO: "Kanto State"
+  TOH: "Tohoku Republic"

@@ -1,0 +1,93 @@
+﻿l_english:
+  PRC_build_green_china_dynamic: "Building a Green China"
+  PRC_build_green_china: "Building a Green China"
+  PRC_build_green_china_desc: "Earth is the common home of all life, and protecting nature is our shared duty. Since the Western Industrial Revolution, humanity’s footprint has too often meant degradation and pollution. For decades we accelerated growth to catch up with the world—sometimes at the expense of China’s environment. Those days are over. With today’s economic strength and technological capability, we can protect the environment while developing the nation. For China—and for humanity’s future—we must guard lucid waters and lush mountains, pursue low-carbon development, and build a Green China so blue skies and clear rivers endure across the land.\nCurrent §GEnvironmental Impact Index§!: §Y[?PRC_EII_var]§!"
+
+  TFR_PRC_green_china_law: "Promulgate the §YGreen China Act§!"
+  TFR_PRC_green_china_law_desc: "“Lucid waters and lush mountains are invaluable assets.” To advance society-wide environmental protection and secure a sound legal basis for emerging green industries, we should draft and enact a new law—built upon the Environmental Protection Law—that keeps pace with the times."
+
+  TFR_PRC_green_china_new_energy_car: "Promote New-Energy Vehicles"
+  TFR_PRC_green_china_new_energy_car_desc: "As a pillar of new productive forces, NEVs draw strong focus. Research shows that—even when electricity is not 100% clean—battery EVs still emit far less carbon over the lifecycle than gasoline cars. Scaling NEVs is vital for the energy transition and meeting emissions targets."
+
+  TFR_PRC_green_china_build_area: "Designate Ecological Conservation Areas"
+  TFR_PRC_green_china_build_area_desc: "Ecological conservation areas play a key role in maintaining natural balance, protecting biodiversity, purifying water, and improving air quality. Establishing such zones will drive green, sustainable development, improve urban livability, and bolster eco-tourism in destination regions."
+
+  TFR_PRC_green_china_build_STP: "Build Large-Scale Wastewater Treatment Works"
+  TFR_PRC_green_china_build_STP_desc: "Extensive growth once brought great gains—but also real problems. We must not repeat the Western path of “pollute first, clean up later,” nor can we hobble industry. Investing in large state-of-the-art wastewater treatment will sharply cut industrial effluent and catalyze related sectors."
+
+  TFR_PRC_green_china_tandafeng: "Reach §YCarbon Peak§!"
+  TFR_PRC_green_china_tandafeng_desc: "As a responsible major country, China pledged at the UN to peak CO₂ emissions by §Y2030§!. Time is short—accelerate action to deliver the goal."
+
+  TFR_PRC_green_china_tanzhonghe: "Achieve §YCarbon Neutrality§!"
+  TFR_PRC_green_china_tanzhonghe_desc: "Our target is carbon neutrality by §Y2060§!. Though the horizon is longer, we cannot relax. Intensifying extreme weather compels steady progress—until neutrality is achieved."
+
+  TFR_PRC_green_china_recycle: "Scale Circular Recycling"
+  TFR_PRC_green_china_recycle_desc: "Mass recycling saves resources and cuts waste. Using recyclates to make new products streamlines process steps—meaning lower energy use, fewer emissions, and higher utilization. In short: all upside, no downside. (Next up: cultivate pollutant-degrading microbial consortia.)"
+
+  TFR_PRC_green_china_biological_1: "Culture Pollutant-Enriching Remediation Bacteria"
+  TFR_PRC_green_china_biological_1_desc: "Traditional chemical/physical treatments for wastewater and contaminated soils risk secondary pollution if mishandled. We will introduce biological methods: specialized bacteria to replace large volumes of reagents. Lab results show higher safety and efficacy. Develop mass-culture techniques and a distribution system to supply active inocula nationwide."
+
+  TFR_PRC_green_china_biological_2: "Deploy Remediation Bacteria at Scale"
+  TFR_PRC_green_china_biological_2_desc: "With active cultures now delivered to localities, it’s time to operationalize the newest bioremediation workflows—greatly boosting efficiency in pollution control."
+
+  TFR_PRC_green_china_tree_1: "Launch §YThree-North Shelterbelt Phase VI§!"
+  TFR_PRC_green_china_tree_1_desc: "Since 1978, China has advanced the grand Three-North Shelterbelt Project. After decades of effort, Phases I–V are complete. We will now initiate Phase VI."
+  TFR_PRC_green_china_tree_1_tt: "Begin construction of §YThree-North Shelterbelt Phase VI§!."
+
+  TFR_PRC_green_china_tree_2: "Advance Three-North Shelterbelt Phase VI"
+  TFR_PRC_green_china_tree_2_desc: "Phase VI is progressing smoothly. Mixed belts of trees, shrubs, and grasses push forward, restoring vitality and hope to the land. We will commit additional manpower, funds, and materials to consolidate recent gains."
+  TFR_PRC_green_china_tree_2_tt: "Further advance §YThree-North Shelterbelt Phase VI§!."
+  
+  TFR_PRC_green_china_new_energy_tax: "Levy Corporate Environmental Tax"
+  TFR_PRC_green_china_new_energy_tax_desc: "As society advances and environmental needs grow, the old pollutant discharge fee has become too low and poorly calibrated. We will replace it with a modern corporate environmental tax."
+
+  TFR_PRC_green_china_new_energy_qiye_1: "Fund New-Energy Enterprises"
+  TFR_PRC_green_china_new_energy_qiye_1_desc: "New energy is vast, underdeveloped terrain. Breakthroughs and scale-up require capital. We will earmark grants to founders and firms pursuing R&D, deployment, and industrialization in the sector."
+
+  TFR_PRC_green_china_new_energy_qiye_2: "Fund New-Energy Enterprises"
+  TFR_PRC_green_china_new_energy_qiye_3: "Fund New-Energy Enterprises"
+  TFR_PRC_green_china_new_energy_qiye_4: "Fund New-Energy Enterprises"
+
+  TFR_PRC_green_china_new_energy_light: "Expand Solar PV"
+  TFR_PRC_green_china_new_energy_light_desc: "Solar is among the cleanest sources. China’s PV technology leads globally, yet generation still forms a small share of our mix. Under central guidance, we will build additional utility-scale PV bases in suitable regions to raise clean power supply."
+
+  TFR_PRC_green_china_new_energy_nuker: "Expand Nuclear Power"
+  TFR_PRC_green_china_new_energy_nuker_desc: "With the Party’s decision to scale clean energy—and after multiple domestic breakthroughs in key nuclear technologies—high-efficiency, low-carbon nuclear generation will be deployed at pace."
+
+  TFR_PRC_green_china_ngarden_city: "Build “Garden Cities”"
+  TFR_PRC_green_china_ngarden_city_desc: "Urban parks and green spaces have grown, yet heat-islands, runoff pressure, and localized pollution persist. We will expand greening with pocket parks, micro-green plots, and longer greenways—knitting work, leisure, and residential zones and improving urban livability."
+
+  TFR_PRC_green_china_natural_village: "Build “Ecological Villages”"
+  TFR_PRC_green_china_natural_village_desc: "Rural modernization and rising incomes have sometimes brought environmental strain. We will retrofit village environments, monitor production impacts, and guide green transformations—comprehensively building ecological countryside."
+
+  TFR_PRC_green_china_law_2: "Refine the §YGreen China Act§!"
+  TFR_PRC_green_china_law_2_desc: "Some emerging enterprises still exploit loopholes to “legalize” harm—contrary to our intent. Drawing on accumulated practice, we will amend and strengthen the Act to launch a new stage of comprehensive green development."
+
+  TFR_PRC_green_china_xuanchuan: "Scale Environmental Public Outreach"
+  TFR_PRC_green_china_xuanchuan_desc: "Laws and policies alone aren’t enough—public awareness lags. We will intensify outreach so every citizen understands the nation’s efforts and the value of environmental stewardship."
+
+  PRC_build_green_china_dynamic_desc: "Uphold the principle that lucid waters and lush mountains are invaluable assets; implement the National Conference on Eco-Environmental Protection; center on building a Beautiful China. Focus on deeper anti-pollution action, ecological quality, and people’s wellbeing; drive reform and pilots; and at regional, provincial, city, and county levels, advance low-carbon development, fundamental ecological improvement, stronger protection and restoration, a secure ecological baseline, and reform of eco-civilization institutions."
+
+  PRC_add_PRC_EII_5var_tooltip: "Gain §GEnvironmental Impact Index:§! §Y5§!"
+  PRC_add_PRC_EII_10var_tooltip: "Gain §GEnvironmental Impact Index:§! §Y10§!"
+  PRC_add_PRC_EII_20var_tooltip: "Gain §GEnvironmental Impact Index:§! §Y20§!"
+  PRC_add_PRC_EII_200var_tooltip: "Gain §GEnvironmental Impact Index:§! §Y200§!"
+
+  TFR_PRC_green_china_law_desc: "By promulgating the §YGreen China Act§!, the Republic will more effectively and comprehensively build a Green China."
+  TFR_PRC_green_china_new_energy_car_desc: "To tackle CO₂ emissions, scaling new-energy vehicles is an excellent pathway."
+  TFR_PRC_green_china_new_energy_car_tt: "§YBuilding a Green China§! additional effect:\nSupply Consumption §G-5%§!"
+  TFR_PRC_green_china_build_area_tt: "§YBuilding a Green China§! additional effect:\nMonthly Population §G+5%§!"
+  TFR_PRC_green_china_recycle_tt: "§YBuilding a Green China§! additional effect:\nStrategic Resource Gain §G+10%§!"
+  TFR_PRC_green_china_biological_odesc: "The Chinese Academy of Sciences will begin cultivating pollutant-enriching remediation bacteria."
+  TFR_PRC_green_china_biological_2_tt: "§YBuilding a Green China§! additional effect:\nStrategic Resource Gain §G+5%§!"
+  TFR_PRC_green_china_new_energy_tax_tt: "§YBuilding a Green China§! additional effect:\nCommercial Tax Rate §G+5%§!"
+  TFR_PRC_green_china_law_2: "With the Green China program advancing, the Republic has amassed extensive experience. It is time to refine the §YGreen China Act§! and open a new chapter of comprehensive green development!"
+
+  TFR_PRC_green_china_law_done: "§YGreen China Act§! has been promulgated"
+  new_energy_qiye_1: "Central Economic Development Committee approved grants for new-energy firms"
+  TFR_PRC_green_china_biological_end: "Pollutant-enriching remediation bacteria successfully cultured"
+  TFR_PRC_green_china_tree_1_done: "§YThree-North Shelterbelt Phase VI§! initiated"
+  TFR_PRC_green_china_tree_2_done: "§YThree-North Shelterbelt Phase VI§! significantly advanced"
+
+  PRC_MON_sandstorm_problem_state_modifier_TT1: "§Y$PRC_MON_sandstorm_problem_state_modifier$§! additional effects:\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$ §G+15%§!\n$MODIFIER_LOCAL_SUPPLIES$ §G+5%§!\n$MODIFIER_STATE_RESOURCES_FACTOR$ §G+5%§!\n$farming_development_monthly$ §Gno longer affected§!"
+  PRC_MON_sandstorm_problem_state_modifier_TT2: "§Y$PRC_MON_sandstorm_problem_state_modifier$§! additional effects:\n$MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR$ §G+15%§!\n$MODIFIER_LOCAL_SUPPLIES$ §G+5%§!\n$MODIFIER_STATE_RESOURCES_FACTOR$ §G+5%§!"

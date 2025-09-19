@@ -1,0 +1,94 @@
+﻿l_english:
+  # =========================
+  # State & Province: Buildings / Ownership / UI
+  # =========================
+  STATE_UPGRADE_BUILDING: "Upgrade $BUILDING|H$."
+  STATE_UPGRADE_BUILDING_DESC: "Build time: $COST|H$"
+  PROVINCE_BUILDING_LEVEL: "$BUILDING|H$ (Level: $LEVEL|H$/$MAX_LEVEL|H$)"
+  STATE_BUILDING_LEVEL: "$BUILDING|H$ (Level: $LEVEL|H$)"
+  STATE_BUILDING_LEVEL_SHARED_SLOTS: "$LEVEL|H$ $BUILDING|H$"
+  STATE_BUILDING_INCONSTRUCTION: "Under construction: $LEVEL|H$"
+  STATE_BUILDING_SLOT_TECH: "We lack intel on this state's infrastructure."
+  STATE_BUILDING_AIR_UNKNOWN_ANTI_AIR_TECH: "We lack intel on this state's anti-air technology."
+  STATE_BUILDING_AIR_UNKNOWN_ANTI_AIR: "We lack intel on this state's anti-air installations."
+  STATE_BUILDING_NO_KNOWN_FACTORIES: "We have no industrial intel for this state."
+  STATE_BUILDING_SOME_KNOWN_FACTORIES: "Our intel shows this state has at least $AMOUNT|H$ factories."
+  STATE_CONVERT_BUILDING: "Convert $FACTOR|H$$BUILDING_FROM$ into §H1§! $BUILDING_TO$."
+  STATE_CONTROLLER: "Controller: @$TAG$$COUNTRY|H$"
+  STATE_CONTROLLER_DELAYED: "§GClick to open the Diplomacy view.§!"
+  STATE_OWNER: "Owner: @$TAG$$COUNTRY|H$"
+  STATE_OWNER_CORE: "§GCore state§!"
+  STATE_OWNER_NON_CORE: "§YColonial state§!"
+  STATE_OWNER_OCCUPIED: "§YOccupied state§!"
+  STATE_NO_RESOURCES: "§T$STATE|H$ has no strategic resources.§!"
+  LOCAL_PROVINCE_MODIFIERS: "\n§HLocal Province Modifiers:§!"
+  PROVINCE_STATE_CATERGORY_TOOLTIP: "Category: $CATEGORY|Y$"
+  PROVINCE_STATE_IMPASSABLE: "Impassable: §RTroops cannot enter§!"
+  STATE_SET_POLICY: "§GClick to manage the occupation policy for $STATE|H$.§!"
+  STATE_NOT_OCCUPIED: "§RYou must first occupy $STATE|H$ to set an occupation policy.§!"
+  STATE_CLAIMS: "Foreign Claims"
+  OCCUPATION_BREAKDOWN: "Occupation Breakdown:"
+  OCCUPATION_BREAKDOWN_ENTRY: "\n$COUNTRY|Y$: $OCCUPATION|Y%0$"
+  STATE_FOREIGN_RESOURCE_OWNER: "Extraction rights belong to $COUNTRY|H$"
+
+  # =========================
+  # Cores / Claims
+  # =========================
+  STATE_CORE: "§T$COUNTRY|H$ considers $STATE|H$ a core state.§!"
+  STATE_CORE_DESC: "Core states are considered an inseparable part of your country. If another country holds it, you have an unquestionable justification to go to war and reclaim it. After successful occupation, no occupation policy is required—it becomes part of your homeland."
+  STATE_CLAIM: "§T$COUNTRY|H$ has a claim on $STATE|H$.§!"
+  STATE_CONTESTED_OWNER: "§T$COUNTRY|H$ is the contested owner of $STATE|H$.§!"
+
+  # =========================
+  # Population & Manpower
+  # =========================
+  STATE_MANPOWER_VALUE: "$VAL|2*$"
+  STATE_RESISTANCE_GUI: "$STRENGTH|%0-$ ($GROWTH|=%0-$)"
+  STATE_POPULATION: "§HEligible Manpower§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HCivilian Population§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
+  MONTHLY_BASE_GROWTH: "Base: $VALUE|H%2$"
+  STATE_POPULATION_GROWTH: "§HMonthly Growth§!: $VALUE|%2$ ($AVAIL|*+$ eligible, $LOCKED|*+$ civilians)"
+  LOCAL_MANPOWER_ACCESSIBLE_FACTOR: "Recruitable base: §R-$VAL|%$§!"
+  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_FACTOR: "Total population (non-core): §R-$VAL|%$§!"
+  LOCAL_MANPOWER_ACCESSIBLE_NON_CORE_TOTAL: "Recruitable population (non-core): §R-$VAL|%$§!"
+  STATE_POPULATION_DESC: "The total population of this state. Your conscription law lets you use a percentage of it as manpower for the Army, Navy, and Air Force."
+  STATE_POPULATION_VALUE: "$VAL|*H$"
+  STATE_OWNER_RESISTANCE_NON_CORE_INFO: "$COUNTRY|H$ will only be able to use $MANPOWER|-%.0$ of this state's manpower."
+  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS: "$COUNTRY|H$ will only be able to use $MANPOWER|-%.0$ of this state's manpower—and this value is further modified by the state's occupation status as follows:"
+  STATE_OWNER_MODIFIER_INFO: "Due to its occupation status, this state has the following modifiers:"
+
+  # =========================
+  # Building Slots: Limits & Caps
+  # =========================
+  UNLOCKED_SLOTS: "$NUM|Y$/$MAX|Y$ building slots unlocked"
+  UNLOCKED_SLOTS_DESC: "The number of unlocked building slots is limited by this state's infrastructure and population."
+  UNLOCKED_SLOTS_CAP: "Tech cap: $NUM|Y$"
+  UNLOCKED_SLOTS_FROM_POPULATION: "Population cap: $NUM|Y$"
+  UNLOCKED_SLOTS_FROM_INFRASTRUCTURE: "Infrastructure cap: $NUM|Y$"
+  UNLOCKED_SLOTS_ABSOLUTE_MAX: "Upper limit: $NUM|Y$"
+  UNLOCKED_SLOTS_CAP_DESC_HEADER: "Tech-limited cap:"
+  UNLOCKED_SLOTS_FROM_POPULATION_DESC_HEADER: "Population-limited cap:"
+  UNLOCKED_SLOTS_FROM_INFRASTRUCTURE_DESC_HEADER: "Infrastructure-limited cap:"
+  UNLOCKED_SLOTS_BASE: "Base cap: $NUM|Y$"
+  UNLOCKED_SLOTS_STATE_EXTRA: "Extra building slots in this state: $NUM|Y$"
+  increase_state_category_by_one_level_tt: "Provides §G1§! additional base building slot.\n"
+  decrease_state_category_by_one_level_tt: "Removes §R1§! base building slot.\n"
+
+  # =========================
+  # State Category Names
+  # =========================
+  wasteland: "Wasteland"
+  enclave: "Enclave"
+  tiny_island: "Tiny Island"
+  small_island: "Small Island"
+  pastoral: "Pastoral Region"
+  rural: "Rural"
+  village: "Developed Countryside"
+  town: "Township"
+  large_town: "Suburb"
+  suburb: "Large Suburb"
+  large_suburb: "Town"
+  city: "Small City"
+  large_city: "Medium City"
+  metropolis: "Secondary City"
+  conurbation: "Large City"
+  megalopolis: "Mega City"

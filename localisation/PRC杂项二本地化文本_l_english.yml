@@ -1,0 +1,430 @@
+﻿l_english:
+  TFR_PRC_SpaceProgram_decisions: "China’s Space Program"
+  TFR_PRC_SpaceProgram_decisions_desc: "\n\n\n\n\n[Root.PRC_space_plan_decisitions_picture]\n\n\n\n\n\n\n\n\nFrom the myth of Chang’e flying to the Moon to Wan Hu’s fabled “rocket chair,” the Chinese have long yearned for the boundless heavens. When “The East Is Red” echoed through orbit, China’s space journey truly began. Fifty years on, as a scientific superpower at the cutting edge, we will open a new frontier for all humankind.\n\nChang’e Program: [Root.PRC_space_dengyue]\nSpace-Elevator Program: [Root.PRC_space_taikongdianti]\n“Nantianmen” Program (Megastructure Spaceport): [Root.PRC_space_juxingkongjianzhan]\n“Moon Palace” Program (Lunar Surface Base): [Root.PRC_space_yuemianjidi]\n“Long March” Program (Crewed Mars Landing): [Root.PRC_space_dengluhuoxing]"
+
+  TFR_PRC_taikongdianti_cailiao: "Research Nanomaterials"
+  TFR_PRC_dengyue_start: "Launch §YChang’e Program§!"
+  TFR_PRC_dengyue_1: "§YChang’e Program§!: Establish an Uncrewed Outpost"
+  TFR_PRC_dengyue_1_flag: "§GUncrewed Outpost§! established"
+  TFR_PRC_dengyue_2: "§YChang’e Program§!: Build a Cislunar Logistics Corridor"
+  TFR_PRC_dengyue_2_flag: "§GCislunar Logistics Corridor§! operational"
+  TFR_PRC_dengyue_3: "§YChang’e Program§!: Conduct a Crewed Lunar Landing"
+
+  TFR_PRC_taikongdianti_start: "Launch §YSpace-Elevator Program§!"
+  TFR_PRC_taikongdianti_1: "§YSpace-Elevator Program§!: Build Geostationary Anchor Station"
+  TFR_PRC_taikongdianti_2: "§YSpace-Elevator Program§!: Deploy Nano-Ribbon Tether"
+  TFR_PRC_taikongdianti_3: "§YSpace-Elevator Program§!: Construct Ground Complex & Support Facilities"
+
+  TFR_PRC_juxingkongjianzhan_start: "Launch §Y“Nantianmen” Program§!"
+  TFR_PRC_juxingkongjianzhan_1: "§Y“Nantianmen” Program§!: Build Spaceport Core Infrastructure"
+  TFR_PRC_juxingkongjianzhan_2: "§Y“Nantianmen” Program§!: Complete Main Spaceport Structure"
+
+  TFR_PRC_yuemianjidi_start: "Launch §Y“Moon Palace” Program§!"
+  TFR_PRC_yuemianjidi_1: "§Y“Moon Palace”§!: Activate Uncrewed Outpost"
+  TFR_PRC_yuemianjidi_2: "§Y“Moon Palace”§!: Commission Forward Base"
+  TFR_PRC_yuemianjidi_3: "§Y“Moon Palace”§!: Improve Logistics & Supplies"
+  TFR_PRC_yuemianjidi_4: "§Y“Moon Palace”§!: Build Solar Power Plant"
+  TFR_PRC_yuemianjidi_5: "§Y“Moon Palace”§!: Build Space Crop Greenhouse"
+  TFR_PRC_yuemianjidi_6: "§Y“Moon Palace”§!: Expand Physics Laboratory"
+  TFR_PRC_yuemianjidi_7: "§Y“Moon Palace”§!: Final Construction Push"
+
+  TFR_PRC_dengluhuoxing_start: "Launch §Y“Long March” Program§!"
+
+  TFR_PRC_SpaceProgram_decisions_1: "Enable §YChina’s Space Program§!: §GPhase I§!"
+  TFR_PRC_SpaceProgram_decisions_2: "Enable §YChina’s Space Program§!: §GPhase II§!"
+  TFR_PRC_SpaceProgram_decisions_3: "Enable §YChina’s Space Program§!: §GPhase III§!"
+
+  PRC_space_dengyue_complete: "§GCompleted§!"
+  PRC_space_dengyue_inprogress: "§YIn Progress…§!"
+  PRC_space_dengyue_uncomplete: "§RNot Completed§!"
+  PRC_space_taikongdianti_complete: "§GCompleted§!"
+  PRC_space_taikongdianti_inprogress: "§YIn Progress…§!"
+  PRC_space_taikongdianti_uncomplete: "§RNot Completed§!"
+  PRC_space_juxingkongjianzhan_complete: "§GCompleted§!"
+  PRC_space_juxingkongjianzhan_inprogress: "§YIn Progress…§!"
+  PRC_space_juxingkongjianzhan_uncomplete: "§RNot Completed§!"
+  PRC_space_dengluhuoxing_complete: "§GCompleted§!"
+  PRC_space_dengluhuoxing_inprogress: "§YIn Progress…§!"
+  PRC_space_dengluhuoxing_uncomplete: "§RNot Completed§!"
+  PRC_space_yuemianjidi_complete: "§GCompleted§!"
+  PRC_space_yuemianjidi_inprogress: "§YIn Progress…§!"
+  PRC_space_yuemianjidi_uncomplete: "§RNot Completed§!"
+
+  PRC_space_plan_decisitions_picture1: "£GFX_PRC_space_plan_I"
+  PRC_space_plan_decisitions_picture2: "£GFX_PRC_space_plan_II"
+  PRC_space_plan_decisitions_picture3: "£GFX_PRC_space_plan_III"
+  PRC_space_plan_decisitions_picture4: "£GFX_PRC_space_plan_IV"
+  PRC_space_plan_decisitions_picture5: "£GFX_PRC_space_plan_V"
+  PRC_space_plan_decisitions_picture6: "£GFX_PRC_space_plan_VI"
+  PRC_space_plan_decisitions_picture7: "£GFX_PRC_space_plan_VII"
+  PRC_space_plan_decisitions_picture8: "£GFX_PRC_space_plan_VIII"
+  PRC_space_plan_decisitions_picture9: "£GFX_PRC_space_plan_IX"
+  PRC_space_plan_decisitions_picture10: "£GFX_PRC_space_plan_X"
+  PRC_space_plan_decisitions_picture11: "£GFX_PRC_space_plan_XI"
+  PRC_space_plan_decisitions_picture12: "£GFX_PRC_space_plan_XII"
+  PRC_space_plan_decisitions_picture13: "£GFX_PRC_space_plan_XIII"
+
+  TFR_PRC_spaceage_dynamic_modifier: "China’s Space Age"
+
+  TFR_PRC_space_idea1: "China’s Space Age"
+  TFR_PRC_space_idea2: "China’s Space Age"
+  TFR_PRC_space_idea3: "China’s Space Age"
+  TFR_PRC_space_idea4: "China’s Space Age"
+  TFR_PRC_space_idea5: "China’s Space Age"
+  TFR_PRC_space_idea6: "China’s Space Age"
+  TFR_PRC_space_idea7: "China’s Space Age"
+  TFR_PRC_space_idea8: "China’s Space Age"
+  TFR_PRC_space_idea9: "China’s Space Age"
+  TFR_PRC_space_idea10: "China’s Space Age"
+  TFR_PRC_space_idea11: "China’s Space Age"
+  TFR_PRC_space_idea12: "China’s Space Age"
+  TFR_PRC_space_idea13: "China’s Space Age"
+  TFR_PRC_space_idea14: "China’s Space Age"
+  TFR_PRC_space_idea15: "China’s Space Age"
+  TFR_PRC_space_idea16: "China’s Space Age"
+  TFR_PRC_space_idea17: "China’s Space Age"
+  TFR_PRC_space_idea18: "China’s Space Age"
+  TFR_PRC_space_idea19: "China’s Space Age"
+  TFR_PRC_space_idea20: "China’s Space Age"
+
+  TFR_PRC_Spaceelevator_dynamic_modifier: "Space Elevator"
+  TFR_PRC_Spaceelevator_dynamic_modifier_desc: "Location of the space elevator’s ground complex."
+
+  PRC_space_dengyue_complete_flag: "§G Crewed Lunar Landing§! completed"
+  PRC_space_juxingkongjianzhan_complete_flag: "§GMegastructure Space Station§! completed"
+  PRC_space_dengluhuoxing_complete_flag: "§G Crewed Mars Landing§! completed"
+  PRC_space_taikongdianti_complete_flag: "§GSpace Elevator§! completed"
+  PRC_space_yuemianjidi_complete_flag: "§GPermanent Lunar Base§! established"
+
+  TFR_PRC_taikongdianti_cailiao_flag: "Researching §Bnanomaterials technology§!"
+  TFR_PRC_taikongdianti_cailiao_over_flag: "§GNanomaterials research completed§!"
+  TFR_PRC_taikongdianti_1_flag: "§GGeostationary Station§! completed"
+  TFR_PRC_taikongdianti_2_flag: "§GNano-Ribbon Tether§! completed"
+  TFR_PRC_juxingkongjianzhan_1_flag: "§GSpaceport Phase I§! construction completed"
+  TFR_PRC_yuemianjidi_1_flag: "§GUncrewed Outpost§! activated"
+  TFR_PRC_yuemianjidi_2_flag: "§GForward Base§! commissioned"
+  TFR_PRC_yuemianjidi_3_flag: "§GSupplies & Logistics§! improved"
+  TFR_PRC_yuemianjidi_4_flag: "§GSolar Power Plant§! built"
+  TFR_PRC_yuemianjidi_5_flag: "§GSpace Crop Greenhouse§! built"
+  TFR_PRC_yuemianjidi_6_flag: "§GLunar Physics Laboratory§! completed"
+  
+  china.6501.t: "Begin Nanomaterials Research"
+  china.6501.d: ""
+  china.6501.a: ""
+
+  china.6502.t: "Nanomaterials Research Completed"
+  china.6502.d: ""
+  china.6502.a: ""
+
+  china.6503.t: "Space Elevator Project Suspended"
+  china.6503.d: "With full-scale war breaking out between our nation and the Pacific Treaty bloc, Southeast Asia has become the forward line of our conflict, and the Strait of Malacca region no longer provides a stable political environment. Until the Pacific Treaty’s resistance is decisively ended, it is unwise to continue space-elevator construction.\n\nThe Central Committee has decided to pause work on the space elevator. Construction will resume once the situation stabilizes."
+  china.6503.a: "Damn it…"
+
+  china.6504.t: "Reaching for the Ninth Heaven…"
+  china.6504.d: "More than fifty years after the United States’ Apollo program, the indomitable Chinese nation has taken the final step of its own crewed lunar program, “Chang’e.” Long before this moment, China had accomplished tasks many of our predecessors across the ocean never completed—lunar far-side relays, farside landings, and robotic sample return—and as war rages overseas, many veteran experts have joined their successors here to continue unfinished work.\n\nUnlike the 1960s Apollo program, “Chang’e” is no vanity project. As China has long stated, we do not seek hegemony. Even before Chang’e’s success, we had planned the next phase—construction of a lunar base codenamed “Guanghan,” after the palace of the moon in ancient myth. Thus Chang’e is both a milestone surpassing the past and a paving stone toward deep space. Our astronauts will not “cross the ocean in a washing machine”—our rockets and spacecraft are validated through repeated testing to maximize the chance of success and minimize risk before launch."
+  china.6504.a: "The dream of grasping the Moon above the Ninth Heaven will become reality."
+
+  china.6505.t: "…And Touching the Silver Rim"
+  china.6505.d: "After a year of intensive technical work, Chinese taikonauts have set foot on the Moon—no accidents, no casualties. The three astronauts returned smiling and waved to the camera, announcing China as today’s sole space superpower and affirming our unassailable lead in astronautics.\n\nAt the press conference, the chairman of China Aerospace Science and Technology Corporation declared the “Chang’e” missions a complete success and officially launched the next wave: the “Guanghan” lunar base and cultivation experiments. He credited generations of aerospace workers, the Party’s steadfast support, and the people’s enthusiasm, and expressed sincere thanks to former NASA experts now collaborating in China. Many European and Russian specialists have applied to work with CNSA—or even directly in China—saying it best serves humanity’s progress in space.\n\nThough a few noisy skeptics still carp, their voices sound absurd beside the praise of our peers."
+  china.6505.a: "A solid step on the road to national rejuvenation!"
+
+  china.6506.t: "Chinese Taikonauts Return from the Moon"
+  china.6506.d: "Xinhua, [GetDateText]\nAfter a year of focused technical breakthroughs, China’s taikonauts have successfully landed on the Moon—and completed the mission without accident or injury. The return capsule touched down at the designated site in Inner Mongolia. The three astronauts, smiling as they waved to the camera, underscored China’s undisputed leadership in astronautics.\n\nAt the press conference, the chairman of China Aerospace Science and Technology Corporation announced the full success of the “Chang’e” series and the formal start of the “Guanghan” lunar base and cultivation missions. He credited generations of aerospace workers, the Party’s wise leadership and steadfast support, and the people’s high enthusiasm, and also expressed sincere thanks to former NASA experts now aiding our work, hoping continued cooperation will advance humanity’s space endeavor. Numerous European and Russian experts have already applied to collaborate with CNSA, some even seeking positions in China, saying such work “best serves the progress of human spaceflight.”"
+  china.6506.a: "The same moon the ancients saw, now seen by us."
+  china.6506.b: "A great cause linking past and future."
+
+  china.6507.t: "Spinning Cables, Bridging the Void"
+  china.6507.d: "If we truly intend to cast our gaze to the boundless heavens, we need a transport method far more efficient than chemical rockets. We are tired of endless burns and the waste they entail during every transfer!\n\nEnter the “Sky-Hook”: a rotating tether attached to a central orbiter. By harnessing orbital momentum, payloads lifted to LEO can be flung onto transfer trajectories with minimal propellant cost—slashing risks and expenses for interplanetary logistics."
+  china.6507.a: "Be bold—do it!"
+
+  china.6508.t: "The Ladder Ascends"
+  china.6508.d: "As the saying goes, “To get rich, build roads first.” A slender tether, a hub in orbit, a counterweight—together, they form an expressway between Earth and Moon. Crude by cosmic standards, perhaps, but for our nation, our people, and all humankind it is a giant leap. Lunar projects will accelerate ten-fold, a hundred-fold, and the same principles will carry us to Mars and beyond. We have boarded the express lane of off-world construction—few can hope to catch up."
+  china.6508.a: "Space is no longer out of reach."
+
+  china.6509.t: "China Commissions a Space Elevator"
+  china.6509.d: "At UTC+8 in [GetYear], China’s Ministry of Foreign Affairs announced that the domestically designed and constructed “Sky-Hook” system has passed acceptance testing and will soon open for operations. The momentum-exchange system will drastically reduce resources consumed in Earth–Moon travel and is expected to catalyze a wave of lunar commercial projects—lowering barriers, accelerating schedules, and inviting more private entrants.\n\nSome voices worry that China could leverage this convenience to accelerate militarization of the Moon, destabilizing peace. Beijing offered little commentary beyond pledging to完善 lunar commercial regulations at speed. What is clear: in this renewed age of space exploration, China stands at the forefront.\n\nHowever one frames it, this is a milestone for humanity."
+  china.6509.a: "A great victory for humankind!"
+  
+  china.6510.t: "Lunar Palace Project — A New Era of Moonbase Construction"
+  china.6510.d: "China—a nation of ceaseless innovation and exploration—is taking a new step toward the Moon. Our Lunar Palace Project aims to build a sustainable, advanced lunar base, marking the dawn of a new era in human space exploration.\n\nThe Lunar Palace is more than a science program—it embodies our grand vision of the future: conduct cutting-edge lunar science, prospect resources, and lay a solid foundation for deep-space missions. China will also cooperate with the international community, advancing space exploration and building a community with a shared future for humankind.\n\nThe project employs state-of-the-art hardware: new landers, habitation modules, and in-situ resource utilization tools. The base is designed for environmental stewardship and sustainability—minimizing impact on the Moon while maximizing use of local resources. A phased roadmap ensures every step is steady and reliable on the way to our final goals.\n\nThe Lunar Palace belongs not only to the state—every citizen is participating. Agencies are opening information channels and hosting online/offline events to spark public enthusiasm for lunar exploration.\n\nSoon, when we look up at the serene moonlight, we may proudly say: there stands a lunar palace built by peoples of the world together. It is the pride of China’s space endeavor—and a symbol of humanity’s quest to explore the unknown and climb higher."
+  china.6510.a: "Let’s press forward together toward this great dream!"
+
+  china.6511.t: "The Lunar Palace Completed"
+  china.6511.d: "Inside the lunar base, everything was running at full tilt as Lao Zhang watched the clock for the appointed moment.\n\n\"Time’s up. Are all teams ready?\"\n\nAfter receiving firm confirmations from his deputies, he announced: “Commence Lunar Base Comprehensive Test, Round One.” The words over the PA sent everyone into motion. If this round ran nominal, it would declare the Lunar Palace a success—an advance not only for China, but a giant step for all humanity’s off-world future.\n\nWhen the final “nominal” call sounded, thunderous cheers erupted both at the base and at mission control on Earth. Reporters scrambled to file their stories.\n\nSomeone asked, “What is the base’s name?”\n\nLao Zhang paused, then replied:"
+  china.6511.a: "\"Guanghan Palace.\""
+
+  china.6512.t: "China Announces Completion of a Lunar Surface Base"
+  china.6512.d: "China has announced the success of its Lunar Palace Project. Scientists worldwide—and much of the public—praised the breakthrough. With the base now operational, China has made a major leap in lunar exploration, far surpassing prior achievements at a time when the United States remains mired in domestic turmoil.\n\nChinese officials affirmed continued support for global cooperation in space and the building of a shared future for humankind, and stated that in the near future slots would open for foreign engineers and scientists to work at the base.\n\nSome foreign politicians and citizens voiced “concerns,” yet even prominent China critics have had to concede that China’s contribution is a milestone for all humanity."
+  china.6512.a: "Humanity strides into a new century."
+
+  china.6513.t: "Long March Program Briefing"
+  china.6513.d: "\n\n\n\n\t\t\t\t\t\t\t£GFX_TFR_PRC_hangtianjv_event\n\n\n\n\n\n\nComrade Chairman, here is the latest status of China’s space initiatives:\n\n• The second production line for the CZ-9 reusable super-heavy launcher and the new Wenchang Pads 402/403 have passed technical acceptance and will be operational within six months.\n\n• Commissioning of the “South Heavenly Gate” Spaceport is nearing completion; it is ready to enter trial operations.\n\n• The HF-30 high-thrust nuclear-thermal engine has finished six full-system, 5,000-second firings, meeting type-certification standards.\n\n• Pre-research on the long-duration closed-loop ECLSS has concluded; formal development can begin.\n\nWe assess that conditions are now essentially mature for a crewed Mars landing science mission. We request authorization to proceed."
+  china.6513.a: "\"Reviewed. Approved to execute.\""
+
+  china.6514.t: "Departure"
+  china.6514.d: "As the last plumes from the attitude thrusters faded, the Qian Xuesen Earth-to-Mars crewed complex completed final self-checks. With a total mass exceeding a thousand tons, it is the second-largest human-built structure in space—second only to its home port, the South Heavenly Gate Spaceport.\n\n“Beijing, Qian Xuesen has completed self-check. All subsystems nominal; crew green across the board. Ready for Earth-to-Mars transfer.”\n\n“Beijing copies. Commence E–M transfer.”\n\n“Qian Xuesen confirms. Main engines ignition.”\n\nA deep rumble grew into a fierce roar—the sound of three HF-30 nuclear-thermal engines at full power.\n\nDownrange, everyone at the spaceport stopped work, eyes fixed on the ship that carried their sweat and dreams as it slipped into the star-strewn dark, bound for a journey of nearly 200 million kilometers."
+  china.6514.a: "Godspeed. Two hundred million kilometers…"
+  china.6514.b: "…that’s sixteen thousand times the Long March’s 25,000 li."
+
+  china.6515.t: "The Distant Red Star"
+  china.6515.d: "Few things still set all of China abuzz in the third decade of the 21st century. The last time was when commercial fusion first fed the grid; before that, when the ASEAN coalition planted a victory flag atop Mount Fuji. Today brings another such moment: after more than half a year in transit, the Qian Xuesen complex has entered Mars orbit, and the crewed lander—packed with people and cargo—has separated and begun its descent.\n\nThe lander soon hit the atmosphere. Hypersonic passage ionized the air into a plasma sheath and communications dropped. On Earth, anchors cut smoothly back to the studio, but everyone’s palms were damp. This was the most nerve-wracking moment of the entire Long March Program.\n\n…Yet the engineers’ math was exact. At the planned time and place the lander bled speed; the sheath dispersed. When the signal snapped back, countless viewers exhaled as the ocher surface swelled in view. After a few gentle burns, humanity’s first crewed lander settled onto Mars.\n\nHours later, the first taikonaut stepped through the airlock, descended the ladder, and pressed a boot into the rusty dust. Facing the mic inside the helmet—and the billions beyond it—he spoke the words destined for the history books: “This is a giant step for a person, …”"
+  china.6515.a: "…yet only a small step for humankind!"
+
+  china.6516.t: "China Lands Humans on Mars"
+  china.6516.d: "[GetDateText] — Xinhua\n\nChina’s crewed Mars exploration program—the Long March—has achieved a historic breakthrough: astronauts have set foot on Mars for the first time. This milestone demonstrates China’s world-leading capabilities in deep-space missions and sets a new benchmark for global astronautics.\n\nAccording to the CNSA spokesperson, success rested on years of accumulation and intensive research. The mission overcame key hurdles in Mars EDL, deep-space communications, and efficient power—laying a foundation for future science and resource utilization on Mars.\n\nCNSA reiterated its commitment to openness and cooperation, welcoming other nations and international organizations to participate in follow-on exploration. “Space is a shared endeavor of humankind,” the spokesperson said. “China is ready to share experience and deepen cooperation to usher in a new era of exploration.”\n\nBeyond invaluable scientific data, this success will profoundly shape prospects for sustained human presence and resource use on Mars. Next steps include geological surveys, biological experiments, and environmental monitoring."
+  china.6516.a: "The road to the stars is open."
+  china.6516.b: "Perhaps our people can go to Mars as well?"
+  china.6516.c: "They still have time to land on Mars!?"
+
+  china.6517.t: "Traditional Chinese Medicine Shines in the Fight Against COVID-19"
+  china.6517.d: "Deng Zijin, freshly graduated from Fujian University of Traditional Chinese Medicine, entered residency training at Fujian Provincial Second People’s Hospital with a simple belief: heal through TCM. In early 2020, COVID-19 thrust the young trainee onto an unprecedented front line. As ventilators, remdesivir, and steroids were deployed for critical cases, many dismissed TCM as mere “adjunct” or even “placebo.”\n\nAssigned to the fever clinic without prescribing rights, Deng recorded cases and assisted care. He noticed that while CRP and IL-6 sometimes fell under standard therapy, patients often showed worsening dampness/heat patterns and spleen–lung weakness in TCM terms, with poor prognosis. He proposed a combined approach: low-dose steroids and oxygen therapy from Western medicine, plus tailored decoctions to clear heat and dampness, strengthen lung and spleen—building on formulas like Huo-Po-Xia-Ling Tang with components from the national Qingfei Paidu protocol, and Shengmai drink for marked qi deficiency. The suggestion met skepticism: “This is modern medicine’s battlefield—don’t bring old recipes to make a mess.”\n\nWhen a critical patient failed to improve—white-out on CT and steroids ineffective—the family pleaded: “Try something else!” After reviewing Deng’s analysis, the department chief approved a pilot. Three days later, SpO₂ improved, inflammatory markers dropped, and CT showed reduced exudate.\n\nWord spread. A small in-house trial followed. Two weeks later, data showed average length of stay down three days and conversion from severe to mild up 15% with integrated therapy. Resistance faded; even skeptics admitted: “Looks like these herbs do have something to them.”"
+  china.6517.a: "Pilot integrated TCM–Western treatment."
+  
+  ## Difficulty / Strengthening Decisions
+  PRC_strengthen_pdo_category: "Strengthen the PDT"
+  PRC_strengthen_pdo_category_desc: "The main PDT countries (Japan, India, Australia, South Korea) receive unprecedented buffs. All national spirits will be granted after the Taiwan Strait war."
+  PRC_open_difficulty: "§ROpen the Difficulty Selector§!"
+  PRC_open_difficulty_desc: "Careful—you’re opening the gates of hell..."
+  PRC_close_difficulty: "§RClose the Difficulty Selector§!"
+  PRC_difficulty_illustration: "Difficulty Decision Notes §RREAD THIS!!!§!"
+  PRC_difficulty_illustration_desc: "If you ignore this and then get tilted, we won’t entertain complaints."
+  PRC_difficulty_strengthen_pdo_open: "§CStrengthen the PDT§!"
+  PRC_difficulty_strengthen_pdo_open_desc: "The main PDT countries (Japan, India, Australia, South Korea) receive unprecedented buffs. All national spirits will be granted after the Taiwan Strait war."
+  PRC_difficulty_strengthen_pdo_close: "§CClose PDT Strengthening§!"
+  PRC_difficulty_strengthen_pdo_1: "PDT Buff — Tier I"
+  PRC_difficulty_strengthen_pdo_2: "PDT Buff — Tier II"
+  PRC_difficulty_strengthen_pdo_3: "PDT Buff — Tier III"
+  PRC_difficulty_strengthen_pdo_4: "Shame Before Courage"
+  PRC_difficulty_strengthen_pdo_4_desc: "After the Taiwan Strait war, PDT countries will receive major military buffs."
+  PRC_difficulty_strengthen_pdo_5: "Remove All Negative Spirits from PDT Countries"
+  PRC_difficulty_chongtan: "Harder Beach Assaults"
+
+  PRC_difficulty_strengthen_JAP_open: "§tStrengthen Japan§!"
+  PRC_difficulty_strengthen_JAP_close: "§tClose Japan-Only Difficulty Group§!"
+  PRC_difficulty_strengthen_JAP_1: "Rising Like the Sun"
+  PRC_difficulty_strengthen_JAP_2: "One Hundred Million Gyokusai"
+  PRC_difficulty_strengthen_JAP_3: "Duty as Heavy as a Mountain"
+  PRC_difficulty_strengthen_JAP_4: "A Herbivorous Nation"
+  PRC_difficulty_strengthen_JAP_5: "No Quarter Till Death"
+  PRC_difficulty_strengthen_JAP_1_desc: "Japan’s naval production will surge, and its naval tech level will improve. If you stay complacent too long, the PLA Navy may pay for it."
+  PRC_difficulty_strengthen_JAP_2_desc: "All 120 million on the archipelago will fight like cherry blossoms to the very end—no retreat, no surrender."
+  PRC_difficulty_strengthen_JAP_3_desc: "“Death is light as a feather; duty is heavy as a mountain.” Japan’s navy is greatly strengthened. You will still win, but your loss ratio may not look pretty."
+  PRC_difficulty_strengthen_JAP_4_desc: "“The Yamato people have always been herbivores.” — Mutaguchi Renya"
+  PRC_difficulty_strengthen_JAP_5_desc: "When the PLA lands on the Home Islands, the entire populace will take up any weapon and fight the unstoppable tide to their last breath."
+  PRC_difficulty_ultimate_JAP: "§REmpire of the Rising Sun§!"
+  PRC_difficulty_ultimate_JAP_desc: "§RJapan receives buffs beyond all limits§!\n\n\n§RJapan acquires Trisolaran technology§!\n"
+
+  PRC_difficulty_strengthen_RAJ_open: "§GStrengthen India§!"
+  PRC_difficulty_strengthen_RAJ_close: "§GClose India-Only Difficulty Group§!"
+  PRC_difficulty_strengthen_RAJ_1: "Elephant Troops on Your Back"
+  PRC_difficulty_strengthen_RAJ_2: "Eagles of the Plateau"
+  PRC_difficulty_strengthen_RAJ_3: "Immortal Modi"
+  PRC_difficulty_strengthen_RAJ_4: "Shield of the Ganges"
+  PRC_difficulty_strengthen_RAJ_1_desc: "“Grandpa, let me step on your back—”\nMassively strengthens India’s army. An Indo–Pak war becomes almost unwinnable."
+  PRC_difficulty_strengthen_RAJ_2_desc: "Greatly strengthens India’s air force. Indian aviation tech rises, putting real pressure on your air war—no more solo sixth-gen turkey shoots."
+  PRC_difficulty_strengthen_RAJ_3_desc: "By Immortal Modi’s divine arts, India becomes a ‘herbivorous nation’ like the Yamato. His holy gaze grants full resource self-sufficiency; he also empowers Indian and Japanese generals—and may personally command."
+  PRC_difficulty_strengthen_RAJ_4_desc: "The subcontinent turns into an impregnable pillbox—every PLA step will exact a bloody price."
+  PRC_difficulty_ultimate_RAJ: "§YBrahma’s Divine Host§!"
+  PRC_difficulty_ultimate_RAJ_desc: "§YIndia receives buffs beyond all limits§!\n\n\n§YIndia acquires Trisolaran technology§!\n"
+
+  PRC_difficulty_void_army_open: "§9Enable Void Army§!"
+  PRC_difficulty_void_army_close: "§9Disable Void Army§!"
+  PRC_difficulty_void_army_1: "Martian Troops — Tier I"
+  PRC_difficulty_void_army_2: "Martian Troops — Tier II"
+  PRC_difficulty_void_army_3: "Martian Troops — Tier III"
+  PRC_difficulty_void_army_1_desc: "Total: 150 medium-TOE frontline divisions."
+  PRC_difficulty_void_army_2_desc: "Total: 300 large-TOE frontline divisions."
+  PRC_difficulty_void_army_3_desc: "Total: 500 ultra-large TOE divisions with full support companies and top-tier SP artillery ‘mecha,’ plus 30,000 Year-’32 aircraft. Spawns +10 divisions every month.\n§YCreates massive defensive pressure at war start—prepare your lines in advance!§!"
+
+  PRC_difficulty_help_open: "§3Enable Training Wheels§!"
+  PRC_difficulty_help_close: "§3Disable Training Wheels§!"
+  PRC_difficulty_strengthen_PAK_idea: "Pakistan Balance Buff"
+  PRC_difficulty_strengthen_PRK_idea: "DPRK Balance Buff"
+  PRC_difficulty_AST_giveup_idea: "Lower Australia’s Surrender Tendency"
+
+  PRC_difficulty_strengthen_pdo_1_idea: "PDT Buff — Tier I"
+  PRC_difficulty_strengthen_pdo_2_idea: "PDT Buff — Tier II"
+  PRC_difficulty_strengthen_pdo_3_idea: "PDT Buff — Tier III"
+  PRC_difficulty_strengthen_pdo_4_idea: "Shame Before Courage"
+
+  PRC_difficulty_chongtan_idea: "§BChiang Kai-shek Reborn§!"
+  PRC_difficulty_chongtan_idea_desc: "俊如  出沈阳向西打~\n光亭 弃徐州往南下~\n宜生  帮我守平津呐~\n雨庵你怎么能说脏话~\n令侃在大上海搞货拉拉~\n陈仪总督在小岛培养毒蛙~\ndarling跑到美国见老大~\n三言两语把杜鲁门给拿下~\n我想去黄河啊黄河啊看看大堤坝~\n在河南省郑州花园口下~\n去湖南啊湖南啊看长沙~\n把做的“好事”想一想啊~\n我想去上海啊上海啊怀一怀旧啊~\n吃喝嫖赌全在这个地方~\n去美洲啊美洲啊找主家~\n我是儿子  你是我的  爹地啊！~\n..."
+
+  PRC_difficulty_strengthen_JAP_1_idea: "Rising Like the Sun"
+  PRC_difficulty_strengthen_JAP_2_idea: "One Hundred Million Gyokusai"
+  PRC_difficulty_strengthen_JAP_3_idea: "Duty as Heavy as a Mountain"
+  PRC_difficulty_strengthen_JAP_4_idea: "A Herbivorous Nation"
+  PRC_difficulty_strengthen_JAP_5_idea: "No Quarter Till Death"
+  PRC_difficulty_ultimate_JAP_idea: "§REmpire of the Rising Sun§!"
+  PRC_difficulty_ultimate_JAP_idea_desc: "§R我は官軍我敵は\n天地容れざる朝敵ぞ\n敵の大將たる者は\n古今無雙の英雄で\n之に從ふ兵は\n共に慓悍决死の士\n鬼神に恥ぬ勇あるも\n天の許さぬ叛逆を\n起し者は昔より\n榮えし例あらざるぞ\n敵の亡ぶるそれ迄は\n進めや進め諸共に\n玉ちる劔拔き連れて\n決死の突進をしました§!"
+
+  PRC_difficulty_strengthen_RAJ_1_idea: "Elephant Troops on Your Back"
+  PRC_difficulty_strengthen_RAJ_2_idea: "Eagles of the Plateau"
+  PRC_difficulty_strengthen_RAJ_3_idea: "Immortal Modi"
+  PRC_difficulty_strengthen_RAJ_4_idea: "Shield of the Ganges"
+  PRC_difficulty_ultimate_RAJ_idea: "§YBrahma’s Divine Host§!"
+  PRC_difficulty_ultimate_RAJ_idea_desc: "§YKadam Kadam Badhaye Jaa, Khushi Ke Geet Gaye Jaa\n\nYeh Zindagi Hai Qaum Ki, Tu Qaum Pe Lutaye Jaa\n\nYeh Zindagi Hai Qaum Ki, Tu Qaum Pe Lutaye Jaa\n\nTu Sher-e-Hind Aage Badh, Bandhe Se Phir Bhi Tu Na Darr\n\nUda Ke Dushmanon Ka Sar, Jo De Watan Badhaye Jaa\n\nTu Sher-e-Hind Aage Badh, Bandhe Se Phir Bhi Tu Na Darr\n\nUda Ke Dushmanon Ka Sar, Jo De Watan Badhaye Jaa\n\nKadam Kadam Badhaye Jaa, Khushi Ke Geet Gaye Jaa\n\nYeh Zindagi Hai Qaum Ki, Tu Qaum Pe Lutaye Jaa\n\nChalo Dilli Pukarti Hume, Disha Sambhali\n\nLakh Yeh Bighad Ke Lehraye Jaa, Lehraye Jaa\n\nChalo Dilli Pukarti Hume, Disha Sambhali\n\nLakh Yeh Bighad Ke Lehraye Jaa, Lehraye Jaa\n\nKadam Kadam Badhaye Jaa, Khushi Ke Geet Gaye Jaa\n\nYeh Zindagi Hai Qaum Ki, Tu Qaum Pe Lutaye Jaa\n\nYeh Zindagi Hai Qaum Ki, Tu Qaum Pe Lutaye Jaa§!"
+
+  PRC_difficulty_strengthen_PAK: "Pakistan Balance Buff"
+  PRC_difficulty_strengthen_PRK: "DPRK Balance Buff"
+  PRC_difficulty_AST_giveup: "Lower Australia’s Surrender Tendency"
+
+  ultimate_difficulty: ""
+  ultimate_difficulty_desc: "£GFX_Ultimate_difficulty_decision_desc1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n£GFX_Ultimate_difficulty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  ultimate_difficultyaaaaaaaaaa_desc: "£GFX_Ultimate_difficulty_decision_desc1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n£GFX_Ultimate_difficulty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n£GFX_Ultimate_difficulty_decision_desc2\n\n\n\n\n\n\n\n\n\n\n£GFX_Dugin_Biden_preview\n\n\n\n\n\n\n\n\n\n\n"
+  
+  ## Commander Skill Unlocks
+  PRC_jiesuo_qiangxingjun: "Unlock Ability £GFX_ability_forced_march §YForced March§! "
+  PRC_jiesuo_AI_plan: "Unlock Ability £GFX_ability_AI_plan §YAI-Assisted Planning§! "
+  PRC_jiesuo_gongchengbudui: "Unlock Ability £GFX_ability_engineer_army §YEngineering Corps§!"
+  PRC_jiesuo_zhongpaozhen: "Unlock Ability £GFX_ability_heavy_cannon §YGrand Artillery Array§!"
+  PRC_jiesuo_toufangwurenbingqi: "Unlock Ability £GFX_ability_put_UAV §YDeploy Unmanned Weapons§!"
+  PRC_jiesuo_daguimodengluzuozhan: "Unlock Ability £GFX_ability_large_scale_landing_attack §YLarge-Scale Amphibious Assault§!"
+  PRC_jiesuo_zonghexinxizhiyuan: "Unlock Ability £GFX_ability_information_support §YIntegrated ISR Support§!"
+  PRC_jiesuo_zonghelianqinbaozhang: "Unlock Ability £GFX_ability_supply_support §YIntegrated Joint Logistics§!"
+  PRC_jiesuo_zonggong: "Unlock Ability £GFX_ability_final_attack §RGeneral Offensive§!"
+
+  ## Abilities (names + descriptions)
+  ability_forced_march: "§YForced March§!"
+  ability_forced_march_desc: "§YThe People’s Army embodies the ‘iron feet’ spirit—pressing forward with indomitable will and solid sustainment to conduct deep maneuver and penetrations in the enemy rear, enabling encirclements and other operational aims.§!"
+
+  ability_AI_plan: "§YAI-Assisted Planning§!"
+  ability_AI_plan_desc: "§YWith rapid advances in military AI, operational plans no longer rely solely on manual staff work. Rear-echelon compute hubs mesh with forward terminals to generate thorough, feasible, and adaptive war plans.§!"
+
+  ability_engineer_army: "§YEngineering Corps§!"
+  ability_engineer_army_desc: "§YOrganorganic engineer troops will throw up a fortified defensive line in minimum time, blunting the edge of enemy counterattacks.§!"
+
+  ability_heavy_cannon: "§YGrand Artillery Array§!"
+  ability_heavy_cannon_desc: "§YMassing heavy-caliber army artillery for concentrated fires under a C4ISR–fires integration concept, unstoppable barrages will pulverize enemy fortified belts and create fire superiority for our advance.§!"
+
+  ability_put_UAV: "§YDeploy Unmanned Weapons§!"
+  ability_put_UAV_desc: "§YUrban combat is the harshest form of modern warfare. Thanks to the leap of unmanned systems and overwhelming industrial capacity, saturation deployment of unmanned swarms will markedly reduce the risks of fighting in cities.§!"
+
+  ability_large_scale_landing_attack: "§YLarge-Scale Amphibious Assault§!"
+  ability_large_scale_landing_attack_desc: "§YBacked by amphibious assault ships and third-generation floating ports, the People’s Army can now treat hazardous amphibious operations almost like level ground.§!"
+
+  ability_information_support: "§YIntegrated ISR Support§!"
+  ability_information_support_desc: "§YThe General Staff will concentrate a majority of military satellites and networks to provide uninterrupted information support to the front, sharply enhancing battlespace awareness.§!"
+
+  ability_supply_support: "§YIntegrated Joint Logistics§!"
+  ability_supply_support_desc: "§YJoint logistics formations will surge materiel forward from the rear to sustain imminent high-intensity operations.§!"
+
+  ability_final_attack: "§RGeneral Offensive§!"
+  ability_final_attack_desc: "§RThe CMC Joint Staff will mass every favorable condition—meticulous planning, overwhelming fires, abundant sustainment, and continuous support—to launch a large-scale assault with superior forces along the entire front!§!"
+
+  ability_final_defend: "§RBurn the Boats§!"
+  ability_final_defen_desc: "§RImperialist invaders are ravaging our homeland. Sons and daughters of the Motherland—take up arms, fight to the end! Across our soil we shall raise unbreakable walls of steel!§!"
+
+  ## National Spirit / Dynamic Modifier
+  PRC_great_traffic_net_dynamic: "China’s Infrastructure Network"
+  PRC_great_traffic_net_dynamic_desc: "\nOver past decades, China has built a nationwide, interlinked mega-infrastructure system. Railways, highways, canals, and air routes crisscross the land like arteries, providing the relentless circulation that powers China’s rapid development."
+  
+  PRC_SanXia_modifier: "Three Gorges Hydropower Complex"
+  PRC_SanXia_modifier_desc: "§YThe Yangtze River Three Gorges Water Conservancy Hub—commonly the Three Gorges Project or Three Gorges Dam—is a megascale hydropower project on the upper Yangtze. Spanning the main stem from Chongqing to Yichang, Hubei, the dam itself sits at Sandouping in the Xiling Gorge (Yiling District, Yichang). In tandem with the Gezhouba Hydropower Station 38 km downstream, it forms a cascade-regulated power system. It is the largest hydroelectric plant in the world, and the largest dam ever built in China.§!\n\n§GThe Three Gorges complex provides the following additional bonuses to the provinces below:§!\n£civ_factory §WLocal Factories:§! §G+10%§!\n£civ_factory §WLocal Max Factories:§! §G+60%§!\n£resources_texticon §WLocal Resources:§! §G+20%§!\n\n§GAffected provinces:§!\n§G– Chongqing§!\n§G– Hubei§!\n§G– Hunan§!\n§G– Jiangxi§!\n§G– Anhui§!\n§G– Henan§!\n§G– Jiangsu§!\n§G– Zhejiang§!\n§G– Shanghai§!"
+
+  LRD_PRC_sanxia_tooltip: "\n§GProvinces supplied by the Three Gorges power grid§!"
+
+  LRD_PRC_beijing_state_modifier: "(Capital) Beijing Municipality"
+  LRD_PRC_beijing_state_modifier_desc: "Beijing—“Jing” for short—has witnessed millennia of Chinese history as a capital under four dynasties and now the seat of the People’s Republic. At the foot of the Yan Mountains upon the North China Plain, it has been a nexus of governance and culture since the Jin and Yuan. From the vermilion walls and gilded roofs of the Forbidden City to the modern curves of the National Centre for the Performing Arts, the city’s heft of history meets the pulse of the present. As the Republic’s political brain, it concentrates central organs, SOE headquarters, research institutes, and leading universities. The Great Wall’s grandeur, the Summer Palace’s grace, Tiananmen’s solemnity—and the “Bird’s Nest” and “Water Cube”—along with the hutongs’ everyday warmth, all tell Beijing’s and China’s long story and the nation’s unstoppable rise.\n“Long live the People’s Republic of China! Long live the great unity of the peoples of the world!”\n\n\n§WShanghai’s metro is packed like sardines; Beijing’s different—stick an arm between two commuters and, in a blink, you’ll surf from Tiananmen to the Yellow River’s mouth.§!"
+
+  LRD_PRC_tianjin_state_modifier: "(Municipality) Tianjin Municipality"
+  LRD_PRC_tianjin_state_modifier_desc: "Tianjin, a directly administered city, has long been twinned with Beijing—its guardian and maritime outlet—quietly shouldering what the capital needs. Late-Qing humiliation is etched here as well; the Dagu Forts still whisper of that tragic age. Modern Tianjin may be the least conspicuous among the four municipalities, yet as a key northern port and industrial city it continues to power the Jing–Jin–Ji region—its bustling xiangsheng (comic crosstalk) and the aroma of jiānbǐng guǒzi forming a city card distinct from Beijing’s.\n\n\n§WCame to Tianjin-Wei and somehow learned… nothing at all.§!"
+
+  LRD_PRC_shanghai_state_modifier: "(Municipality) Shanghai Municipality"
+  LRD_PRC_shanghai_state_modifier_desc: "Shanghai—“Hu” for short—since treaty-port opening in 1843 has been China’s hub of economy, finance, trade, and shipping; today, amid the country’s technological ascent, it is also a leading innovation center that draws global capital. Sitting at the Yangtze estuary, it uniquely commands both inland waterway and ocean routes as a superlative logistics nexus. Nanjing Road, the Bund, and the Oriental Pearl Tower draw throngs of visitors each year, making Shanghai one of China’s chief calling cards to the world.\n\n\n§WYangqibang stands tall! Coffee, xiaolongbao—let’s go!§!"
+
+  LRD_PRC_chongqing_state_modifier: "(Municipality) Chongqing Municipality"
+  LRD_PRC_chongqing_state_modifier_desc: "Chongqing—“Yu” for short—the largest of China’s four municipalities by area, sits where the Yangtze meets the Jialing. Upon mountains split by the two rivers, working people carved a tiered, skyborne city. From the uncanny brilliance of Ba-state bronzes, to WWII air-raid shelters’ smoke, to Hongyan Village’s faith-soaked dawn—three millennia unfurl here. Today the world’s lone “8D magic city” is Chongqing’s calling card: a light rail threading through buildings, a cable car spanning the Yangtze, and hotpot’s numbing spice—together showcasing a charisma unlike any other.\n\n\n§WOne wrong turn and—congrats!—you’ve unlocked a day tour of Chongqing + a Two Rivers nightscape cruise.§!"
+
+  LRD_PRC_liaoning_state_modifier: "(Province) Liaoning Province"
+  LRD_PRC_liaoning_state_modifier_desc: "Liaoning—“Liao,” from “perpetual peace on the Liao River”—with Shenyang as its capital, lies at the heart of the Bohai Rim and Northeast Asia economic spheres. The province governs 14 prefecture-level cities plus the Shenyang–Fushun Demonstration Zone; 100 counties/county-level districts; 16 county-level cities; and 25 counties. Liaoning’s industrial base is formidable: a key national industrial heartland with a complete system across equipment manufacturing, raw materials, defense S&T industry, and high-tech sectors—earning the moniker “the Ruhr of the East.” It also boasts natural and cultural attractions such as Jinzhou Bijia Mountain, Benxi Water Cave, the Shenyang Imperial Palace, and the Zhao Mausoleum, forming an important northern ecological barrier.\n“Mountains and seas with feeling; heaven broad, Liaoning at peace.”\n\n\n§WAs it was~§!\n§WWide–Area Silence§!"
+
+  LRD_PRC_jilin_state_modifier: "(Province) Jilin Province"
+  LRD_PRC_jilin_state_modifier_desc: "Jilin—capital Changchun—unfurls within Manchuria’s heart under the guardianship of Changbai (Paektu) Mountain. The pulses of the Songhua, Tumen, and Yalu nourish the vast “golden corn belt”; the black soil yields the fullness of a ‘granary of the nation.’ Here are the first tracks of New China’s industry—FAW’s tire marks are pressed into the Republic’s bloodstream—and here innovation beats strong: satellites scan the heavens, a pharma valley rises. When deep winter comes, Jilin becomes a powder-snow paradise: rime-frost along the Songhua crystallizes into jade forests, and hot springs waft northern warmth. Between white mountains and black waters, Jilin’s fertile gifts, industrial sinew, and ice-snow magic embody Northeast China’s resilience, abundance, and wonder.\n\n\n§WLong live the Spirit of Paektu (…jk).§!"
+
+  LRD_PRC_heilongjiang_state_modifier: "(Province) Heilongjiang Province"
+  LRD_PRC_heilongjiang_state_modifier_desc: "Heilongjiang—capital Harbin—rests at the nation’s far north. From the black dragon’s legend to Ningguta’s exile; from the humiliation of Manchuria’s fall to the resistance of the Northeast Anti-Japanese United Army; from the bitter songs of layoffs to the ringing stride of revitalization… this land has never ceased grappling with inner and outer trials. One of the ‘three brothers’ of the Northeast, after a century of storms it has met a second spring not seen since the First Five-Year Plan: a complete victory over absolute poverty, China’s largest commercial grain base, and a thriving ice-and-snow culture industry. This northern giant—rusted hull and all—is easing from its berth, steering under the CPC’s leadership toward the shore of rejuvenation.\n\n\n§W“My home is in the Northeast, upon the Songhua River.”§!"
+  
+  LRD_PRC_hebei_state_modifier: "(Province) Hebei Province"
+  LRD_PRC_hebei_state_modifier_desc: "Hebei—abbrev. §YJi§—with Shijiazhuang as its capital, encircles Beijing and spans the North China Plain and the Yanshan–Taihang ranges. It is one of the cradles of Chinese civilization and the traditional shield of the imperial heartland. From the thunder of Shanhaiguan, the “First Pass under Heaven,” to the Song-dynasty polychrome sculptures of Longxing Temple in Zhengding, and the Ming–Qing fortress dwellings of Yu County, a brilliant cultural corridor unfolds. Wuqiao acrobatics’ death-defying art, Tangshan shadow play’s lively grace, Quyang stone carving’s refined craft, and Hengshui inside-painting’s worlds within inches all testify to vibrant folk traditions. In the new era, Hebei rides coordinated Beijing–Tianjin–Hebei development to transform and upgrade: Xiong’an New Area sketches a city of the future; Caofeidian’s deep-water port links the Maritime Silk Road; Zhangbei’s wind farms light a thousand homes. From greener steel to booming ice-and-snow industries, from “Made in Hebei” to “Smart Hebei,” this land is writing new legends—grounded in deep history, energized by innovation.\n\n\n§WMaster of Beijing! Bestow upon this humble one a 985 university!§!"
+
+  LRD_PRC_shanxi1_state_modifier: "(Province) Shanxi Province"
+  LRD_PRC_shanxi1_state_modifier_desc: "Shanxi—abbrev. §YJin§—with Taiyuan as its capital, commands the North China heartland: Taihang to the east, the Yellow River to the west, Great Wall beacons to the north, and the river’s natural moat to the south. Since antiquity it has been known as “a land girdled by mountains and rivers,” a wellspring of Huaxia civilization. “To see five millennia of civilization, look to Shanxi” is no empty boast—from the legendary sage-kings Yao, Shun, and Yu setting courts here, to Spring and Autumn hegemony; from mountain passes barring steppe incursions to the anti-Japanese front line in modern times, history has painted a sweeping scroll across this soil. After 1949, endowed with rich minerals, Shanxi became an indispensable energy engine for national development. In the new era, it is accelerating transition—from traditional coal base to a high-quality growth pioneer.\n\n\n§WWe mine coal with Wither Skeletons here; you really didn’t get the memo?§!"
+
+  LRD_PRC_shandong_state_modifier: "(Province) Shandong Province"
+  LRD_PRC_shandong_state_modifier_desc: "Shandong—abbrev. §YLu§—with Jinan as its capital, faces the Bohai to the north and the Yellow Sea to the south, famed since antiquity for fisheries and salt. From the Confucian homeland of Qufu to the Hundred Schools’ debates at the Jixia Academy; from Grand Canal grain convoys to a century of Qingdao beer—the province carries some of China’s deepest cultural strata. Jinan’s city-of-springs charm pairs with Yantai’s vintages; Weihai’s golden strands contrast with Qufu’s sacred solemnity. From the old Jinan Prefecture to the late-Qing cry to “appeal to heaven,” Shandong has long been a northern economic pillar, upholding Confucian virtues of benevolence, righteousness, propriety, wisdom, and trust. On the new Long March of Chinese-style modernization, it writes a fresh chapter of coordinated land–sea development and high-quality growth—each leap proof of the civilization’s vital pulse and the great nation’s steady stride.\n\n\n§WIf all else fails… have a Harbin beer, eh?§!\n§WGo tell my headcount to Confucius himself—he’d bow and kowtow to me!§!\n§WFirst, my thanks to the TFR leadership for this opportunity…§!"
+
+  LRD_PRC_henan_state_modifier: "(Province) Henan Province"
+  LRD_PRC_henan_state_modifier_desc: "Henan—abbrev. §YYu§—with Zhengzhou as capital, sits “at the center of all under heaven.” On these 167,000 km² of fertile plains lies half the buried chronicle of China. Shaolin kung fu’s fame spans the seas; Taiji spreads worldwide; Yu opera’s clapper tones ring across town and country; Jun ware’s flambé glazes astonish. The morning bell and evening drum at White Horse Temple trace the path of Buddhism’s arrival; stele at Songyang Academy record Neo-Confucian legacy. Here the 24 solar terms were measured; traditional medicine took root. In the new era, Henan advances from “granary of the Central Plains” toward an “innovation highland.” Zhengzhou Airport economy links the globe; China–Europe trains sound across Eurasia. From shield-tunneling “national heavy equipment” to superhard materials, from “Made in Henan” to “Smart Henan,” the ancient land finds new vitality. As the Yellow River ecological corridor greens for a thousand li, Luoyang peonies bloom, and the Red-Flag-Canal spirit passes down the generations, 100 million Henanese stride with culture and confidence in the rise of Central China.\n\n\n§WToday we’re not talking manholes—we’re talking education… or agriculture… *glug-glug*§!"
+
+  LRD_PRC_hubei_state_modifier: "(Province) Hubei Province"
+  LRD_PRC_hubei_state_modifier_desc: "Hubei—abbrev. §YE§—with Wuhan as capital, is the “province of a thousand lakes” and the chokepoint where nine provinces meet. The Jianghan Plain nurtured Chu culture; the Yangtze and Han rivers cradled the three towns of Wuhan; the Yellow Crane Tower’s verse echoes a millennium; the 1911 Wuchang Uprising’s gunshots awakened modern China. Today Hubei hosts the colossal Three Gorges Project and fields of plenty; the Yangtze’s golden waterway and the Beijing–Guangzhou HSR artery cross here, as Wuhan rises as an inland gateway to the world. Romantic Chu spirit meets builders’ pragmatism: along the Yangtze Economic Belt and in Chinese-style modernization, Hubei serves as a strategic pillar for the central region’s rise.\n\n\n§WNotice there aren’t “Hubei jokes,” only Wuhan jokes—arguably the biggest Hubei joke of all.§!\n§W(Why did hot-dry noodles get one yuan more expensive?)§!"
+
+  LRD_PRC_hunan_state_modifier: "(Province) Hunan Province"
+  LRD_PRC_hunan_state_modifier_desc: "Hunan—abbrev. §YXiang§—with Changsha as capital, rests on the misted expanse of Dongting Lake. Zhangjiajie’s otherworldly peaks paint “landscape Hunan” in strokes of stone and cloud; the thousand-year song of Yuelu Academy nourishes the pride of “Of all talents under Chu, those here are most.” Fire-hot chilies ignite Xiang cuisine and temper Hunanese grit: to eat bitterness, to dare, to endure. It’s said “half of modern Chinese history is written by Hunanese”: Zuo Zongtang, the national hero who pacified Xinjiang; Tan Sitong of the Reform; Cai E who defended the Republic; and, above all, Mao Zedong—savior who led the liberation of China. The sons and daughters of Hunan paid in blood for today’s nation.\n\n\n§R‘If ever China should perish, it would be over the dead bodies of the Hunanese.’§!"
+
+  LRD_PRC_jiangxi_state_modifier: "(Province) Jiangxi Province"
+  LRD_PRC_jiangxi_state_modifier_desc: "Jiangxi—abbrev. §YGan§—with Nanchang as capital, is ringed on three sides by mountains, a land of “bountiful treasures and eminent people.” The Gan River runs north–south; on the banks, the Tengwang Pavilion still echoes “setting sun with lone wild geese in flight.” Poyang Lake breathes with the Yangtze; Jiangxi has long linked the Central Plains with Lingnan. On Jinggangshan a spark lit the dawn of revolution; atop Nanchang’s walls the first shots of armed resistance rang out. Today Jiangxi boasts the copper city of Yingtan and the sweet zest of Gannan navel oranges. From “red cradle” to “green rise,” from “resource-driven” to “innovation-led,” it embraces the future with open arms.\n\n\n§WIf GDP mapped to elevation, Jiangxi might be a basin.§!"
+
+  LRD_PRC_anhui_state_modifier: "(Province) Anhui Province"
+  LRD_PRC_anhui_state_modifier_desc: "Anhui—abbrev. §YWan§—with Hefei as capital, takes its name from Anqing and Huizhou. Nourished by the Yangtze and Huai, it is famed for striking landscapes—especially Huangshan, crowned by the ‘Four Wonders’: odd pines, grotesque rocks, sea of clouds, and hot springs. From of old, Huizhou merchants’ footprints reached across the realm; here the cultures of the Central Plains and Jiangnan entwine. Scholar’s Four Treasures whisper literati elegance; Huangmei opera’s flowing tones soak the Jiang–Huai soul. Today Anhui’s graceful scenery, cultural depth, and surging innovation display the charm of “Hui style and Wan resonance.”\n\n\n§WPeople in north Anhui dislike Hefei yet hate not being from Hefei even more. As for south Anhui? That’s Nanjing’s business.§!"
+
+  LRD_PRC_jiangsu_state_modifier: "(Province) Jiangsu Province"
+  LRD_PRC_jiangsu_state_modifier_desc: "Jiangsu—abbrev. §YSu§—with Nanjing as capital, sits on China’s central coast along the Yellow Sea, crossed by both the Yangtze and Huai. From the Southern Song through the Republic, it remained among the nation’s most developed regions. In modern times, under CPC guidance and provincial leadership, Jiangsu forged a distinct high-tech industrial system, ranking second only to Guangdong in economic heft. Each city has its own flavor—yet the province is “remarkably united”—and is among China’s greenest and top tourist destinations. The capital Nanjing hosts the Eastern Theater Command headquarters, conferring strategic and political weight. Amid the churning world, Jiangsu will fight for the motherland to the end.\n\n\n§RWe folks of Zhenjiang, Nanjing, Wuxi, Xuzhou, Changzhou, Suzhou, Nantong, Lianyungang, Huai’an, Yancheng, Yangzhou, Taizhou, and Suqian are very united—how dare you call it an unbreakable alliance!§!\n§WWhere does “north Jiangsu” start, exactly?§!"
+
+  LRD_PRC_zhejiang_state_modifier: "(Province) Zhejiang Province"
+  LRD_PRC_zhejiang_state_modifier_desc: "Zhejiang—abbrev. §YZhe§—with Hangzhou as capital, is a land of “seven parts mountain, one part water, two parts fields,” the cradle of Jiangnan civilization. From Wu–Yue rivalries to the Southern Song court at Lin’an, history left a brilliant imprint. The surging Qiantang tide both fattens fields and forges a spirit of enterprise. Today Zhejiang spans Yiwu’s global small-commodities web and Hangzhou’s digital-economy ecosystem; it fields the behemoth Ningbo–Zhoushan Port and the millennia-aged bouquet of Shaoxing huangjiu. From the Red Boat on South Lake to “Digital Zhejiang,” the province has kept pioneering vigor—standing at the tide’s crest of reform and opening to write its “Zhe-li” story anew.\n\n\n§WSo you got into ZJU—big deal? Folks from Suzhou can too!§!"
+
+  LRD_PRC_fujian_state_modifier: "(Province) Fujian Province"
+  LRD_PRC_fujian_state_modifier_desc: "Fujian—abbrev. §YMin§—with Fuzhou as capital, lies on China’s southeast coast facing Taiwan, long on the front line of cross-strait struggle; heavy industry lagged, and history’s marks are deep. Yet from Quanzhou—the ancient Maritime Silk Road’s great port—to Xiamen’s Special Economic Zone, Fujian has always stood at China’s gateway. Since the late Qing, Min people “went down to Nanyang,” and the entrepreneurial spirit of “no pain, no gain” took root. Overseas Chinese returned wealth and wisdom: from Tan Kah Kee’s selfless schools to today’s hometown-backing tycoons; from Jinjiang’s private-economy model to the core zone of the 21st-Century Maritime Silk Road, Fujian keeps forging ahead. In cross-strait integration and opening-up, it writes a new chapter of mountain-sea cooperation.\n\n\n§WIs it ‘Fu-Xia-Quan,’ ‘Xia-Fu-Quan,’ or ‘Quan-Fu-Xia’? A question for the ages.§!\n§WZhangzhou & Ningde: watch your mouth!§!\n§W(It’s Fujian, not “Hu-jian.”)§!"
+  
+  LRD_PRC_yunnan_state_modifier: "(Province) Yunnan Province"
+  LRD_PRC_yunnan_state_modifier_desc: "Yunnan—abbrev. §YYun§/§YDian§—with Kunming as its capital, straddles the Yunnan–Guizhou Plateau and the Hengduan ranges, north toward Tibet and south to Southeast Asia: a fusion of the “kingdoms” of plants, animals, and non-ferrous metals. Relief is dramatic and climates stacked—from snow peaks and glaciers to tropical rainforest, from highland lakes to torrent-cut gorges—yielding some of China’s richest natural scenery. Culturally, Yunnan is home to 25 indigenous ethnic groups. Its economy is likewise diverse: plateau agriculture sends Pu’er tea, coffee, and cut flowers worldwide; tourism—Dali’s Erhai, Lijiang Old Town, Shangri-La’s Pudacuo—makes it a top destination; in recent years, high-tech manufacturing has surged, and the China–Laos Railway has turned Yunnan into a hub radiating toward South and Southeast Asia. Yunnan’s beauty lies in nature and in people: an ecological shield for China and a model of plural cultures in harmony. With openness and inclusiveness, Yunnan writes a new chapter “south of the colorful clouds.”\n\n\n§WOld driver take me, I’m heading up to Kunming~§!"
+
+  LRD_PRC_guizhou_state_modifier: "(Province) Guizhou Province"
+  LRD_PRC_guizhou_state_modifier_desc: "Guizhou—abbrev. §YGui§/§YQian§—with Guiyang as its capital, is China’s only province without a supporting plain: 92.5% mountains and hills. The Dalou Mountains rise to the north, Wuling to the east, Wumeng to the west, the Miao Range spans the center, and the Yangtze and Pearl basins part ways here. Karst has carved the thunder of Huangguoshu Falls, the grace of Libo’s Xiaoqikong, the fantasy of Zhijin Cave, and the “earthly ribbon” of the Hundred-Li Azalea Sea. A multi-ethnic homeland for Miao, Dong, Bouyei and more, its Water People’s Duan Festival and Yi Torch Festival blaze with color. In the new era, Guizhou has broken free from the “no three li of flat land” stricture, earning headlines for “Guizhou speed.” Nearly half of the world’s top-100 high bridges are here—North Panjiang, Balinghe and other museum-worthy spans turn chasms into thoroughfares. Big data has risen fast; Guiyang is China’s “Data Valley.” From county-to-county expressways and city-to-city air links to West-to-East power transmission and East-to-West computing, Guizhou writes a mountain legend for a new age. As the FAST “Sky Eye” probes the cosmos and the village super-league ignites grassroots football passion, Guizhou astonishes the world with confident openness.\n\n\n§WWalk all China’s lands—most intoxicating is multi-colored Guizhou.§!"
+
+  LRD_PRC_sichuan_state_modifier: "(Province) Sichuan Province"
+  LRD_PRC_sichuan_state_modifier_desc: "Sichuan—abbrev. §YChuan§/§YShu§—with Chengdu as its capital, spans the eastern rim of the Qinghai-Tibet Plateau and the Sichuan Basin, the natural nexus linking the Central Plains and the southwest. From 7,556-meter Minya Konka to the 200-meter Chengdu Plain, its relief and microclimates render “four seasons on one mountain, different skies every ten li.” As the Yangtze’s upper-reaches ecological shield, Sichuan treasures Jiuzhaigou and Huanglong; as the home of the giant panda, it is a global biodiversity hotspot. Ancient Shu civilization blossomed here; Dujiangyan still irrigates the “Land of Abundance” after two millennia; the plaques of Wuhou Shrine tell the essence of Three Kingdoms culture. Face-changing Sichuan opera, delicate Shu embroidery, and mouth-numbing, fragrant Sichuan cuisine proclaim Bashu’s unique charm. Today Sichuan, led by the Chengdu–Chongqing twin-city economic circle, achieves leapfrog growth: the century project of the Sichuan–Tibet Railway, the China–Europe rail corridors from Chengdu, targeted poverty eradication in Liangshan, and Tianfu New Area’s innovation engines—all shine in Western Development’s new journey.\n\n\n§WThe only modern designated “inland sea” venue.§!\n§WIs the Geo forum raiding again?§!"
+
+  LRD_PRC_shanxi2_state_modifier: "(Province) Shaanxi Province"
+  LRD_PRC_shanxi2_state_modifier_desc: "Shaanxi—abbrev. §YShan§—with Xi’an as capital, spans China’s waist; the Qinling divide north and south, the Loess Plateau rolls beyond. Thirteen dynasties set capitals here. As the Silk Road’s starting point, Shaanxi birthed achievements that changed the world: Zhang Qian departed Chang’an to open East–West exchange; Sima Qian authored the §YShiji§, the first biographical history; the Forest of Steles’ 4,000 stones trace calligraphy’s millennial flow. Ansai waist drums thunder, Guanzhong’s Qin opera soars, and southern Shaanxi’s Han-tone lilts: a rich cultural landscape. In the new era, Shaanxi pivots from old industrial base to innovation-driven growth. Xi’an’s national-center-city rise quickens; Xixian New Area gathers innovators; aerospace showcases “Shaanxi power,” semiconductors cluster, cultural IPs transform tradition, and Belt–Road humanistic exchange flourishes. When Great Tang Ever-Bright City rekindles imperial splendor, the Qinling Four Treasures find better habitats, and the Yan’an spirit is carried forward, Shaanxi writes a new chapter of catching up and surpassing.\n\n\n§WTruth is, many “old Shaanxi” schoolkids used to be from Henan…§!\n§WWhat a lousy Great Wild Goose Pagoda!§!"
+
+  LRD_PRC_gansu_state_modifier: "(Province) Gansu Province"
+  LRD_PRC_gansu_state_modifier_desc: "Gansu—abbrev. §YGan§/§YLong§—with Lanzhou as capital, lies like a jade ruyi across the northwest: a 1,600-km corridor binding the Central Plains to the Western Regions, the Loess Plateau to the Qinghai–Tibet Plateau. This narrow land bridge—golden artery of the Silk Road—also yields “one province, four seasons.” Jiayuguan’s walls embody the first heroic pass under heaven. The seven-hued Zhangye Danxia, the dune-lake symbiosis of Mingsha Mountain & Crescent Spring, and the clay-sculpting marvels of Maijishan Grottoes reveal twin gifts of nature and culture. Today, Belt–Road building powers renewal: Lanzhou New Area’s petrochemicals, Jinchang’s nickel transition, and Jiuquan’s wind bases refresh industry; “Gan-flavor” farm goods go national, TCM herbs rank among the top; Lan-Yu and Dun-Ge railways revive the ancient artery. From the galloping bronze horse to “Digital Gansu,” from the “Hexi Corridor” documentaries to international cultural expos, this 450,000-km² land continues the Silk Road’s modern legend.\n\n\n§WLanzhou beef noodles are so good—why line up for French snails?§!"
+
+  LRD_PRC_qinghai_state_modifier: "(Province) Qinghai Province"
+  LRD_PRC_qinghai_state_modifier_desc: "Qinghai—abbrev. §YQing§—with Xining as capital, the source of the Yangtze, Yellow, and Lancang is China’s “Water Tower.” Across 720,000 km², snow mountains, grasslands, lakes, and gobi form a grand highland scroll. The Tu people’s Nadun masked dances, Rebgong thangka art, and Yushu’s galloping horse festivals reveal a mosaic of ethnic cultures. The Qinghai Lake sculpin run and Hoh Xil’s antelope migrations compose a living epic of the plateau. In the new era, Qinghai advances ecology-first green development: the world’s largest PV park shines on Talatan; Qarhan Salt Lake’s potash safeguards food security; “Qing-brand” agro-pastoral products go national. From Qinghai–Tibet Railway extensions to global eco-tourism destinations, Qinghai safeguards this pure land with ecological commitment—“Great Beauty Qinghai” writes a high-plateau legend of our time.\n\n\n§WDining has slumped here—turns out banning public banquets really works.§!"
+
+  LRD_PRC_hainan_state_modifier: "(Province) Hainan Province"
+  LRD_PRC_hainan_state_modifier_desc: "Hainan—abbrev. §YQiong§—with Haikou as capital, is a pearl set in the South China Sea: China’s youngest province and largest special economic zone, its only tropical island province and a keystone of the 21st-Century Maritime Silk Road. Nature was generous across 35,400 km²: Wuzhishan’s rainforests cradle rare flora, Dongzhaigang’s mangroves shield the coast, and Xidao’s coral reserves guard underwater worlds. Yazhou folk songs recall fishing-and-farming lore; the arcades of the Nanyang quarter tell of voyages south. Today, the Free Trade Port fuels a new legend of openness: Yangpu’s container terminals hum day and night; Wenchang’s spaceport points rockets to the heavens; when Li brocade meets global fashion, and fishing-village inns host travelers from afar, Hainan’s open embrace paints a “Southern Sea Pearl” for a new era.\n\n\n§WAs everyone knows, Hainan is the fourth province of the Northeast trio.§!"
+  
+  LRD_PRC_guangdong_state_modifier: "(Province) Guangdong Province"
+  LRD_PRC_guangdong_state_modifier_desc: "Guangdong—abbrev. §YYue§—with Guangzhou as its capital, lies south of the Nanling ranges on the South China Sea. Birthplace of Lingnan culture and the spearhead of Reform & Opening, it sits where three great rivers meet and mountains meet the sea. The Pearl River Delta’s alluvial plain nurtured millennia-old Guangzhou, while a long coastline links the special economic zones of Shenzhen and Zhuhai into China’s most dynamic city cluster. Today, Guangzhou Tower evokes modern flair while Chaozhou’s old city keeps traditional signboards alive; Danxia Mountain’s red sandstone cliffs awe, and Wanlü Lake’s waters delight. Cantonese cuisine perfumes the world; Guangfu, Chaoshan, and Hakka cultures blend here. As China’s top provincial economy, Guangdong leads in electronics & ICT, smart manufacturing, and the marine economy; hubs like Guangzhou South Station, Port of Shenzhen, and Zhuhai’s Hengqin New Area power “dual circulation” and write the blueprint of “Digital Guangdong.”\n\n\n§WGuangdong folks really know food. You cooked it like this—trying to give me a stomachache?§!\n§WSay Fujianese are foodies again and we’ll have words!§!"
+
+  LRD_PRC_taiwan_state_modifier: "(Province) Taiwan Province"
+  LRD_PRC_taiwan_state_modifier_desc: "Taiwan—abbrev. §YTai§—with Taipei as its capital, gleams like a pearl on China’s southeast maritime frontier. Taroko Gorge’s chiseled marble, Alishan’s sea of clouds at dawn, and Kenting’s coral coasts testify to nature’s bounty. Contemporary Taiwan is a key Asian innovation hub: Hsinchu Science Park’s semiconductors lead the world; Taipei 101 once topped global skylines; Taichung’s precision machinery and Tainan’s opto-electronics each excel. From alpine tea gardens to the night markets’ sizzle, from the “kingdom of bicycles” to breakthroughs in marine science, vitality abounds. With national reunification achieved, compatriots on both sides of the Strait embrace at last. On the great journey of national rejuvenation, Taiwan compatriots will share historic opportunities and common prosperity.\n\n\n§WHee-hee-hee—typhoon’s coming! (face first)§!"
+
+  LRD_PRC_xianggang_state_modifier: "(Special Administrative Region) Hong Kong SAR"
+  LRD_PRC_xianggang_state_modifier_desc: "Hong Kong’s economic lifeline began with Guangzhou’s Thirteen Hongs in the Qing, surged after WWII, and reached new heights in the new century with the Republic. After 156 years of colonial ordeal, Hong Kong shed old scars and unleashed unprecedented vitality. Backed by the mainland and facing the world, the former Asian tiger is evolving into a new Asian capital of finance and trade.\n\n\n§WBecause we do it in the open.§!"
+
+  LRD_PRC_aomen_state_modifier: "(Special Administrative Region) Macao SAR"
+  LRD_PRC_aomen_state_modifier_desc: "From the cession of Macao’s sovereignty in Guangxu 13 to the 1999 handover, the people of Macao walked through 112 years of wind and rain. Crossing the century’s threshold, Macao welcomed visitors with a new face. Thanks to “One Country, Two Systems,” she becomes another pearl of the Greater Bay Area, embracing the world with open arms.\n\n\n§WI gamble—worst case a ¥3,000 fine; you kill someone…that’s at least 30 years!§!"
+
+  LRD_PRC_guangxi_state_modifier: "(Autonomous Region) Guangxi Zhuang Autonomous Region"
+  LRD_PRC_guangxi_state_modifier_desc: "Guangxi—abbrev. §YGui§—with Nanning as its capital, is a land of karst peaks and braided rivers, China’s only minority autonomous region with coast, border, and river advantages. Qin’s Lingqu linked the Xiang and Li rivers, drawing Guangxi firmly into the imperial map; Han-era Hepu Port’s sails launched the Maritime Silk Road. As the Zhuang cultural heartland, mountain songs of the “Third of the Third” still echo, passing intangible heritage through generations. Today, Guangxi anchors the New Western Land–Sea Corridor and fronts China–ASEAN openness. Beibu Gulf’s mega-ships shuttle, the Youyi Pass on the China–Vietnam border hums with traffic, and the Pinglu Canal will link the Xijiang to the Gulf by water. At night, Nanning’s ASEAN CBD neon mirrors Sanjiang’s Dong village bonfires—ancient and modern in harmony—like the timeless ballads of Liu Sanjie singing the myriad scenes of the Eight-Gui land.\n\n\n§WMy clan genealogy actually says we’re Han…§!"
+
+  LRD_PRC_ningxia_state_modifier: "(Autonomous Region) Ningxia Hui Autonomous Region"
+  LRD_PRC_ningxia_state_modifier_desc: "Ningxia—abbrev. §YNing§—with Yinchuan as its capital, became China’s only provincial-level Hui autonomous region on 25 Oct 1958. Nicknamed “Jiangnan beyond the Great Wall,” its oasis agriculture thrives on the Yellow River’s nurture. Today Ningxia is a national base for energy–chemicals, a powerhouse for特色农业 like goji berries and wine, a key link in the western ecological shield, and a gateway platform to Arab and broader Muslim regions. It plays irreplaceable roles in ethnic unity, regional coordination, energy & ecological security, and external exchange.\n\n\n§WTruth be told—Ningxia’s actually richer than Gansu.§!"
+
+  LRD_PRC_neimeng_state_modifier: "(Autonomous Region) Inner Mongolia Autonomous Region"
+  LRD_PRC_neimeng_state_modifier_desc: "Inner Mongolia—abbrev. §YMeng§—with Hohhot as its capital, includes Baotou, Ulanqab, Xilingol, Hinggan and more—nine cities and three leagues. Declared on 1 May 1947 at Prince’s Temple (today Ulanhot) by Ulanhu, it is the PRC’s first autonomous region. Today it is a vital ecological shield, a security barrier along the northern frontier, a major base of energy and strategic resources, a key producer of farm–pastoral goods, and a bridgehead for opening to the north—central to China’s development, ecology, and border stability.\n\n\n§WYes, we all ride horses to school.§!"
+
+  LRD_PRC_xinjiang_state_modifier: "(Autonomous Region) Xinjiang Uygur Autonomous Region"
+  LRD_PRC_xinjiang_state_modifier_desc: "Xinjiang—abbrev. §YXin§—with Ürümqi as its capital, sits at the heart of Eurasia and on the ancient Silk Road. A crossroads of East–West civilizations, it weaves a cultural tapestry—from the Twelve Muqam’s melodies and Kazakh akyn chanting to Tuvan throat singing and iridescent Atlas silk. Today, China–Europe trains stream through Ürümqi International Land Port; trade prospers at Horgos; the Tarim Basin’s oil & gas and vast PV fields underpin national energy security. Mechanized cotton harvests, red dates and Hami melons reach markets nationwide; tourism booms; data centers rise. On a high-quality path, this region—one-sixth of China’s land—moves steadily forward with openness and inclusiveness, composing a chapter of unity and progress.\n\n\n§WHey friend, any spare state slots?§!"
+
+  LRD_PRC_xizang_state_modifier: "(Autonomous Region) Tibet Autonomous Region"
+  LRD_PRC_xizang_state_modifier_desc: "Tibet—abbrev. §YZang§—with Lhasa as its capital, is the “Roof of the World” and the planet’s “Third Pole.” Snow peaks tower and rivers surge; as the source of many great Asian rivers, Tibet is both China’s ecological shield and a keystone in global climate regulation. Cradle of Tibetan culture, its opera, thangka, Sowa Rigpa medicine, and butter tea carry a people’s wisdom and faith, while Sho Dun and Ongkor festivals display highland joy and devotion. Today Tibet embraces modernity: the Qinghai–Tibet Railway spans permafrost highlands, the Lhasa–Nyingchi Railway follows the Yarlung Tsangpo, and the “power line to the sky” ends the no-electricity past for remote herders. Green energy thrives—PV fields glint beneath snowy ranges; eco-tourism reveals the vast Qiangtang and Nyingchi’s riot of peach blossoms. From Lhasa’s bustle to Ngari’s stillness, from yak husbandry to a budding digital economy, Tibet protects tradition while steadily advancing toward its own modernization. At sunrise on Everest, at chimneys of new homes on the steppe, in short videos by the young—this snowland tells a story of faith, nature, and development in harmony.\n\n\n§RFrom the East rose the reddest, reddest sun; in the sun stood the highest, highest Bodhisattva, who sees all things. He saw the highest place on earth, where people suffered the deepest, deepest pain.§!\n§RThe Bodhisattva pointed once, and the Bodhisattva’s soldiers crossed a thousand mountains and ten thousand waters to relieve the people’s great suffering.§!\n§ROn each Bodhisattva-soldier’s head, a five-pointed red star shone.§!"
+
+  LRD_PRC_waimeng_state_modifier: "(Autonomous Region) Outer Mongolia Autonomous Region"
+  LRD_PRC_waimeng_state_modifier_desc: "Outer Mongolia—abbrev. §YYan§ (from Yanran Mountains)—with Ulaanbaatar as its capital, stands on the northern steppe: east to the Greater Khingan, west to Altai, south to the Gobi, north to the Sayan. Vast grasslands and sombre forests set the theme. Once the four leagues of the Khalkha homeland, Kulun’s temple bells and Kyakhta’s caravan bells together tell of millennia of exchange between steppe and Central Plain. The land keeps nomadic glory alive: sacred Khentii—Genghis Khan’s cradle—still looms; Orkhon Valley’s Turkic steles and Uyghur ruins witness northern dynastic cycles; Naadam’s wrestling, racing, and archery preserve the steppe’s valor; long-song and morin khuur sing the people’s deep feeling. Today, with support from the Party and state, reconstruction projects are greenlit, factories and infrastructure rise, herders walk out of poverty with cadre assistance, and visitors from the heartland return vitality to the economy. As a vital strand in China’s multiethnic tapestry, Outer Mongolia once more links hearts with the nation on the road to rejuvenation.\n\n\n§W101: man, what can I say—Mamba out.§!\n§WSalute to the OG “legendary drop-proof” king.§!"
