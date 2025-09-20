@@ -1,0 +1,988 @@
+﻿l_english:
+ # Military reform
+  PRC_chinas_spot_in_the_sun: "China’s Rising Sun"
+  PRC_chinas_spot_in_the_sun_desc: "To build a military force that can effectively safeguard national interests and possesses modern combat capabilities is one of our core tasks—one we must realize and pursue consistently. National defense modernization will be “always on the march”; this is no empty slogan."
+  PRC_pla_reformation_1: "PLA Military Reform"
+  PRC_pla_reformation_1_desc: "From the Nanchang Uprising in 1927 onward, the People’s Liberation Army has come through iron and blood. The Sanwan Reorganization and the principle of “Party branches down to the company” gave it the character of the people’s army. Confronted with great changes unseen in a century, the PLA is being entrusted with an even more arduous historical mission. The modernization reforms launched by Chairman Xi Jinping in 2016 will endow this force with the capacity to fight and win the wars of a new era. Setting out again from Gutian, the sons and daughters of the people will shoulder responsibilities greater than ever before in the new era.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  PRC_chinas_spot_in_the_sun_1: "China’s Rising Sun"
+  PRC_chinas_spot_in_the_sun_1_desc: "To build a military force that can effectively safeguard national interests and possesses modern combat capabilities is one of our core tasks—one we must realize and pursue consistently. National defense modernization will be “always on the march”; this is no empty slogan."
+  PRC_pla_fight_for_people: "The People’s Army for the People"
+  PRC_pla_fight_for_people_desc: "The origins of the PLA trace back to the Workers’ and Peasants’ Red Army during the First Chinese Civil War. After the Sanwan Reorganization and the Gutian Conference, this force was reborn as a people’s army under the Party’s command."
+  PRC_nervous_but_lively: "United, Tense, Serious, and Lively"
+  PRC_nervous_but_lively_desc: "During the War of Resistance against Japan, the Anti-Japanese Military and Political University set a motto that has been handed down from generation to generation. Every cadre and soldier of the PLA has etched these eight characters into their hearts as the army has grown."
+  PRC_modern_military_reforms: "Modern Military Reform"
+  PRC_modern_military_reforms_desc: "We recovered Taiwan with lightning speed, proving to the world that the PLA remains an invincible, formidable force. Yet as the global situation shifts further, the Central Military Commission has determined that a sweeping round of military reform is imperative."
+  PRC_modern_military_reforms_tt: "§YLi Zuocheng§! becomes §YMinister of National Defense§!."
+  PRC_conduct_army_exercises_1: "Conduct PLA Army Exercises"
+  PRC_conduct_air_exercises_1: "Conduct PLA Air Force Exercises"
+  PRC_conduct_naval_exercises_1: "Conduct PLA Navy Exercises"
+  Chief_of_the_Joint_Staff: "Chief of the Joint Staff"
+  PRC_zunyi_meeting: "The Second Zunyi Conference"
+  PRC_zunyi_meeting_desc: "The international situation is complex and fluid; military transformation advances by the day. Intelligentized warfare and all-domain confrontation impose new demands on the unity of thought and organizational cohesion of the people’s army. In 1935, the Zunyi Conference, at a moment of extreme peril, saved the Party and the Red Army; the “Second Zunyi Conference” focuses on breaking bureaucracy, technocracy-for-its-own-sake, and arrogant complacency, ensuring the Party’s absolute leadership over the military. By reforging disciplinary rigidity, optimizing decision chains, and unleashing innovative momentum, it propels a shift from “loyal in thought” to “loyal in capability,” ensuring that under the Party’s leadership the people’s army moves from victory to new victories."
+  three_discipline_eight_attention: "Three Main Rules of Discipline & Eight Points for Attention"
+  three_discipline_eight_attention_desc: "Remember every clause of revolutionary discipline; the people’s soldiers cherish the people everywhere."
+  PRC_SCS_RMJD_DE_JUNGAI: "Unlock Special Social-Strata Policies:\n£GFX_PRC_RMJD_wenben §WStrengthen the Three Major Democracies§!\n£GFX_PRC_RMJD_wenben §WAdjust the Army’s Organizational Structure§!\n§YThese policies are closely tied to military reform—enact them promptly.§!"
+
+  # Air Force
+  PRC_Sortie_Of_Eagle: "Eagles Sortie"
+  PRC_Sortie_Of_Eagle_desc: "The PLA Air Force fields the world’s largest heavy 4th-generation fleet and a first-rate inventory of AEW&C and electronic-warfare aircraft. The induction of the J-20 and J-35 has given the PLAAF a system-of-systems 5th-generation air-combat architecture. Yet we cannot be satisfied. We must push forward with more advanced platforms and prepare for the air-combat systems of the future."
+  PRC_plaaf_1: "People’s Liberation Army Air Force"
+  PRC_Early_Warning_System: "Exemplary Early-Warning & C2 Network"
+  PRC_Early_Warning_System_desc: "The PLAAF has developed world-leading AESA radar and fielded it widely across warships, combat aircraft, and long-range radar sites, while assembling one of the world’s largest and most advanced AEW&C fleets. An advanced radar early-warning architecture is the keystone of next-generation air warfare."
+  PRC_Project_Advanced_Aircraft: "Soaring Dragon Program"
+  PRC_Project_Advanced_Aircraft_desc: "To fully build a §Rpowerful air force that integrates air and space and balances offense and defense§!, the §RCentral Military Commission§! has decided to launch the Soaring Dragon Program. With the goal of constructing a strategic force that is “integrated air-and-space, offense-and-defense,” we will accelerate R&D on 6th-generation combat platforms, advance a beyond-generation collaborative air-combat architecture, prioritize cutting-edge subsystems, and strengthen foundational combat capacity. We will subject new operational modes to realistic combat verification, achieving all-element, all-time-and-space fusion of early-warning/command, electronic countermeasures, and strike, further propelling the PLAAF’s strategic transformation from territorial air defense to all-domain operations."
+  PRC_Project_Advanced_Aircraft_tt: "§RWe will gain a suite of beyond-generation airframe designs.§!"
+  PRC_streamline_aircraft_production_1: "Pulsed Fighter Production Lines"
+  PRC_streamline_aircraft_production_1_desc: "We will comprehensively refit our fighter production lines with advanced flow-line design to raise output efficiency, thereby rapidly expanding PLAAF force structure and preparing for high-intensity air combat."
+  PRC_trust_in_the_pilot_1: "Drone Warfare"
+  PRC_trust_in_the_pilot_1_desc: "The decisive role of unmanned systems was proven in the Taiwan landing campaign. We will equip the PLAAF with more advanced large UAVs and broaden their roles, making them versatile assets for reconnaissance, jamming, and air-to-air combat."
+  UAV_support_equipment: "Support UAVs"
+  UAV_support_equipment_desc: "Support equipment comprising multi-role robot dogs, auxiliary robots, and various UAVs."
+  PRC_Electronic_Warfare_System: "Full-Spectrum Electronic-Warfare Architecture"
+  PRC_Electronic_Warfare_System_desc: "In modern air combat, control of the electromagnetic spectrum can decide victory or defeat. For two decades the PLAAF and PLAN have contested EW with U.S. forces over the Pacific, forging world-class experience. Coupled with one of only two heavy EW aircraft types globally, we can impose absolute electromagnetic dominance over any foe."
+  PRC_integrated_Reconnaissance_Strike_UAV: "Full UAV Integration"
+  PRC_integrated_Reconnaissance_Strike_UAV_desc: "In line with fires-sensors integration, our large UAVs must not only conduct precision strike, but also execute long-range ISR, providing targeting and deep cueing for other aircraft, the Army, and the Rocket Force."
+  PRC_dominate_the_skies_1: "Command the Skies, Span the Earth"
+  PRC_dominate_the_skies_1_desc: "After successive tech upgrades and aircraft iterations, the PLAAF now fields one of the world’s most powerful and advanced air fleets—from 6th-generation projects to large UAVs, from AEW&C to heavy EW platforms. Post-reform, the PLAAF can defeat any air arm with overwhelming superiority."
+  PRC_dominate_the_skies_1_tt: "§RAir Force reforms complete!§!"
+  UAV_support_team: "UAV Support Company"
+  UAV_support_team_desc: "UAV Support Company"
+  PRC_pla_zair_dynamic: "People’s Liberation Army Air Force"
+  PRC_pla_zair_dynamic_desc: "[PRC_plan_air_dynamic_desc_sl]"
+  PRC_plan_air_dynamic_desc_sl_1: "\n\n\n\n£GFX_PRC_15_reform_airforce£\n\n\n\n\n\nSince its founding, the People’s Air Force has rendered sterling service in defending our national airspace. Regardless of equipment shortfalls, the PLAAF has never hesitated to brandish its sword in the skies. After the first round of the “15 Reforms,” the PLAAF shed its former disadvantage of ‘more spirit than steel,’ gaining world-class equipment alongside a fierce fighting spirit.\n\n§RGallop through the skies; stand guard over the motherland.§!"
+  
+  PRC_plan_air_dynamic_desc_sl_2: "\n\n\n\n£GFX_PRC_15_reform_airforce£\n\n\n\n\n\nSince its founding, the People’s Air Force has rendered sterling service in defending our national airspace. Regardless of equipment shortfalls, the PLAAF has never hesitated to brandish its sword in the skies.\nAfter the first round of the “15 Reforms,” the PLAAF shed its former disadvantage of having “more spirit than steel,” possessing both world-class equipment and an indomitable fighting will.\nOver the past decade, as the J-16, J-20, and J-35 entered service, the world began to take the PLAAF’s rapid development seriously. As one of only two strategic air forces on earth to field fleets of 5th-generation fighters, electronic-warfare aircraft, and AEW&C aircraft, the PLAAF, during the liberation of Taiwan, effortlessly destroyed every enemy aircraft able to get airborne—demonstrating absolute air superiority under comprehensive technological overmatch.\n\n§RGallop through the skies; stand guard over the motherland.§!"
+  PRC_plan_air_dynamic_desc_sl_3: "\n\n\n\n£GFX_PRC_24_reform_airforce£\n\n\n\n\n\nSince its founding, the People’s Air Force has rendered sterling service in defending our national airspace. Regardless of equipment shortfalls, the PLAAF has never hesitated to brandish its sword in the skies.\nAfter the first round of the “15 Reforms,” the PLAAF shed its former disadvantage of having “more spirit than steel,” possessing both world-class equipment and an indomitable fighting will.\nOver the past decade, as the J-16, J-20, and J-35 entered service, the world began to take the PLAAF’s rapid development seriously. As one of only two strategic air forces on earth to field fleets of 5th-generation fighters, electronic-warfare aircraft, and AEW&C aircraft, the PLAAF, during the liberation of Taiwan, effortlessly destroyed every enemy aircraft able to get airborne—demonstrating absolute air superiority under comprehensive technological overmatch.\nIn this round of reforms, the most shocking development is surely the PLAAF itself: the induction of two of the world’s most advanced 6th-generation fighters leaves every other air force far behind. Centered on 6th-generation fighters, commanded by the KJ-3000, and supported by 5th-generation platforms and EW fleets, the PLAAF has formed a beyond-generation air-combat architecture. Now, no air force dares challenge the PLAAF’s control of the skies.\n\n§RCommand the skies, span the earth.§!"
+  PRC_pla_zair_1_dynamic: "People’s Liberation Army Air Force"
+  PRC_pla_zair_1_dynamic_desc: "\n\n\n\n£GFX_PRC_24_reform_airforce£\n\n\n\n\n\nThe People’s Air Force was founded in 1930. Its entire combat power at birth amounted to a single outdated reconnaissance aircraft—the “Lenin.” During the War of Resistance against Japan and the Liberation War, the PLA suffered continually from a lack of air superiority. In the War to Resist U.S. Aggression and Aid Korea, facing the world’s strongest military, PLA troops had to press attacks under the fire of enemy bombers. All this changed with Soviet aid: large numbers of advanced MiG fighters were delivered to the people’s army. As one PLA ace after another emerged, the U.S. military was shocked to find that this nearly newborn air force could inflict heavy losses.\nA peak at birth, the PLAAF continued to guard the Republic’s airspace through the Cold War. Even after the Cold War ended—flying outdated 3rd-generation and early 4th-generation aircraft—the PLAAF never retreated, standing as a shield for the motherland.\nOver the past decade, as the J-16, J-20, and J-35 entered service, the world began to take the PLAAF’s rapid development seriously. As one of only two strategic air forces on earth to field fleets of 5th-generation fighters, electronic-warfare aircraft, and AEW&C aircraft, the PLAAF, during the liberation of Taiwan, effortlessly destroyed every enemy aircraft able to get airborne—demonstrating absolute air superiority under comprehensive technological overmatch.\nIn this round of reforms, the most shocking development is surely the PLAAF itself: the induction of two of the world’s most advanced 6th-generation fighters leaves every other air force far behind. Centered on 6th-generation fighters, commanded by the KJ-3000, and supported by 5th-generation platforms and EW fleets, the PLAAF has formed a beyond-generation air-combat architecture. Now, no air force dares challenge the PLAAF’s control of the skies.\n\n§RGallop through the skies; stand guard over the motherland.§!"
+  PRC_Electronic_Warfare_System_Jamming: "§YElectronic Warfare§!"
+  PRC_electronic_warfare_system_jamming: "Electronic Warfare Jamming"
+  PRC_large_scale_amphibious_manoeuvre: "§YLarge-Scale Amphibious Exercise§!"
+  UAV_support_equipment_1: "Support UAVs"
+  UAV_support_equipment_1_desc: "Support equipment comprising multi-purpose robot dogs, auxiliary robots, and various UAVs."
+  PLA_UAV_support_equipment: "UAV Support Company"
+  PLA_UAV_support_equipment_desc: "UAV Support Company"
+  next_generation_radar_system: "Next-Generation Radar System"
+  next_generation_radar_system_desc: ""
+  next_generation_radar_system_tech: "Next-Generation Radar System"
+  next_generation_radar_system_tech_desc: ""
+  radio_navigation_3: "Future Wing Planform"
+  radio_navigation_3_desc: ""
+  radio_navigation_3_tech: "Future Wing Planform"
+  radio_navigation_3_tech_desc: ""
+  advanced_electronic_war_system: "Advanced Electronic-Warfare System"
+  advanced_electronic_war_system_desc: ""
+  advanced_electronic_war_system_tech: "Advanced Electronic-Warfare System"
+  advanced_electronic_war_system_tech_desc: ""
+  next_generation_photoelectricity_locking_system: "Next-Generation Electro-Optical Lock-On System"
+  next_generation_photoelectricity_locking_system_desc: ""
+  next_generation_photoelectricity_locking_system_tech: "Next-Generation Electro-Optical Lock-On System"
+  next_generation_photoelectricity_locking_system_tech_desc: ""
+  next_generation_avionics_system: "Next-Generation Avionics System"
+  next_generation_avionics_system_desc: ""
+  next_generation_avionics_system_tech: "Next-Generation Avionics System"
+  next_generation_avionics_system_tech_desc: ""
+  
+  # ================================
+  # --- Air-to-Air Missile (AAM) ---
+  # ================================
+  pl_15a: "PL-15A"
+  pl_15a_desc: "An upgraded variant of the PL-15, the PL-15A uses a dual-pulse solid rocket motor to extend range to 250 km. It carries a dual-mode active radar/infrared seeker and an anti-jamming datalink, allowing precise target lock in complex EW environments. Its two-way datalink supports real-time battle data return; combined with onboard fire-control and tri-service networks, it enables coordinated multi-target engagements. The no-escape zone expands to 100 km, drastically compressing enemy survival space and granting the PLAAF overwhelming medium-/long-range BVR superiority."
+  pl_15a_tech: "PL-15A"
+  pl_15a_tech_desc: "An upgraded variant of the PL-15, the PL-15A uses a dual-pulse solid rocket motor to extend range to 250 km. It carries a dual-mode active radar/infrared seeker and an anti-jamming datalink, allowing precise target lock in complex EW environments. Its two-way datalink supports real-time battle data return; combined with onboard fire-control and tri-service networks, it enables coordinated multi-target engagements. The no-escape zone expands to 100 km, drastically compressing enemy survival space and granting the PLAAF overwhelming medium-/long-range BVR superiority."
+
+  # ==========================================
+  # --- Anti-Ship Hypersonic Ballistic ASM ---
+  # ==========================================
+  yj_21: "YJ-21"
+  yj_21_desc: "The YJ-21 is the world’s first shipborne hypersonic anti-ship ballistic missile. With a 1,200 km range and a two-stage solid booster plus boost-glide trajectory, it reaches ~Mach 10 in terminal attack to penetrate all current air-defense systems. After jettisoning the booster, it can be carried by airborne platforms. Its seeker and guidance suite use intelligent terminal maneuver algorithms, fused with space-based ISR and sea/air radar cueing, enabling “one-shot kill” strikes on carriers and other large targets. It supports cold launch and salvo fires, giving surface combatants a practical, combat-proven means to threaten carrier strike groups."
+  yj_21_tech: "YJ-21"
+  yj_21_tech_desc: "The YJ-21 is the world’s first shipborne hypersonic anti-ship ballistic missile. With a 1,200 km range and a two-stage solid booster plus boost-glide trajectory, it reaches ~Mach 10 in terminal attack to penetrate all current air-defense systems. After jettisoning the booster, it can be carried by airborne platforms. Its seeker and guidance suite use intelligent terminal maneuver algorithms, fused with space-based ISR and sea/air radar cueing, enabling “one-shot kill” strikes on carriers and other large targets. It supports cold launch and salvo fires, giving surface combatants a practical, combat-proven means to threaten carrier strike groups."
+
+  # =================================
+  # --- Air-to-Surface Missile ASM ---
+  # =================================
+  tl_17: "TL-17 “Tianlei”"
+  tl_17_desc: "Revealed at the 2024 Zhuhai Airshow, the TL-17 is a new medium-range air-to-surface missile with a 150 km range. It employs multi-mode composite guidance (satellite + IIR + semi-active laser) with a CEP ≤ 1 m, enabling precision strikes against hardened shelters and moving armored targets. Its modular design supports thermobaric, penetrating, or EMP warheads for mission tailoring. A low-observability airframe and EM-shielded coatings significantly raise survivability, while an in-flight datalink allows dynamic trajectory updates to adapt to complex battlespaces."
+  tl_17_tech: "TL-17 “Tianlei”"
+  tl_17_tech_desc: "Revealed at the 2024 Zhuhai Airshow, the TL-17 is a new medium-range air-to-surface missile with a 150 km range. It employs multi-mode composite guidance (satellite + IIR + semi-active laser) with a CEP ≤ 1 m, enabling precision strikes against hardened shelters and moving armored targets. Its modular design supports thermobaric, penetrating, or EMP warheads for mission tailoring. A low-observability airframe and EM-shielded coatings significantly raise survivability, while an in-flight datalink allows dynamic trajectory updates to adapt to complex battlespaces."
+
+  # ============================
+  # --- Glide Bomb / PGM (OAS) ---
+  # ============================
+  ls_6: "LS-6"
+  ls_6_desc: "The LS-6 family is a low-cost, high-accuracy stand-off weapon series. Folding wings and optional propulsion kits further extend range. During glide, control surfaces shape the trajectory; terminal accuracy reaches the ~1 m class. A modular design supports multiple seekers, fuzes, and warheads, yielding far superior cost-effectiveness to legacy iron bombs—especially suited to high-intensity fights against dense air defenses."
+  ls_6_tech: "LS-6"
+  ls_6_tech_desc: "The LS-6 family is a low-cost, high-accuracy stand-off weapon series. Folding wings and optional propulsion kits further extend range. During glide, control surfaces shape the trajectory; terminal accuracy reaches the ~1 m class. A modular design supports multiple seekers, fuzes, and warheads, yielding far superior cost-effectiveness to legacy iron bombs—especially suited to high-intensity fights against dense air defenses."
+
+  # ======================================
+  # --- Air-Launched Land-Attack Cruise ---
+  # ======================================
+  cj_20: "CJ-20"
+  cj_20_desc: "The CJ-20 is a subsonic air-launched cruise missile derived from the Rocket Force’s CJ-10A. With a 2,500 km range, it uses TERCOM + satellite navigation + terminal IIR guidance to achieve ≤ 5 m CEP, emphasizing low-altitude penetration. It supports coordinated multi-missile attacks and route planning, penetrating layered IADS to strike command nodes, airbases, and other high-value targets—core to strategic deterrence and operational-level fires."
+  cj_20_tech: "CJ-20"
+  cj_20_tech_desc: "The CJ-20 is a subsonic air-launched cruise missile derived from the Rocket Force’s CJ-10A. With a 2,500 km range, it uses TERCOM + satellite navigation + terminal IIR guidance to achieve ≤ 5 m CEP, emphasizing low-altitude penetration. It supports coordinated multi-missile attacks and route planning, penetrating layered IADS to strike command nodes, airbases, and other high-value targets—core to strategic deterrence and operational-level fires."
+
+  # =========================
+  # --- Air R&D / Doctrines ---
+  # =========================
+  development_of_next_generation_wind_tunnels_idea: "Next-Generation Wind Tunnel R&D"
+  development_of_next_generation_wind_tunnels_idea_desc: "By building the world’s most advanced wind tunnels, our aerospace industry gains cutting-edge aerodynamic data, dramatically accelerating aircraft and space R&D."
+  outstanding_early_warning_aircraft_and_electronic_warfare_system_idea: "Exemplary AEW&C and EW Architecture"
+  outstanding_early_warning_aircraft_and_electronic_warfare_system_idea_desc: "The PLAAF fields the world’s most advanced AEW&C and dedicated EW fleets. Coupled with 6th-generation platforms, this system-of-systems advantage allows us to suppress any opposing air force and inflict decisive effects."
+
+  # ==============
+  # --- Navy ---
+  # ==============
+  PRC_a_blue_water_navy_1: "Toward the Deep Blue"
+  PRC_a_blue_water_navy_1_desc: "Once the weakest branch of the PLA—slow to start, slow to develop, reliant on motor torpedo boats and comically improvised land weapons at sea—the PLAN today sails advanced missile cruisers and dual-carrier groups. But this is not enough. Our end state is true blue-water capability: a fleet able to range the Pacific and Indian Oceans."
+  PRC_resurrect_the_battleship_1: "Mighty Men-of-War"
+  PRC_resurrect_the_battleship_1_desc: "With breakthroughs in large VLS arrays and hypersonic anti-ship weapons, carrier-centric concepts are no longer sufficient for beyond-visual-range deep-ocean combat. We must pursue multi-core fleet tactics and, through practice, forge a new-era operational system for the People’s Navy."
+  PRC_rain_fire_from_above_1: "An Army Within the Army, Steel Among Steel"
+  PRC_rain_fire_from_above_1_desc: "In the liberation of Taiwan, rigorously trained Marine units proved irreplaceable in the surf zone. Facing a future war with the Pacific Accord, we need an even more elite Marine Corps—begin advanced amphibious exercises now."
+  PRC_increase_naval_production_1: "Automated Shipbuilding"
+  PRC_increase_naval_production_1_desc: "In WWII, the United States crushed the IJN with unmatched shipbuilding tempo and maintained the world’s largest navy for the next seven decades. Now the People’s Navy embarks on an expansion to surpass the U.S. Navy itself."
+  
+  # ============================
+  # --- Navy: Carrier & Amphib ---
+  # ============================
+  PRC_carrier_primacy_1: "Sky-Shrouding Dragons"
+  PRC_carrier_primacy_1_desc: "A multi-core operational schema in the new era does not diminish the role of carriers; on the contrary, carriers should shoulder more of the airspace fight enabled by Naval Aviation. Highly conscious, technically superb, and well-disciplined naval aviators are indispensable as the PLAN seeks domain-wide dominance on the road to the deep blue."
+
+  PRC_rain_fire_from_above_2: "Advanced Amphibious Operations System"
+  PRC_rain_fire_from_above_2_desc: "While Marine forces are the backbone in the surf zone, their light armor cannot stand against enemy heavy armor. We must expand the current amphibious construct: use more advanced amphibious assault ships to widen lift capacity and put heavy combined-arms brigades ashore in the opening phase to secure the lodgment."
+
+  # ===========================
+  # --- Navy: Next-Gen Fleet ---
+  # ===========================
+  PRC_next_generation_warships_1: "Abyssal Dragon Program"
+  PRC_next_generation_warships_1_desc: "To build a §Bblue-water navy that strikes at range and fuses sea and air§!, the §RCentral Military Commission§! launches the Abyssal Dragon Program. Focusing on far-seas defense and long-range power projection, we will prioritize a new generation of large surface combatants, nuclear platforms, and advanced shipborne combat systems. We will break through key technologies such as high-energy weapon integration and quantum comm/navigation, forging a blue-water fleet with layered offense-defense, cooperative engagement, and sustained operations. In parallel, we will advance carrier-borne UAV teaming, intelligent damage control/maintenance, and other subsystems to drive a generational leap in fleet digitization and combat survivability—delivering decisive power for maritime rights protection and strategic SLOC security."
+  PRC_next_generation_warships_1_tt: "§CWe will undertake a batch of next-generation warship designs.§!"
+
+  PRC_supremacy_above_and_below_waters_1: "Cleave the Waves, Ride the Ocean"
+  PRC_supremacy_above_and_below_waters_1_desc: "Following reform, the PLAN has become a far-seas force centered on new-generation warships; the island-chain blockade once imposed on China is now a paper tiger. Centered on carriers operating 6th-gen naval fighters with EW and AEW support, and flanked by main combatants armed with advanced anti-ship missiles, today’s PLAN is among the most modern and powerful navies in the world."
+  PRC_supremacy_above_and_below_waters_1_tt: "§CNaval reform complete!§!"
+
+  # =========================================
+  # --- Navy: Dynamic Modifiers & Histories ---
+  # =========================================
+  PRC_plan_navy_dynamic: "People’s Liberation Army Navy"
+  PRC_plan_navy_dynamic_desc: "[PRC_plan_navy_dynamic_desc_sl]"
+
+  PRC_plan_navy_dynamic_desc_sl_1: "\n\n\n\n£GFX_PRC_15_reform_navy£\n\n\n\n\n\nAfter 1949, constrained by economics and history, the PLAN long remained a near-shore “air–sub–fast” brown-water force, unable to counter imperialist blue-water navies. With the first round of reforms, the induction of numerous modern combatants marked a shift from coastal defense to far-seas operations—and the fundamental reversal of China’s maritime posture.\n\n§CHundreds of ships set sail—toward the deep blue.§!"
+
+  PRC_plan_navy_dynamic_desc_sl_2: "\n\n\n\n£GFX_PRC_15_reform_navy£\n\n\n\n\n\nAfter 1949, constrained by economics and history, the PLAN long remained a near-shore “air–sub–fast” brown-water force, unable to counter imperialist navies. With reforms, the entry of new-build combatants signaled transition to far-seas operations and a basic reversal of our coastal defense dilemma.\nToday, with China’s industrial growth, the PLAN fields carrier strike groups and, after the test of Taiwan’s liberation, has proven itself the equal of any navy.\n\n§CHundreds of ships set sail—toward the deep blue.§!"
+
+  PRC_plan_navy_dynamic_desc_sl_3: "\n\n\n\n£GFX_PRC_24_reform_navy£\n\n\n\n\n\nAfter 1949, constrained by economics and history, the PLAN long remained a near-shore “air–sub–fast” force. Reforms brought waves of modern combatants, marking our transition to far-seas operations and a fundamental shift in maritime posture.\nToday, powered by China’s industrial rise, the PLAN fields carrier strike groups. Tested in the liberation of Taiwan, it proved itself second to none.\nFollowing the Third Gutian Conference, years of reform delivered exactly what the Party and People expected: a blue-water navy with the most advanced ships.\nNow the PLAN sails proudly across the Pacific and Indian Oceans; 6th-generation naval fighters, nuclear carriers, and missile cruisers give us the confidence to face any challenger.\n\n§CCleave the waves, ride the ocean.§!"
+
+  PRC_plan_navy_1_dynamic: "People’s Liberation Army Navy"
+  PRC_plan_navy_1_dynamic_desc: "\n\n\n\n£GFX_PRC_24_reform_navy£\n\n\n\n\n\nThe PLAN began as a coastal force with outdated ships and torpedo boats—once outmatched even by Taiwan or Southeast Asian navies.\nToday, powered by China’s industrial surge, it fields carrier strike groups and, after the liberation of Taiwan, proved itself the equal of any fleet.\nFollowing the Third Gutian Conference, years of reform delivered precisely the Party and People’s expectation: a blue-water navy with cutting-edge ships.\nNow the PLAN sails the Pacific and Indian Oceans with pride; 6th-gen naval aviation, nuclear carrier groups, and missile cruisers give us the mettle to fear no navy.\n\n§CHundreds of ships set sail—toward the deep blue.§!"
+
+  PRC_plan_dummy_1: "People’s Liberation Army Navy"
+  floating_harbor: "Floating Harbor"
+
+  # ===================================
+  # --- Naval Propulsion & Ship Radar ---
+  # ===================================
+  carrier_ship_nuclear_engine_1_tech: "Carrier Nuclear Reactor"
+
+  ship_phased_array_radar: "Advanced Digital AESA Suite"
+  ship_phased_array_radar_desc: "An integrated suite combining air-search/AEW, illuminator, over-the-horizon (OTH) sea-search, and fire-control radars. Using full-band GaN T/R modules and all-digital beamforming, the four radar classes share spectrum via intelligent RF management, greatly boosting anti-saturation resilience and fire-control channels. Tailored for whole-of-force offensive/defensive requirements in future surface action groups."
+  ship_phased_array_radar_tech: "Advanced Digital AESA Suite"
+  ship_phased_array_radar_tech_desc: "An integrated suite combining air-search/AEW, illuminator, OTH sea-search, and fire-control radars. Full-band GaN T/R modules and digital beamforming, with smart RF allocation across modes, dramatically raise anti-saturation capacity and the number of simultaneous fire channels—fitting future fleet-wide, all-domain combat."
+
+  # ==========================
+  # --- Carrier Air Wing Cap ---
+  # ==========================
+  large_ship_deck_space: "Large Hangar"
+  large_ship_deck_space_desc: "A super-carrier-class hangar optimized to exploit hull volume, greatly increasing carried aircraft."
+  large_ship_deck_space_tech: "Large Hangar"
+  large_ship_deck_space_tech_desc: "A super-carrier-class hangar optimized to exploit hull volume, greatly increasing carried aircraft."
+
+  # ============================
+  # --- Vertical Launch Systems ---
+  # ============================
+  ht_2_32: "HT-2 Vertical Launch System (32-cell)"
+  ht_2_32_desc: "HT-2 is a new-generation universal shipborne VLS using electromagnetic cold launch and a multi-pack-per-cell concept, compatible with oversized missiles. With significantly increased cell diameter and depth, it supports mixed ammunition per cell and “zero-delay” launches via EM ejection—cutting reaction time below 1 second and eliminating hot-launch exhaust, which improves IR stealth. A modular design enables rapid reconfiguration; per-ship load rises by ~50%, with far greater fire density and flexibility than legacy systems like MK-41."
+  ht_2_16: "HT-2 Vertical Launch System (16-cell)"
+  ht_2_16_desc: "HT-2 is a new-generation universal shipborne VLS using electromagnetic cold launch and a multi-pack-per-cell concept, compatible with oversized missiles. With larger cell diameter and depth, it supports mixed loads per cell and “zero-delay” EM ejection—sub-1-second reaction, no exhaust handling, improved IR signature. Modular swaps speed rearm/role changes; per-ship load can increase by ~50%, yielding fire density and agility well beyond traditional VLS."
+  
+  # ============================
+  # --- VLS & Launch Systems ---
+  # ============================
+  ht_2_tech: "HT-2 Vertical Launch System"
+  ht_2_tech_desc: "HT-2 is a new-generation universal shipborne VLS employing electromagnetic ejection and a multi-pack-per-cell concept, compatible with oversized missiles. Cell diameter and depth are significantly increased, enabling mixed ammunition per cell. EM cold launch achieves “zero-delay” firing with sub–1 s reaction time, while eliminating hot-exhaust handling to improve the ship’s IR signature. A modular design allows rapid reconfiguration; per-ship load rises by roughly 50%, with fire-density and flexibility far beyond legacy systems such as MK-41."
+
+  # ===================================
+  # --- Naval Guns & Close-In Defense ---
+  # ===================================
+  h_pj_48: "H/PJ-48"
+  h_pj_48_desc: "H/PJ-48 is the world’s first practical shipboard electromagnetic gun. This 130 mm main gun integrates dual-role high-angle/low-angle employment, with a maximum anti-air slant range of 30 km and engagement envelopes from 30 km (flat-trajectory anti-ship) to 180 km (lofted land-attack). Muzzle velocity reaches Mach 7. It fires guided projectiles and rocket-assisted rounds at up to 40 rpm, with no muzzle flash or smoke signature. Its power system is deeply integrated with the ship’s electrical grid, raising whole-ship integration and aligning with intelligent combat trends."
+  h_pj_48_tech: "H/PJ-48"
+  h_pj_48_tech_desc: "H/PJ-48 is the world’s first practical shipboard electromagnetic gun. The 130 mm EM main gun offers dual-role high-angle/low-angle use, 30 km anti-air slant range, 30–180 km mission-dependent reach, Mach 7 muzzle velocity, guided and rocket-assisted munitions, 40 rpm fire rate, and no flash/smoke exposure. Deep power-grid integration increases whole-ship synergy and supports intelligent warfare evolution."
+
+  hq_10a: "Red Flag-10A (HQ-10A) & H/PJ-19"
+  hq_10a_desc: "The upgraded Red Flag-10A adopts dual-mode guidance (IR/RF) with multi-target allocation, extending range to 15 km and achieving a 97% intercept probability. H/PJ-19 is a 10-barrel 30 mm electromagnetic CIWS rated at 12,000 rpm with 1.5 km/s muzzle velocity, capable of defeating Mach 4 supersonic anti-ship missiles. In tandem, they form a layered terminal shield: Red Flag-10A for short-/medium-range intercepts and H/PJ-19 for last-ditch kills—delivering all-aspect coverage and world-class anti-saturation resilience."
+  hq_10a_tech: "Red Flag-10A (HQ-10A) & H/PJ-19"
+  hq_10a_tech_desc: "Red Flag-10A adds IR/RF dual-mode guidance and multi-target assignment, pushing range to 15 km and intercept probability to 97%. The H/PJ-19 30 mm electromagnetic CIWS (10 barrels, 12,000 rpm, 1.5 km/s) counters up-to-Mach-4 threats. Together they provide layered, no-dead-zone terminal defense with leading anti-saturation performance."
+
+  # ==================================
+  # --- Naval Aviation (Helicopters) ---
+  # ==================================
+  z_20f: "Z-20F Shipborne Helicopter"
+  z_20f_desc: "The Z-20F is the shipborne variant of the Z-20, fitted with a new sea-search radar, low-frequency dipping sonar, MAD, and a 32-sonobuoy array. Detection range on conventional submarines reaches 50 km. Armament includes Fish-11 ASW missiles and depth charges; it can also carry a lightweight ASW torpedo used as Fish-11’s terminal warhead. It supports fused “recon-strike-BDA” operations. With folding rotors and a composite airframe, it has a 400 km combat radius and 5 hours endurance, delivering triple the ASW effectiveness of the Z-9C."
+  z_20f_tech: "Z-20F Shipborne Helicopter"
+  z_20f_tech_desc: "Shipborne Z-20F with upgraded sea-search radar, LF dipping sonar, MAD, and 32-buoy array; detects conventional subs out to 50 km. Carries Fish-11 ASW missiles, depth charges, or a lightweight torpedo as the Fish-11 terminal effector; supports integrated recon-strike-assessment workflows. Folding rotors, composite fuselage, ~400 km radius, ~5 h endurance—~3× the Z-9C’s ASW effectiveness."
+
+  # ==================================
+  # --- Torpedoes & ASW Missiles ---
+  # ==================================
+  y_10: "Fish-10"
+  y_10_desc: "Fish-10 is a 533 mm heavyweight torpedo using fiber-optic guidance with wake-homing terminal mode. Speed 65 kn, range 50 km, ~500 kg warhead, and penetration against double-hull protection. A pump-jet keeps acoustic output below ~110 dB for high stealth. Launchable by submarines or surface ships, it can deliver fatal strikes on 100,000-ton carriers."
+  y_10_tech: "Fish-10"
+  y_10_tech_desc: "533 mm heavyweight torpedo with fiber-optic + wake-homing guidance, 65 kn speed, 50 km range, ~500 kg warhead, double-hull penetration, and low-noise pump-jet (<~110 dB). Suitable for sub/surface launch against capital ships."
+
+  y_10_sub: "Fish-10"
+  y_10_sub_desc: "533 mm heavyweight torpedo with fiber-optic + wake-homing guidance. 65 kn / 50 km performance, ~500 kg warhead, double-hull penetration, and low-noise pump-jet for stealth—optimized for submarine employment against large combatants."
+  y_10_sub_tech: "Fish-10"
+  y_10_sub_tech_desc: "Submarine-optimized Fish-10: 533 mm, fiber-optic + wake-homing, 65 kn, 50 km, ~500 kg warhead, low-noise pump-jet—lethal to supercarriers."
+
+  y_11: "Fish-11"
+  y_11_desc: "Fish-11 is a VLS-launched ASW missile with a maximum range of 150 km. Its payload is a 324 mm lightweight torpedo that autonomously acquires after splashdown, engaging to depths of 800 m. A thrust-vectoring rocket sustainer provides programmable trajectories to suit harsh sea states. Compared to legacy rocket depth charges, overall ASW efficiency improves fivefold, enabling true ‘beyond-horizon’ sub-hunting."
+  y_11_tech: "Fish-11"
+  y_11_tech_desc: "VLS-launched ASW missile (max 150 km) delivering a 324 mm lightweight torpedo for autonomous terminal acquisition to 800 m. TVC rocket with programmable flight path adapts to complex sea states; ~5× the efficiency of legacy RDCs—enabling BVR ASW."
+
+  # ====================================
+  # --- Combat Systems & Fleet Sensors ---
+  # ====================================
+  rev_ship_fire_control_system: "“Nine Heavens” Intelligent Fire-Control Network"
+  rev_ship_fire_control_system_desc: "An AI-centric fire-control network integrating tri-service common datalinks, with autonomous ECCM and decision aids. Innovatively fuses sea/air/space sensors via cooperative architectures and a distributed photonic-computing core. Neural networks optimize strike sequences in real time; comms bandwidth is more than doubled. It maintains >95% target-solution fidelity in dense EW and supports millisecond-class cueing for new shipboard EM weapons—dramatically boosting combat effectiveness as the core pillar of our next-gen maritime offense/defense."
+  rev_ship_fire_control_system_tech: "“Nine Heavens” Intelligent Fire-Control Network"
+  rev_ship_fire_control_system_tech_desc: "AI-architected FCS with joint datalinks, autonomous ECCM, cooperative multi-domain sensing, distributed photonic compute, and neural real-time strike optimization. >2× bandwidth, >95% parsing in harsh EW, millisecond-grade handoff to EM weapons—core of the PLAN’s intelligent O&D system."
+
+  integrated_sonar_system: "Intelligent Integrated Sonar System"
+  integrated_sonar_system_desc: "A new-generation sonar suite marrying AI signal processing with multi-beam and wideband acoustics, supporting both active and passive modes. It isolates faint targets amid complex ocean noise, supports multi-target threat grading, and—versus prior-gen fits—delivers major gains in detection efficiency, coverage, and classification."
+  integrated_sonar_system_tech: "Intelligent Integrated Sonar System"
+  integrated_sonar_system_tech_desc: "AI-enhanced sonar integrating multi-beam/wideband techniques with dual-mode (active/passive) operation. Significantly improves detection efficiency, area coverage, and ID fidelity by extracting weak targets from complex oceanic backgrounds and grading multiple threats in parallel."
+  
+  # ============================
+  # --- NAVY: DOCTRINE & IDEAS
+  # ============================
+  dalian_navy_idea: "Devotion · Discipline · Striving for Strength · Pragmatism"
+  dalian_navy_idea_desc: "Back when the People’s Navy was still sketching its future from cave shelters, its thinkers were already contemplating the transition of eras—from battleships to aircraft carriers."
+  marching_toward_the_deep_blue_idea: "Marching Toward the Deep Blue"
+  marching_toward_the_deep_blue_idea_desc: "The PLAN’s aim is the deep blue—break the island chains and sail out into the Pacific."
+  dual_carrier_strike_group_idea: "Modern Naval Warfare Architecture"
+  dual_carrier_strike_group_idea_desc: "A modern naval architecture built on dual cores—carrier aviation and missile cruisers—delivers integrated over-the-horizon strikes. Carrier air wings and hypersonic anti-ship missiles combine to deal mortal blows to enemy fleets."
+  instilled_aggression_spirit_tt_1: "Admiral: On level-up, §Gadditionally§! gains §Y+1 Attack§!."
+  calculated_restraint_spirit_tt_1: "Admiral: On level-up, §Gadditionally§! gains §Y+1 Defense§!."
+  signals_training_spirit_tt_1: "Admiral: On level-up, §Gadditionally§! gains §Y+1 Maneuver§!."
+  signals_training_spirit_tt_2: "Admiral: On level-up, §Gadditionally§! gains §Y+1 Coordination§!."
+
+  # ============================
+  # --- ARMY: OVERVIEW & IDEAS
+  # ============================
+  PRC_modernized_army: "Intelligentized Army"
+  PRC_modernized_army_desc: "Since 1927 the People’s Army has proven unbounded loyalty to the Party and the people. Yet over the past decade, the Army’s uptake of cutting-edge technologies has trailed the other services. To meet the demands of future warfare, we must accelerate advanced development and harden force quality—on the foundation of combined-arms—to build an intelligentized Army adept at employing new-quality combat power."
+  PRC_pla_land_dynamic: "People’s Liberation Army Ground Force"
+  PRC_pla_land_dynamic_desc: "[PRC_pla_land_dynamic_desc_sl]"
+  PRC_pla_land_1_dynamic: "People’s Liberation Army Ground Force"
+  PRC_pla_land_1_dynamic_desc: "\n\n\n\n£GFX_PRC_24_reform_army£\n\n\n\n\n\nAs the elder brother of the PLA, the Ground Force has marched and fought across China since the Nanchang Uprising—resisting the Japanese, encircling Nationalist forces, and pacifying banditry in the Southwest. This rarely-defeated arm proved its iron will in external wars as well—the War to Resist U.S. Aggression and Aid Korea, assistance to Vietnam, and counter-offensives against India and Vietnam. Even after the Cold War’s end, the People’s Army stood as a steel shield for the Republic’s citizens.\nWith the Second Gutian Conference, the CMC drove combined-arms digitization and joint reforms—divisions to brigades, regiments to battalions—turning the force into a modern combined-arms army. In the Liberation of Taiwan, multiple heavy combined-arms brigades swept aside the island’s forces and Pacific Pact units alike, proving the Ground Force remains an unbeatable land war lion.\nAcross years of reform, the Ground Force finally received coveted new equipment in volume: 203 mm truck-mounted artillery, individual exoskeleton protection, intelligent rifles, fifth-generation MBTs, and a deeply networked ‘fires-and-maneuver’ architecture—together forming a next-gen steel torrent feared by any army.\nThe Army has not neglected willpower: at Zhurihe, countless PLA officers and soldiers rotate through fight-as-you-train exercises—sometimes as the spearhead, sometimes as the whetstone. Even absent wartime trials, relentless force-on-force training forges quality warriors.\nThe People’s Army stands ready—fighting to protect the people of the Republic. No army on earth can halt its advance!\n\n§YThe Tiger on Land, the Loyal Guardian.§!"
+  PRC_pla_land_dynamic_desc_sl_1: "\n\n\n\n£GFX_PRC_15_reform_army£\n\n\n\n\n\nThe Ground Force is the oldest PLA branch and the cornerstone of China’s defense. After the First Round of Reforms, it completed digitization, combined-arms restructuring, and joint operations integration—its combat power surged, becoming a global benchmark for army building.\n\n§GThe Tiger on Land, the Loyal Guardian.§!"
+  PRC_pla_land_dynamic_desc_sl_2: "\n\n\n\n£GFX_PRC_15_reform_army£\n\n\n\n\n\nThe Ground Force is the oldest PLA branch and the cornerstone of China’s defense. After the First Round of Reforms, it completed digitization, combined-arms restructuring, and joint operations integration—its combat power surged, becoming a global benchmark.\nWith the Second Gutian Conference, the CMC pushed informationized combined-arms reform—divisions to brigades, regiments to battalions—forging a modern combined-arms force. In the Liberation of Taiwan, heavy combined-arms brigades steamrolled island and Pacific Pact forces, proving the PLA Ground Force remains an indomitable land power.\n\n§GThe Tiger on Land, the Loyal Guardian.§!"
+  PRC_pla_land_dynamic_desc_sl_3: "\n\n\n\n£GFX_PRC_24_reform_army£\n\n\n\n\n\nThe Ground Force is the PLA’s oldest arm and the bedrock of national defense. After the First Round of Reforms, it completed digitization, combined-arms transition, and joint operations integration, becoming a global benchmark.\nWith the Second Gutian Conference, the CMC advanced info-combined reforms—divisions to brigades, regiments to battalions—building a modern combined-arms army. During the Liberation of Taiwan, heavy combined-arms brigades smashed island and Pacific Pact units, reaffirming the Ground Force’s dominance.\nIn recent reforms the ‘elder brother’ finally received long-desired advanced equipment: 203 mm truck artillery, individual exoskeleton armor, intelligent rifles, 5th-gen MBTs, and a highly informationized ‘sensors-to-shooters’ system—constituting a next-gen steel torrent feared by all.\nMeanwhile, will and grit are honed at Zhurihe, where rotations put countless troops through force-on-force drills—either as spearhead or whetstone. Even without war, persistent realistic training forges elite soldiers.\nThe Ground Force stands ready to defend the Republic’s people. No army on earth can block its advance!\n\n§GElite Formations, the Great Wall of Steel.§!"
+  PRC_pla_idea_1: "People’s Liberation Army Ground Force"
+  PRC_iron_great_wall: "Iron Great Wall"
+  PRC_iron_great_wall_desc: "Facing the character of future war, the Equipment Development Department will drive intelligent upgrades of current main combat systems—deeply integrating AI and IoT to build human–machine teamed operations, elevating situational awareness and rapid response across the battlespace."
+  PRC_iron_great_wall_tt: "§YWe will undertake a batch of new-generation tank designs.§!"
+  PRC_command_tank: "Modern Armored Operations Command Training"
+
+  # =====================================
+  # --- ARMY: TRAINING & EXERCISES
+  # =====================================
+  PRC_expand_the_thunder_gods_1: "Train for the Strongest Foe"
+  PRC_expand_the_thunder_gods_1_desc: "Modern militaries everywhere lack sustained combat experience; even after the Liberation of Taiwan, only a fraction of units have fought. Exercises cannot replace war, but combat-realistic drills are essential. Zhurihe remains our best crucible—now we expand it to forge the finest warriors."
+  PRC_thunder_god_program_mountain_1: "§YThunder God Assault Group§!: Extreme Mountain Training"
+  PRC_thunder_god_program_jungle_1: "§YThunder God Assault Group§!: Jungle Training"
+  PRC_zhurihe: "Zhurihe Force-on-Force Exercises"
+  PRC_zhurihe_tt: "§YAll Army divisions gain +1 experience level§!"
+  PLA_experience: "Zhurihe Force-on-Force"
+  PRC_command_trait: "Extreme-Terrain Command Training"
+
+  # =====================================
+  # --- ARMY: PROGRAMS & PROJECTS
+  # =====================================
+  PRC_artillery_project_1: "Iron Dragon Program"
+  PRC_artillery_project_1_desc: "To build a §Gfull-spectrum, tightly organized intelligent Army§!, the §RCentral Military Commission§! launches the Iron Dragon Program. It concentrates on next-gen soldier systems, new main battle platforms, unmanned swarms, electromagnetic weapons, and modular fire units—prioritizing intelligent and unmanned capability development. It will forge a ‘sense-control-strike-assess’ closed loop, enhancing precision and survivability in complex environments. Tech enablement will fuse mechanization, combined-arms, and intelligentization, providing the core backbone for multi-domain joint operations and ensuring the Army serves as a strategic fulcrum in generating new-quality combat power."
+  PRC_artillery_project_2: "§YVanguard Program§!"
+  
+  # ======================================
+  # --- ARMY: DOCTRINE & FORCE DEVELOPMENT
+  # ======================================
+  PRC_mobile_warfare_nat_1: "Unmanned Blade"
+  PRC_mobile_warfare_nat_1_desc: "In the Taiwan Strait War, the employment of unmanned systems granted us a distinct edge over the island forces and Pacific Pact intervention units. Next we will focus on forefront R&D of unmanned combat equipment, accelerate fielding of intelligent unmanned platforms, and forge an integrated reconnaissance–strike, precise and efficient ‘blade’—the core advantage of a new-type land warfare system."
+
+  PRC_general_trait_1: "Commander Re-Training"
+  PRC_general_trait_1_desc: "Screenings and evaluations show that many officers harbor misconceptions about modern warfare—and a measure of dangerous complacency. We must run large-scale training for commanders at battalion level and above so mid- and senior-grade leaders fully understand and adapt to contemporary war."
+
+  PRC_artillery_informatization: "Perfect the Sensor–Fires Integration"
+  PRC_artillery_informatization_desc: "Since General Zhang Youxia assumed the CMC vice chair and oversaw force development, ‘sensor–fires integration’ has been the guiding concept of PLA construction. Proven across modern wars worldwide, it matches the character of war today. It’s time to refine the approach further: abandon armor-on-armor attrition—embrace sensors and fires!"
+  PRC_artillery_informatization_tt: "§HZhang Youxia§!’s Chief Trait §HFirepower Decides Victory§! gains:\n - £attack_texticon Division Attack: §G+5%§!\n - §YSelf-Propelled Artillery§!:\n    £soft_attack_texticon Soft attack: §G+10%§!\n - §YSelf-Propelled Rocket Artillery§!:\n    £soft_attack_texticon Soft attack: §G+10%§!"
+
+  PRC_tank_primacy_nat_1: "Elite Formations, Great Wall of Steel"
+  PRC_tank_primacy_nat_1_desc: "With cutting-edge equipment, a matured sensor–fires and mechanized architecture, large-scale Army exercises, commander training, and political work to bind the force, the PLA Ground Force can proudly declare: our soldiers are the finest of the fine! The steel torrent that once chilled NATO in the Soviet era is reborn—this time in the PLA!"
+  PRC_tank_primacy_nat_1_tt: "§YArmy reform complete!§!"
+
+  # ==========================
+  # --- ARMY: CORE IDEAS
+  # ==========================
+  army_for_people_idea: "The People’s Army"
+  army_for_people_idea_desc: "We are the sons and daughters of workers and peasants—we are the people’s armed force."
+  nervous_but_lively_idea: "United, Tense; Serious, Lively"
+  nervous_but_lively_idea_desc: "Obey the Party’s command, win battles, and maintain excellent conduct."
+  artillery_informatization_idea: "Sensor–Fires Integration"
+  artillery_informatization_idea_desc: "Abandon armor-on-armor; embrace sensors and fires—into the Zhang school we go!"
+
+  # =======================================
+  # --- ARMY: LEVEL-UP TRAIT BONUSES (TT)
+  # =======================================
+  bold_attack_spirit_tt_1: "Army General: On level-up, §Gadditionally§! gains §Y+1 Attack§!."
+  tenacious_defense_spirit_tt_1: "Army General: On level-up, §Gadditionally§! gains §Y+1 Defense§!."
+  meticulous_preparation_spirit_tt_1: "Army General: On level-up, §Gadditionally§! gains §Y+1 Planning§!."
+  meticulous_preparation_spirit_tt_2: "Army General: On level-up, §Gadditionally§! gains §Y+1 Logistics§!."
+
+  # =======================================
+  # --- ARMY: TRAITS & LABELS
+  # =======================================
+  integrated_information_and_firepower: "Sensor–Fires Integration"
+  chief_shellfire_determine_victory: "Firepower Decides Victory"
+
+  # ==============================
+  # --- ARMY: SUPPORT UNITS
+  # ==============================
+  PLA_heavy_sp_artillery: "Heavy Truck-Mounted Artillery Company"
+  PLA_heavy_sp_artillery_desc: "You and your bunker can go to hell—together."
+
+  # ======================================
+  # --- ARMOR & DIRECT-FIRE SYSTEMS
+  # ======================================
+  zpt_25: "ZPT-25/130"
+  zpt_25_desc: "The ZPT-25/130 is a new-generation electromagnetic tank gun using axial reluctance acceleration. Firing next-gen tungsten-alloy penetrators, it delivers 36 MJ muzzle energy—enough to defeat 1,400 mm RHAe. A composite thermal-dissipation jacket and liquid-cooled rails yield a service life exceeding 500 rounds per barrel, while recoil is only 30% of a conventional 130 mm gun. Dual-axis stabilization reaches 0.05 mils, enabling precision moving-on-moving kills in complex terrain."
+  zpt_25_tech: "ZPT-25/130"
+  zpt_25_tech_desc: "The ZPT-25/130 is a new-generation electromagnetic tank gun using axial reluctance acceleration. Firing next-gen tungsten-alloy penetrators, it delivers 36 MJ muzzle energy—enough to defeat 1,400 mm RHAe. A composite thermal-dissipation jacket and liquid-cooled rails yield a service life exceeding 500 rounds, while recoil is just 30% of a conventional 130 mm. Dual-axis stabilization at 0.05 mils enables precise moving-on-moving engagements."
+
+  zpt_26: "ZPT-26/105"
+  zpt_26_desc: "The ZPT-26/105 is a lightweight electromagnetic tank gun using segmented capacitor arrays and stack-cell energy storage for new 105 mm ammunition. Barrel-embedded fiber sensors link directly to the vehicle data network, enabling ‘cloud fire-control’ for cross-platform beyond-line-of-sight cueing and closed-loop fires with onboard UAVs. An adaptive pulse loading mechanism achieves 12 rpm, while launch signatures are reduced by over 70% compared to chemical propellants."
+  zpt_26_tech: "ZPT-26/105"
+  zpt_26_tech_desc: "A lightweight EM tank gun with segmented capacitor arrays and stack-cell storage for new 105 mm rounds. Fiber sensors and vehicle-to-vehicle datalinks support cloud fire control and UAV-aided closed-loop fires; reaction time shrinks dramatically. Adaptive pulse loading yields 12 rpm; firing signatures drop by 70%+ versus classic chemical guns."
+
+  # ======================================
+  # --- C4ISR / DATALINKS
+  # ======================================
+  dts_03: "DTS-03"
+  dts_03_desc: "A TDMA-based data link using AD-HOC (distributed self-organizing) networking that allows any two nodes in the architecture to exchange real-time data directly—greatly increasing command flexibility and resilience. A full generation ahead of NATO’s widely deployed Link-16, DTS-03 is set to become our force-wide standard."
+  dts_03_tech: "DTS-03"
+  dts_03_tech_desc: "TDMA core with AD-HOC self-organizing networking, enabling direct real-time exchange between any two nodes. It markedly boosts flexibility and damage tolerance. A generation beyond Link-16, slated for force-wide adoption."
+
+  # ======================================
+  # --- MOBILITY / PROPULSION
+  # ======================================
+  reev: "Range-Extended Electric–Diesel Propulsion"
+  reev_desc: "Parallel diesel + high-density battery packs enable silent cruise, cut thermal signature by 70%, improve fuel efficiency by 40%, and extend range—reliable in both plateau and desert extremes."
+  reev_tech: "Range-Extended Electric–Diesel Propulsion"
+  reev_tech_desc: "Parallel diesel with high-density batteries for silent running, −70% thermal signature, +40% fuel efficiency, and greatly extended endurance; qualified for plateau/desert extremes."
+
+  # ======================================
+  # --- SENSORS & SITUATIONAL AWARENESS
+  # ======================================
+  gtl_30: "GTL-30"
+  gtl_30_desc: "The GTL-30 multi-domain sighting suite integrates millimeter-wave radar with a roof-mounted synthetic-aperture radar, achieving dual-modality (optical + RF) sensing. The gunner receives synchronous optical imagery and radar data, while the commander—backed by a new onboard AI—uses SAR imaging for all-around awareness. Compared with traditional optics, GTL-30 breaks through visibility limits and sharply improves ECM resistance and multi-target tracking, reinforcing the ‘see first, hit first’ edge in complex battlespaces."
+  gtl_30_tech: "GTL-30"
+  gtl_30_tech_desc: "An integrated optical–RF sighting suite with MMW radar and roof SAR. The gunner fuses optics and radar; the commander leverages SAR with AI assistance for 360° vigilance. It defeats visibility limits, strengthens ECM resistance and multi-target tracking—amplifying first-see, first-strike advantages."
+  
+  # ======================================
+  # --- AMPHIBIOUS & MARINE MOBILITY
+  # ======================================
+  amphibious_drive_pro: "Folding Hydrofoil System"
+  amphibious_drive_pro_desc: "Designed for new-generation amphibious tanks, the folding hydrofoil is a high-efficiency water propulsion module. A six-link hydraulic mechanism actuates titanium–carbon-fiber laminated foils; by generating dynamic lift it dramatically reduces hydrodynamic drag, pushing water speed far beyond classic water-jet or paddling-track modes. It transforms an amphibious tank from a ‘low-speed ferry platform’ into a ‘high-speed maritime assault node,’ aligned with the demands of future high-intensity landing operations."
+  amphibious_drive_pro_tech: "Folding Hydrofoil System"
+  amphibious_drive_pro_tech_desc: "Designed for new-generation amphibious tanks, this folding hydrofoil uses a six-link hydraulic drive to position titanium–carbon-fiber laminated foils. Dynamic lift slashes drag, enabling water speeds far above conventional water-jet or track-paddling approaches—evolving the platform into a high-speed assault node for contested landings."
+
+  # ======================================
+  # --- ACTIVE PROTECTION / HARD-KILL APS
+  # ======================================
+  gl_6: "GL-6"
+  gl_6_desc: "GL-6 employs four-face millimeter-wave AESA arrays with twin trainable interceptor launchers to achieve true 360° coverage. It can track 20 targets simultaneously and prioritize the most dangerous threats. With ±60° high-elevation search and multi-burst intercept logic, it counters swarm attacks effectively. GL-6 delivers high kill probability and very short reaction time, markedly improving tank survivability across engagement profiles."
+  gl_6_tech: "GL-6"
+  gl_6_tech_desc: "A four-face MMW AESA with twin follow-up interceptors provides 360° sensing, tracking up to 20 targets and auto-prioritizing the highest threat. ±60° elevation plus multi-cycle intercept logic defeats swarms; short reaction time and high Pk significantly raise platform survival."
+
+  # ======================================
+  # --- VEHICLE AI & HEALTH / BATTLE MGMT
+  # ======================================
+  tank_ai_system: "Onboard AI System"
+  tank_ai_system_desc: "A new AI suite fuses multimodal sensors with deep neural networks to monitor hull integrity in real time, auto-isolate faults, and run recovery routines. It also offloads observation tasks, provides threat-priority queues and tactical route planning—greatly reducing the commander’s cognitive load."
+  tank_ai_system_tech: "Onboard AI System"
+  tank_ai_system_tech_desc: "Multimodal fusion + deep nets deliver continuous health monitoring, autonomous fault isolation, and recovery. The AI shares observation duties, ranks threats, and plans tactical paths so commanders decide faster with less workload."
+
+  # ======================================
+  # --- UAV / DRONE INTEGRATION
+  # ======================================
+  tank_drone: "Drone Wingman"
+  tank_drone_desc: "A turret-integrated VTOL UAV hive carries visible/low-light/TI multimode sensors. Each drone conducts close reconnaissance within an 8 km radius and streams data to the inter-vehicle tactical network—massively extending the tank’s situational awareness."
+  tank_drone_tech: "Drone Wingman"
+  tank_drone_tech_desc: "Turret-integrated VTOL UAV cells with EO/LLL/IR payloads execute close-in recce out to 8 km. Real-time feeds flow into the vehicle tactical network, greatly enlarging the platform’s perception bubble."
+
+  # ======================================
+  # --- DIRECTED-ENERGY COUNTERMEASURES
+  # ======================================
+  laser_compression_system: "Laser Suppression System"
+  laser_compression_system_desc: "China’s tank-borne laser work dates back to the Type-99 family. The new suppression system can, in low-power mode, disrupt hostile laser rangefinders by emitting pseudo-random pulse patterns to induce ranging error; in high-power mode it can burn down small UAVs. With low intercept cost, modest emitter wear, and no ammo limits, it delivers strong sustained fighting capacity."
+  laser_compression_system_tech: "Laser Suppression System"
+  laser_compression_system_tech_desc: "Low-power mode deceives enemy LRFs via pseudo-random optical pulses; high-power mode defeats small drones by thermal damage. Minimal per-shot cost, low emitter wear, and no ammunition constraints yield excellent endurance for continuous operations."
+
+  # ======================================
+  # --- AR / HMI & CREW AWARENESS
+  # ======================================
+  tank_ar: "AR Augmentation Suite"
+  tank_ar_desc: "Crew members wear AR devices that fuse vehicle sensors with the tactical data link, projecting in-eyepiece overlays for friend/foe status, terrain obstacles, and ammunition state. With gesture and eye-tracking input, the suite sharply boosts situational awareness and combat efficiency under modern battlefield conditions."
+  tank_ar_tech: "AR Augmentation Suite"
+  tank_ar_tech_desc: "An integrated AR HMI merges onboard sensing and C2 feeds to display blue/red tracks, micro-terrain, and logistics status. Gesture/eye-gaze control shortens OODA loops, enhancing crew awareness and fighting effectiveness."
+  
+  # =========================================================
+  # === STRATEGIC SUPPORT & LOGISTICS / CYBER / SPACE
+  # =========================================================
+  PRC_reorganization_of_the_strategic_support_force: "Reorganize the Strategic Support Force"
+  PRC_reorganization_of_the_strategic_support_force_desc: "Beyond the Army, Navy, Air Force, and Rocket Force, the Strategic Support Force is a pillar of the PLA. Eighty years ago, our People’s Army relied on handcarts and the masses in base areas to sustain operations. Today, building a full-spectrum, multi-role support arm is indispensable to modern warfare."
+  PRC_advanced_joint_logistics_support_system: "Advanced Joint Logistics Support System"
+  PRC_advanced_joint_logistics_support_system_desc: "Logistics decides war. As early as the Spring and Autumn period, *The Art of War* recognized the primacy of supply. With the Y-20 in service and force-wide informatisation and mechanisation underway, the PLA has fielded an exceptionally advanced joint logistics support architecture."
+  PRC_military_satellite_network_upgrade: "Military Satellite Network Upgrade"
+  PRC_military_satellite_network_upgrade_desc: "During the Wenchuan earthquake, the PLA found itself ‘blind’ when the United States restricted GPS access—an episode now consigned to history thanks to Beidou and our dedicated military constellations. Even though the PDTO’s networked warfare and cyber capabilities lag those of other great powers, further expanding our military satellite network remains essential."
+  PRC_digital_information_support: "Digital Information Support"
+  PRC_digital_information_support_desc: "Informatisation is a cornerstone of reform. A clear, resilient tri-service command chain directly determines campaign outcomes. Units equipped with advanced networks and experience in information operations will give the PLA world-class information support at scale."
+  PRC_comprehensive_support_unit: "Composite Support Units"
+  PRC_comprehensive_support_unit_desc: "To match combined-arms needs, our brigades require embedded composite battalions that sustain brigade-level equipment: obstacle-clearing engineers in war, forward maintenance for mechanised assets, and—no less vital—robust field catering for the troops."
+  PRC_embrace_the_future_1: "Future Force Initiative"
+  PRC_embrace_the_future_1_desc: "High-tech wars demand sustained R&D. The U.S. civil conflict has led many American researchers to seek positions with us, expanding our military research base. Thus, projects once deemed ‘futuristic’—exoskeletons, unmanned combat systems, even suborbital vehicles—now move onto the agenda."
+  PRC_cybersecurity_assurance: "Cybersecurity Assurance"
+  PRC_cybersecurity_assurance_desc: "Cybersecurity is national security. We must guard against espionage and hostile intrusions across civilian and military networks—while cultivating our own operators capable of penetrating adversary systems when needed."
+  PRC_cyber_hacking_and_intrusion_idea: "Cyber Intrusion"
+  PRC_unmovable_like_mountain_goodness_like_water: "Immovable as a Mountain, Goodness Like Water"
+  PRC_unmovable_like_mountain_goodness_like_water_desc: "With joint logistics, cybersecurity, information support, and military space forces now in place, the Strategic Support Force stands ready to provide the PLA with solid, full-spectrum assurance in future wars."
+  PRC_unmovable_like_mountain_goodness_like_water_tt: "§GStrategic Support reform complete!§!"
+  PRC_military_satellite_launch: "Launch Military Satellite"
+
+  joint_logistics_support_company_tech: "Joint Logistics Support Company"
+  joint_logistics_support_company: "Joint Logistics Support Company"
+  joint_logistics_support_company_desc: "Joint Logistics Support Company"
+
+  cooking_squad_tech: "Field Cooking Squad"
+  cooking_squad: "Field Cooking Squad"
+  cooking_squad_desc: "Field Cooking Squad"
+
+  # =========================================================
+  # === INTEGRATED / JOINT COMMAND & FORCE-WIDE REFORMS
+  # =========================================================
+  PRC_integrated_joint_construction_of_the_three_services: "Tri-Service Integrated Construction"
+  PRC_integrated_joint_construction_of_the_three_services_desc: "Modern war is total war; tri-service synergies decide victory. Through informatisation, the command chain between Navy, Army, and Air Force now runs clean end-to-end, enabling first-minute intelligence exchange, directive dissemination, and mutually supportive operations for optimal campaign effects. Senior commanders have completed systematic joint-command training."
+  PRC_modern_joint_staff_department: "Modern Joint Staff Department"
+  PRC_modern_joint_staff_department_desc: "A unified Joint Staff concentrates and streamlines tri-service command. It accelerates situation awareness and analysis across all services and directs truly joint operations at speed in large-scale war."
+  PRC_dragon_soaring_to_the_skies: "Dragon Soaring to the Skies"
+  PRC_dragon_soaring_to_the_skies_desc: "After years of reform, we can declare the PLA’s modernisation a complete success. We field the world’s largest, most advanced, and most capable forces—equipment and personnel alike. We cherish peace and will not invade others, yet we fear no foe. Forward, forward, forward—our ranks march toward the sun!"
+  PRC_suborbital_vehicle_support: "Suborbital Vehicle Support"
+  PRC_suborbital_vehicle_support_idea: "Suborbital Vehicle Support"
+  PRC_cyber_hacking_and_intrusion: "Cyber Intrusion"
+  PRC_cyber_hacking_and_intrusion_idea: "Cyber Intrusion"
+  PRC_comprehensive_support_and_assurance_system: "Comprehensive Support & Assurance System"
+  PRC_modern_joint_staff_department_idea: "Modern Joint Staff Department"
+
+  PRC_roar_of_dragon_1: "2015 Military Reform"
+  PRC_roar_of_dragon_1_desc: "\n\n\n\n£GFX_PRC_15_reform£\n\n\n\n\n\nFollowing the 2014 All-Army Conference on Political Work, reform began in earnest. By 2019—the PRC’s 70th anniversary—organisational changes were largely complete, joint command took shape, and the principle of ‘CMC leadership, theaters for operations, services for force building’ was established. The People’s Army emerged renewed in spirit and armament. \nAs the great changes unseen in a century gather pace, international undercurrents surge and defense pressures from imperialists and certain neighbors rise. Yet the PLA has the capability, confidence, and resolve to safeguard sovereignty and development interests, protecting our people and land. \nEntering the third decade of the 21st century, the People’s Army will fear no strong enemy and guard the great rejuvenation of the Chinese nation.\n\n§ROur ranks march toward the sun!§!"
+  PRC_roar_of_dragon_2: "2024 Military Reform"
+  PRC_roar_of_dragon_2_desc: "\n\n\n\n£GFX_PRC_24_reform£\n\n\n\n\n\nIn the Taiwan Strait War, the heroic PLA crushed PDTO interference with absolute superiority—silencing doubts at home and abroad and rendering great service to national reunification. \nConfronting a new Asian Cold War environment, the PLA has reviewed lessons from that conflict and aligned construction with emerging military technologies. \nPost-2024 reforms intensified new-quality combat power and built a joint command system more efficient than NATO’s, able to mobilize the entire force and coordinate with ASEAN allies. \nIn the coming war that will decide the fate of China—and of Asia—the PLA will fight with courage, sweeping aside every reactionary force that dares ‘to stop the chariot with an ant’s arm.’\n\n§RNo fear. No surrender. Fight bravely!§!"
+
+  integration_air_ground: "Air–Ground Integrated Command Chain"
+  integration_air_ground_desc: "Tri-service synergy wins modern wars. Informatisation now keeps the command chain fully open, enabling first-minute intelligence exchange and coordinated action for best campaign effects."
+  unified_sea_air_information_chain: "Air–Sea Integrated Command Chain"
+  unified_sea_air_information_chain_desc: "Tri-service synergy wins modern wars. Informatisation now keeps the command chain fully open, enabling first-minute intelligence exchange and coordinated action for best campaign effects."
+
+  modern_joint_staff_department: "Modern Joint Staff"
+
+  # =========================================================
+  # === TRAITS / NEGATIVE FLAGS
+  # =========================================================
+  corrupted_officer: "Corrupt Officer"
+  corrupted_officer_desc: "This commander is part of an internal graft clique, having amassed wealth and influence via personnel manipulation and budget skimming. Though not yet exposed, his fate in future anti-corruption drives is unlikely to be pleasant."
+
+  # =========================================================
+  # === PROJECT STATE / DECISIONS
+  # =========================================================
+  PRC_military_project_mission_1: "§YMilitary R&D Project Underway§!"
+  PRC_project_ghost_1_dec: "§YProject Ghost§!"
+  PRC_project_nib_1_dec: "§YProject Stylus§!"
+  PRC_project_swimmer_1_dec: "§YProject Swimmer§!"
+  PRC_project_impulse_1_dec: "§YProject Pulse§!"
+  PRC_project_dark_sword_1_dec: "§YProject Dark Sword§!"
+  PRC_project_flash_1_dec: "§YProject Flash§!"
+  PRC_project_qilin_1_dec: "§YProject Qilin§!"
+  PRC_project_tianshu_1_dec: "§YProject Tianshu§!"
+  PRC_project_luanniao_1_dec: "§YProject Luan-Bird§!"
+
+  # =========================================================
+  # === PDTO (PACIFIC DEFENSE TREATY ORGANIZATION)
+  # =========================================================
+  strengthen_pdo_decision: "Strengthen the PDTO"
+  strength_pdo: "Strengthen the PDTO"
+
+  # =========================================================
+  # === ORG / AGENCIES
+  # =========================================================
+  PRC_security_bureau_dynamic: "Ministry of State Security"
+  
+  # =========================================================
+  # === TACTICS
+  # =========================================================
+  tactic_Suppression_by_Firepower: "Superior Firepower Suppression"
+  tactic_Precision_Fire_Support: "Precision Fire Support"
+  tactic_Large_Scale_Penetration: "Large-Scale Penetration"
+  tactic_Large_Scale_Penetration_defense: "Defensive Penetration Maneuver"
+
+  # =========================================================
+  # === MILITARY REFORM EVENTS
+  # =========================================================
+  prc_military.1.a: "When the army and the people stand as one, who under heaven can defeat us?"
+  prc_military.1.t: "Fish-and-Water Bonds Between Army and People"
+  prc_military.1.d: "“Auntie, we’ll sleep outside. Regulations say we can’t go indoors,” the soldiers called out, voices firm, eyes unwavering in their discipline.\n\n“Oh you poor kids,” the old woman fussed, heart aching. “Grandson, bring out the cardboard—lay it for the soldiers so they aren’t on bare ground. They’re just youngsters; sleeping on the floor will ruin their backs. And it’s so late—you must be hungry. We haven’t got anything fancy, just thin porridge. I’ll put a pot on now. Grandson, run to the shop and fetch the steamed rice cakes we ordered—can’t let our lads go hungry into the fireline.” She moved with quick, practiced hands, as if these men were her very own sons.\n\n“Bohai, go help Auntie with the porridge—she’s elderly; don’t let her overexert herself. Everyone else, rest where you are. Once you’ve had a breather, we move on to the fire,” the squad leader said—gentle, steady, balancing respect for the old woman with the need to give his troops a moment’s respite.\n\n“Young man, how old are you—twenty-four? You’re the very image…” She squinted up at him, memories flooding back. “When I was in my twenties I met soldiers your age. Like you, each wore a red star above his brow, and like you they wouldn’t step into my house—said it was against discipline. One of them—so solemn—recited a poem by Chairman Mao to prove it. Seventy-four years have passed; I’m an old crone now, but I never forgot that poem…”\n\nShe sat on her little stool, gaze soft and faraway, telling of years gone by. That poem only shines brighter across the river of time—like the bond she’s never stopped feeling for the People’s Soldiers."
+
+  prc_military.2.a: "For victory, we march on forever!"
+  prc_military.2.t: "Unity, Tension, Seriousness, Liveliness"
+  prc_military.2.d: "These eight characters—first set forth by the Central Committee in Yan’an as the motto of the Anti-Japanese Military and Political University (Kangda)—have been passed down to this day. Even now they define the Party’s and the Army’s fine conduct. Tempered by this spirit, a force arose that does not fall, cannot be crushed, and will not be defeated.\n\nAcross its long history, everything about the People’s Army—its personnel, equipment, and doctrine—has undergone immense change. Yet one thing has not: the PLA’s fine conduct—Unity, Tension, Seriousness, Liveliness.\n\nToday, Kangda’s old campus sleeps quietly in Yan’an. Its mission as a university ended long ago, but its spirit still flows in the blood of the People’s Army. Without grasping that spirit, how could one answer: why did the PLA dare to fight—and prevail—even when outmatched and ill-equipped? Because our soldiers possess iron will—and it is that will which forged our great People’s Army.\n\nEven in peacetime, storms gather. However strong the nation grows, the PLA will not slacken. We do not love war, and we do not fear it. Should the Chinese nation once more face its most perilous hour, a new generation of soldiers will, like their forebears eighty years ago, raise walls of flesh and steel to guard home and country. Every officer and enlisted man understands that when that day truly comes—"
+
+  prc_military.3.t: "The Second Zunyi Conference"
+  prc_military.3.d: "Last night’s 2–4 km run, plus this morning’s 5 km—just to make grade-one evaluation this year, a challenge he’d only met once in four years…\n\n“Lao Ye, why can’t you keep your eyes open again? In the big lecture later I’ll have you stand the whole time! Or I’ll ask the political instructor to put it on your record, then you can go home and sleep to your heart’s content!”\n\nAnother big lecture. Dozing off during lectures had almost become a habit. His fifth year now; he’d taken part in missions big and small, and seen batch after batch of comrades rotate out. He was a “big brother” to the two-year conscripts, a squad leader—yet still, he felt lost.\n\nShould I demobilize this year? he wondered…\n\nThe sting of medicated balm snapped him back. “Enough—dab a little and wake up. We train after class. You’re the squad leader—set the example for the rookies.”\n\n“Roger!”\n\nOnce the battalion settled, the political instructor came in, cleared his throat, and began: “Comrades, to convey higher authority’s directive, today we start with a chapter of military history—the Zunyi Conference…”\n\nAs the commissar spoke, Lao Ye drifted over his years in the force: he’d joined just as the reforms hit; the NCOs who were cut cursed Bo Xilai day and night. After two or three years of neglect for the People’s Armed Police, he himself had muttered ‘damned Bo Xilai.’\n\n“At the Second Zunyi Conference, Chairman Xi emphasized the Party Center and the Central Military Commission’s absolute leadership over the People’s Army…”\n\nHe thought of the elder statesman—at the National Stadium (the “Bird’s Nest”), the Party History Museum, Tiananmen, the Xiong’an New Area inauguration—he’d been on security details not far from him; once within ten meters.\n\nIt gave him a strange feeling—made him think of another great predecessor… Since Xi took office, he’d watched his backwater hometown—once served by a single express train—become a regional artery. His family had weathered the pandemic in safety. He glanced at the first- and second-years listening intently, then at his co-year deputy squad leader, and whispered, “Another three years?”\n\nHis mate rolled his eyes, joking: “Put me on the National Day parade guard, or no deal.”\n\n“Done. The next credit’s mine anyway.”\n\nOn the way back, gazing at the flag snapping high above, he began to sing with pride:"
+  prc_military.3.a: "“Revolutionary soldiers—every one—must remember! Sing!”"
+
+  prc_military.4.a: "Build a People’s Army that meets the demands of future war!"
+  prc_military.4.t: "The Third Gutian Conference"
+  prc_military.4.d: "Outside the old Gutian site, PLA honor guards stood taut, eyes sweeping the approaches. Inside, senior commanders had taken their seats: Army Commander Li Qiaoming; Air Force Commander Chang Dingqiu; Navy Commander Dong Jun; CMC members Li Zuocheng and Liu Zhenli; CMC Vice Chairmen Zhang Youxia and He Weidong; and Chairman of the Central Military Commission, Xi Jinping.\n\nAll were men of hard-won merit—Li Zuocheng, Zhang Youxia, Liu Zhenli, and Li Qiaoming had fought in the Self-Defense Counterattack Against Vietnam and the Two Mountains Campaign; He Weidong, Chang Dingqiu, and Dong Jun had led key phases of the Taiwan Strait campaign.\n\n“Comrades,” Xi began, “you all know how chaotic the international situation is. In Europe, NATO and Russia are on a knife-edge. America is mired in civil war—years on, still a boiling mess. Here in the Asia–Pacific, Japan, India, Australia, and New Zealand want a new Cold War with us.” He paused. “It truly is a great change unseen in a century. We should be sober: a hot war in Asia—indeed a world war—is close at hand.”\n\n“Though the liberation of Taiwan was a rout,” General Zhang Youxia took up the thread, “many problems surfaced. Our Marine first wave made the beach in textbook fashion, but the follow-on deployment of heavy combined-arms brigades was still too slow.”\n\n“The Air Force had issues as well,” said Chang Dingqiu. “We seized air superiority across the theater thanks to a generation’s edge and pilot experience—but close air support for ground forces was not responsive enough. With timely support we could have reduced avoidable casualties.”\n\n“Our carrier groups performed well in sea denial,” Dong Jun reported, “but we still lack experience in blue-water combat.”\n\n“And for an all-out hot war with the entire PDTO,” He Weidong added, “logistics will be a major challenge—especially against Australia. We would be sustaining across the breadth of the Indo–Pacific. We’ve yet to exercise that scale of support.”\n\n“We must also attend to lift,” Li Zuocheng noted, pen scratching. “Given the global picture, we need the capability to project power worldwide—surpassing the U.S. in global deployment.”\n\nXi jotted down the points, then looked up, gaze sweeping the room.\n\n“If there are no objections, I’ll announce it here,” he said, closing his notebook. “We begin the second round of comprehensive military reform.”\n\nThe generals rose as one and saluted the Chairman: “We guarantee to fulfill the mission entrusted by the Party and the people!”"
+
+  prc_military.5.a: "Let Mao Zedong’s banner fly high!"
+  prc_military.5.t: "PLA Reform Begins!"
+  prc_military.5.d: "‘Military reform’ is no stranger in the PLA’s chronicles. The first systematic reform traces to the Sanwan Reorganisation after the Autumn Harvest Uprising, when Chairman Mao, against strong opposition, placed Party branches down to the company level—instituting officer–soldier equality and the mass line. At the first Gutian Conference, the guidelines of building the Army through ideology and politics were formally established.\n\nBone set at Sanwan, soul cast at Gutian: the true People’s Army was born—and in blood and fire it defeated all enemies and liberated all of China.\n\nIn the reform-and-opening era, fiscal strain pushed Comrade Deng Xiaoping to open the Pandora’s box of allowing the Army to “do business” to sustain defense budgets—never a long-term solution. Comrade Jiang Zemin then spent a decade rooting out the consequences of military commercialism.\n\nIn 2014, Chairman Xi convened the Second Gutian Conference, launching the first large-scale reform of the new millennium: to build an informatized, combined-arms force; to overhaul the command architecture; to establish the Joint Staff Department; to stand up the Rocket Force and the Strategic Support Force; to replace military regions with theater commands. This sweeping reform forged a modern, advanced PLA—and it was tested in combat across the Taiwan Strait.\n\nAs *Flames Ascendant* spreads and the world shifts, the Taiwan campaign exposed many shortcomings. The People’s Army needs a new round of reform to meet even more complex future wars.\n\nBut whatever changes, one thing will never fade: that vivid red—and the thought that animates it."
+
+  prc_military.101.a: "Fly, fly—ride the boundless sky!"
+  prc_military.101.t: "PLA Air Force Reform Begins!"
+  prc_military.101.d: "With the J-20, J-35, KJ-500 and other advanced aircraft now fielded in strength, the world has acknowledged the might of the People’s Air Force. Some foolish frogs at the bottom of a well still shout “copycat” and “knock-off,” claiming our aircraft will fall apart like paper planes in real combat—but no serious analyst dares take the PLAAF lightly.\n\nIn the Taiwan campaign, the PLAAF—through superiority in equipment and personnel—annihilated the puppet air force with ease. Japanese fighters loitering over Okinawa to intervene never dared cross the line under the shadow of our electronic warfare fleet and J-20s.\n\nWith the United States consumed by civil war, the PLAAF has become, beyond dispute, the world’s premier air arm. Yet we cannot grow complacent: State Security confirms that even as Japan mass-produces F-35s, it is also pushing a so-called “5.5-generation” fighter—the *Shinshin* (ATD-X). To sustain comprehensive advantage over the PDTO, we have further increased investment in air-power R&D.\n\nAviation Industry Corporation of China reports multiple program breakthroughs. It is time to design a new, future air-combat architecture around these advances.\n\nThis time, we will lead the world by a generation!"
+  
+  # =========================================================
+  # === AIR POWER / AWACS / ELECTRONIC WARFARE
+  # =========================================================
+  prc_military.102.a: "—F-35, I’ll be watching you—again and again and again and again…"
+  prc_military.102.t: "§bKJ-3000§! Enters Service"
+  prc_military.102.d: "Engines thundered as the test-squadron KJ-3000 eased into the air. Inside the cabin, Li sat before the console, barely containing his excitement. He had run countless simulated radar trials for this behemoth—but this was different: the first time the world would see the most powerful AEW&C aircraft ever built do its work for real.\n\n“Begin test.” The base commander’s order came through his headset. Li brought the radar online; the three AESA faces swept the sky. “Radar returns detected; analysis confirms low-RCS targets at a range of…” He rattled off the figures to the crew, inwardly astonished: the system really could pick stealth targets directly at long range in a complex EW environment. With the KJ-500 he’d flown before, you needed multiple orbits in concert to approach this performance. But the KJ-3000 could detect fifth-gen fighters as soon as they crossed into radar line-of-sight—punching clean through the stealth advantage.\n\nHe couldn’t help the wicked grin creeping across his face. “You fifth-gen hotshots who love to run ‘penetrating air superiority’ in every exercise—scaring us half to death—this time our AEW&C is going to make your ‘mosaic warfare’ transparent again.”"
+
+  prc_military.103.a: "Operation Blue Shield accomplished."
+  prc_military.103.t: "J§b-16D§! vs. JASDF: An Electronic-Warfare Incident"
+  prc_military.103.d: "East China Sea airspace. A formation of J-16D and J-15D aircraft, pods bristling underwing, droned along in tight order. The Eastern Theater Command had planned a special operation to hoover up JASDF radar signatures. For this task, the headquarters pulled a slice of theater J-16Ds, the carrier *Jiangsu*’s J-15Ds, and a KJ-600; crews had trained specifically for the mission.\n\nAboard J-16D no. 63771, the EW officer Li Hua lounged in the back seat—no work for him during the first leg. All he could do was stare at the HUD overlay of the East China Sea radar map he’d long since memorized. “Grey Wolf, Sawtooth Shark, this is Tianshan. You’re about to enter the mission box; execute per plan.” The AEW&C controller’s voice finally came over the net. Per their brief, they would generate false targets while collecting the adversary’s emissions and pushing them over the link—then leave the rest to the strike packages holding over the sea.\n\n“Tianshan, Grey Wolf 02 copies—commencing Blue Shield.” 63771 rolled; the formation turned. Li sat up, brought the pods to life, and the aircraft began generating multi-source deception to flood JASDF radars with phantom tracks. They were fully kitted today—even carrying jammers tailored to low-frequency anti-stealth radars. Minutes after the pods spun up, the AEW&C datalink updated the air picture: F-15Js of the JASDF Western Air Defense Sector were airborne, afterburners lit toward the false target clusters. A forest of SAM search and fire-control radars also came up at full power, sweeping for missiles that did not exist. 63771’s wingtip receivers scooped up every last watt.\n\nWith Japan’s emissions laid bare, Grey Wolf and Sawtooth Shark turned west for home. JASDF fighters screamed on toward ghosts—only cottoning on an hour later. Monitoring the open band, Li heard a chorus of “bakayarō!” explode across the net and burst out laughing—like some over-the-top anime villain."
+
+  # =========================================================
+  # === SIXTH-GENERATION FIGHTER PROGRAM — PART I
+  # =========================================================
+  prc_military.104.a: "“Cleared for takeoff.”"
+  prc_military.104.t: "Trans-Generational Fighter Program (I)"
+  prc_military.104.d: "The sky was a vault of blue over a silent wilderness. In a hangar at the flight-test base, an old man sat alone.\n\nNinety-five-year-old Wang Lijun had lost count of how many decades he’d worked at the South Institute. For twenty years his wife—once his lab partner—had urged him to retire and leave the “remaining tasks” to his students. He always answered with the line his protégés now treated as a maxim: There is no end to research—there is no “remaining task.” Age no longer allowed the long hours of intense calculation and deep thought of his youth, but he still held the front line, giving everything he had left to the nation’s science.\n\nTo steady his restless thoughts, Wang drew from his pocket a photo of Chairman Mao visiting Chengdu Aircraft, and his mind drifted. Once, the People’s Air Force was weak; the people lived in fear of Nationalist bombers. In Korea, our troops were pinned by American B-29s. Over the South China Sea, Martyr Wang Wei gave his life to drive off an American jet… Such bitter humiliation was the fire that kept Wang to his path. Our fifth-generation fighters stood with the best in the world now—yet his sense of urgency never eased. Until China’s airpower stood at the absolute summit, he would not stop.\n\n“Master.” The hoarse, affectionate call pulled him back. Before him stood generations of his students—silver-haired veterans and keen young talents—half the pillars of the Republic’s aviation enterprise.\n\n“A message from the tower,” one of them said. “Weather is good. We can fly.”\n\n“Good!” Life surged back into Wang’s frame. He gently pushed aside his wife’s supporting hand, braced on the table, rose, and called to the ground crew and test pilot, “Comrades, run the cold-start checklist. Prepare for first flight.”\n\nAfter a crisp flurry of activity, the vast hangar doors rolled open. Bathed in the noonday sun, the sixth-generation fighter—every soul in the shop’s sweat and tears made metal—glided onto the tarmac. Wang grabbed the radio from the table and keyed the switch.\n\n“Pre-taxi checks.” “Complete.”\n“Systems checks.” “Complete.”\n“Pre-takeoff checks.” “Engines nominal, flight-control system normal, takeoff configuration set.”\n\n“Checks complete. Requesting takeoff.”"
+
+  # =========================================================
+  # === SIXTH-GENERATION FIGHTER PROGRAM — PART II
+  # =========================================================
+  prc_military.105.a: "“Chairman, do you see? China’s air force now stands atop the world.”"
+  prc_military.105.t: "Trans-Generational Fighter Program (II)"
+  prc_military.105.d: "The big turbofans roared like dragons, and the sixth-generation fighter—black lightning—leapt from the runway into the deep blue.\n\n“Initial-climb systems check.” “Fuel nominal. Nav/comm nominal. Systems monitoring nominal.”\n\n“Turn to second leg.” “Wilco—right turn now.”\n\nWang’s eyes locked on the downlink video and the green “structural strain within limits” readout beside it; he hardly dared blink. Though all looked good, a first flight is never a success until the aircraft’s wheels are firmly back on the ground.\n\nThe short pattern went quickly. The moment of truth had come.\n\n“Pre-landing checks.” “VLS comms nominal; drag rudders respond; flaps deploy—normal.”\n\nWhen the aircraft rolled to a stop, the bustling hangar fell silent in an instant.\n\n“Report to all hands: the new aircraft has completed first flight!”\n\nThe test pilot’s voice—thrilled and proud—was the spark. The hangar erupted in cheers and thunderous applause.\n\nWang’s vision went dark; his body seemed to have its bones pulled out from under it, and he collapsed…\n\nWhen he came to, he lay in a hospital bed. His sight was blurred; tears—hot and unending—slipped from the corners of his wrinkled eyes.\n\n“What… what happened to me?” He tried to ask, but all that came out were choking sobs.\n\n“Teacher, are you all right?”\n\nA student dabbed away his tears, worried. “The day we succeeded, you lost consciousness—head bowed—murmuring, ‘Chairman… Chairman…’”\n\n“Chairman…” Wang looked to his hand. He still clutched the photograph of Mao—but a broad swath of it was soaked with his tears."
+
+  # =========================================================
+  # === SIXTH-GENERATION FIGHTER PROGRAM — PART III
+  # =========================================================
+  prc_military.106.a: "There is no end to research—and we never stop."
+  prc_military.106.t: "Trans-Generational Fighter Program (III)"
+  prc_military.106.b: "Ten thousand years is too long—seize the day, seize the hour."
+  prc_military.106.c: "Hurl the ‘backward’ label clear across the Pacific!"
+  prc_military.106.d: "Wang felt his brain screaming at full pitch—yet all his ears heard was an old man’s sobbing.\n\n“C-call… call Li…” He forced the broken syllables up through the hitching in his throat.\n\nHis student understood at once. “Xiao—Li! Quickly!”\n\n“I’m here!” The youngest engineer on the team hurried in. Before he could bow a greeting, the old man seized his right hand.\n\n“Teacher, you—”\n\nSomething was pushed into his palm. He looked down. Not the black-and-white photo he so often saw—but a color print.\n\n“Is this… Martyr Wang Wei’s *Unfulfilled Wish*?” he asked, staring at the sky and fighter in the picture, astonished.\n\n“The world belongs to you, and to us—but in the final analysis, it belongs to you…” Wang’s voice broke again. His trembling right hand fished out a ballpoint pen and he scrawled a great “7” across the photo. Then, with eyes clouded and bloodshot yet steadfast, he fixed Li with his gaze.\n\n“I understand, Teacher.” Li looked down at the picture; his own clear eyes were rimmed with tears now. He lifted his head, met the old man’s gaze—and nodded, firm as steel."
+
+  # =========================================================
+  # === PRODUCTION PIPELINE / WORKSHOP LIFE
+  # =========================================================
+  prc_military.107.a: "Lay down the tricolor safety tape and kick this line back into motion!"
+  prc_military.107.t: "Shop-Floor Routine"
+  prc_military.107.d: "Fabrication hall. The shop chief was livid. Engineers, technicians, and operators stood in a line, sheepish; behind them, a rare sight in this building—industrial robots frozen mid-stroke, grippers holding parts in empty air.\n\n“Goddammit! How many times have I told you blockheads—if you can’t sort a mess out, escalate it! Instead, every last one of you clammed up like plague-ridden pigs. Now look at this! Delivery’s due next month and you dump a hot potato in my lap—how the hell am I supposed to keep the line turning?”\n\nHe had reason to blow his stack. In a flow shop, two things are poison: stoppages and rework. The first idles the entire line; the second guts this month’s pass rate—and the bonuses with it.\n\n“Christ… with a crew like you I’ll die ten years early. Pull forward the work behind this station. I’ll call the other base and see if they can spare a redundant unit.” The chief’s fury ebbed; he flipped back to standard Mandarin and started directing the recovery.\n\nThe engineers and techs traded looks of relief. Xu-gong was like that: he could cuss the paint off a bulkhead, but he’d still shoulder the fix. At least this time it wasn’t a catastrophe.\n\nPhone to his ear, the chief strode for the door. Sunshine poured in—warming the cavernous space.\n\n“And the next time I catch any of you hoarding mismatched parts for your own damn station, I swear I’ll take a grinder to those ‘iron arms’ of yours—two passes and they’re gone…”"
+
+  # =========================================================
+  # === DRONE WARFARE / TRAINING
+  # =========================================================
+  prc_military.108.a: "To serve in the People’s Air Force!"
+  prc_military.108.t: "Drone Simulated Opposed Training"
+  prc_military.108.d: "Northwest desert. A PLAAF training base.\n\nA row of new trainees wore VR headsets for their first taste of simulated dogfighting. Thanks to mature combat-simulation tech, newcomers can start much earlier than before—not just book theory and canned drills. The VR system lets them practice the real techniques of air combat.\n\nWhile the rookies dueled in the virtual sky, instructors watched the live-mapped battlespace on the electronic sand table. Today wasn’t the usual noob free-for-all—one J-11 with a pack of drone wingmen was tearing up the board.\n\nThe tactics officer elbowed the instructor beside him. “This kid got a pilot in the family? The way he’s ‘turkey-shooting’ doesn’t look like a newbie. Old Zhang—were you this good at his age?”\n\nZhang snorted. “No. Back then the best I could manage was a 70–30 against you lot before Teacher Wang came down himself and wiped the floor with us.”\n\nAfter the sim ended, Trainee Zhou was waved over.\n\n“Anyone in your family fly?” Zhang asked—rarely with a hint of a smile. “That beautifully executed Thach Weave with your drone wingman looked awfully practiced.”\n\n“No, sir. I just used to play a similar game, so I guess I brought over some of the ‘game skills.’” Zhou scratched his close-crop sheepishly and chuckled.\n\n“A game? Oh—*War Thunder*. Don’t tell me you main the Chinese tree.”\n\nZhou nodded, embarrassed. The two men shared a look that all but spelled out *can’t-keep-a-straight-face*.\n\n“Fine by me. You should handle the higher-intensity phases just fine. Work hard.”"
+  
+  # =========================================================
+  # === UAV / ISR / DISASTER RELIEF
+  # =========================================================
+  prc_military.109.a: "Huh… doesn’t feel all that different, does it?"
+  prc_military.109.t: "Disaster Relief by Drone"
+  prc_military.109.d: "The West, at an emergency disaster-relief center.\n\nLong-endurance UAV pilot Second Lieutenant Zheng wore a VR headset, watching the drone’s real-time video from the disaster zone.\n\nSudden downpours and mudslides had cut off the mountain approach routes. The only way to reach the village was radio—and fortunately a ham in the village had put out a distress call on a handheld. Local emergency teams were hacking a path toward the stricken area.\n\nReports so far said there were no casualties in the village. The only pressing problem was drinking water running out. The People’s Liberation Army Air Force scrambled, ferrying Second Lieutenant Deng and his bird to the nearest emergency airstrip by the village.\n\nThe UAV’s slung load of bottled water would sustain the villagers for more than 72 hours—well past the rescue team’s estimated arrival time.\n\nBefore long, Lt. Deng picked out his mark: three signal fires and smoke plumes rising from the village square—perfect for cueing the airdrop.\n\nAim. Release. The airframe bobbed up as the payload came off, and the supply crate’s parachute blossomed like a perfect flower.\n\nA voice came over the radio: “Xiao Zheng, nicely done. The village Party secretary is organizing the emergency party detachment to distribute the water. You can RTB.”\n\nZheng let out a long breath. Through the UAV’s EO turret he gazed at the distant snow-capped range—then a thought struck him: if, one day, this payload were swapped for certain ‘nifty little gadgets’ and dropped on the folks across Pangong Lake, would it feel any different in the hands than today’s bottled-water airdrop?"
+
+  # =========================================================
+  # === AIR FORCE REFORM — ACCEPTANCE / LIVE EXERCISE (I)
+  # =========================================================
+  prc_military.110.a: "Report: enemy launch—one salvo of three cruise missiles detected!"
+  prc_military.110.t: "Air Force Reform Acceptance Review"
+  prc_military.110.d: "At dawn the training base was a hive of motion. Across a thousand square kilometers, tents sprang up in neat rows; targets of every size speckled the landscape.\n\nVehicles shuttled to and fro. Before long, Vice Chairmen of the CMC Zhang Youxia and He Weidong—the two “acceptance inspectors”—arrived in a well-guarded Dongfeng Mengshi.\n\n“Welcome, Comrades Zhang Youxia and He Weidong, to inspect and certify the Air Force reform work!” As the two stepped out, the directing generals for the exercise—Yi Xiaoguang and Chang Dingqiu—strode up and snapped crisp salutes.\n\n“Thank you for your hard work— and the Air Force’s as well.” Zhang and He returned the salute, then shrugged off their greatcoats to aides. Four big hands met in a firm clasp.\n\n“These weeks have been rough on you,” Zhang grinned. “Keeping up daily duties while prepping an exercise—no time to breathe, eh?”\n\n“I keep telling Dingqiu, if only we had the art of splitting into two,” Yi joked. “I’m the lucky one—he’s been sprinting between briefing rooms and ranges for days. Told me the other day he’d blistered his whole mouth from the pace.”\n\n“Much appreciated,” He laughed. “Then let the Air Force give us a show. The Commission knows the measures you’ve put in place; we’re confident. Just don’t let the People’s Air Force down today.”\n\n“Understood!” The two generals straightened and saluted again. “Rest assured—we’ll complete the planned exercise to standard. Comrades, please review!”\n\nThey entered the operations center. Yi gave the start order to the directing cell. A harsh klaxon blared, and the enemy track symbology blinked onto the battlespace display of the digitized C2 wall.\n\n“Report: enemy penetration strike detected! Executing the counterplan!”\n\nNot far away, Blue’s sixth-generation J-36s roared skyward, followed by J-16D heavy EW aircraft for electromagnetic attack and the KJ-3000 for battlespace sensing.\n\nThe formation dwindled into the horizon—and the klaxon screamed again."
+
+  # =========================================================
+  # === AIR FORCE REFORM — ACCEPTANCE / LIVE EXERCISE (II)
+  # =========================================================
+  prc_military.111.a: "The People’s Air Force will defend the skies over China’s land!"
+  prc_military.111.d: "“Report: enemy launch—one salvo of three cruise missiles detected, accompanied by high-power jamming! Executing the contingency response!”\n\nAs both sides entered PL-15 range, blue blips winked off the screen one by one: J-36s, cued by advanced fire-control and KJ data, pre-emptively locked and killed the ‘enemy’ aircraft serving as moving targets. The GX-11 then pushed the coordinates of the ‘enemy Patriot SAM’ sites over the link to the waiting unmanned swarms. A heterogeneous mass of recon-strike UAVs and loitering munitions, guided by swarm algorithms, howled toward their marks. In the rush to power up, Red’s SAM radars were smothered by J-16D jamming—then swatted by anti-radiation missiles. As the SAM belts suffered annihilating strikes, the ‘enemy’ forward airfields took anti-runway munitions and lost operating capacity.\n\n“Enemy aviation and area air-defense capability suppressed. End exercise.”\n\nApplause and cheers broke across the ops floor. Zhang Youxia and He Weidong rose smiling, passed their notes to aides, and gripped the two generals’ hands.\n\n“Good. That’s how you fight—well fought!” said He. “Today showed the People’s Air Force’s spirit!”\n\n“The Chairman’s trust wasn’t misplaced,” Zhang added. “And the effort of every echelon wasn’t wasted. Comrades—congratulations on bringing the reform to fruition!”"
+  # (Duplicate key retained verbatim, as in source)
+  prc_military.111.a: "Rule the skies; map the earth!"
+
+  # =========================================================
+  # === AIR FORCE REFORM — COMPLETION ANNOUNCEMENT
+  # =========================================================
+  prc_military.112.t: "PLAAF Reform Complete!"
+  prc_military.112.d: "The People’s Air Force’s birthmark was 1930: an old biplane reconnaissance craft, the *Lenin*, carrying the people’s soldiers into the blue for the first time. From there, a legend was written. Over Korea, fledgling PLAAF pilots shocked the world facing down an overbearing USAF. Through the Cold War’s iron curtain, the PLAAF guarded the Republic’s airspace, downing Taiwan’s fighters and spy planes.\n\nBut valor and honor cannot make up for obsolete arms. At the dawn of the 21st century the PLAAF’s mainstays were the aging J-7 and J-8. With the first flights of the J-10, J-11, and J-20, China proved it could design and build world-class advanced fighters. As the J-16, J-16D, KJ-500, J-35 and other cutting-edge types entered service, the PLAAF became the world’s second most powerful air arm.\n\nNow, with the latest reform complete, the PLAAF fields the most advanced force aloft anywhere: sixth-gen J-36s alongside fifth-gen J-20s guarantee air superiority; J-16D, GX-11, the Divine Eagle AEW UAV, and the KJ-3000 together seize command of the electromagnetic spectrum—leaving even stealth aircraft nowhere to hide. At sea, sixth-gen carrier fighter J-50s with J-15Ds and KJ-600s form a carrier air wing unmatched for breadth and depth. Dark Sword and Twin-Tailed Scorpion UAVs can loiter day and night to pour fast, heavy support on behalf of the Army. And the PLAAF now wields true long-range strategic strike and penetration.\n\nAt last, we can say with pride: the People’s Liberation Army Air Force is the strongest air force on Earth!"
+  prc_military.112.a: "Wheels up—into the wind!"
+
+  # =========================================================
+  # === NAVY REFORM — OPENING
+  # =========================================================
+  prc_military.201.a: "The People’s Navy—forward!"
+  prc_military.201.t: "PLA Navy Reform Begins!"
+  prc_military.201.d: "For many years the People’s Navy focused on defensive warfare. Even with the world’s second-largest fleet by hard power, its primary mission remained area denial over the continental shelf.\n\nIn the Taiwan campaign, the Navy shone, and our Marines excelled in the initial beach assaults. Yet the Navy still lacked the conditions for large-scale blue-water operations, and preparations for longer-range, larger-scale landings were insufficient.\n\nAs the PDO accelerates its naval buildup, major blue-water wars in the Western Pacific and Indian Ocean loom as the Navy’s hardest problem. Naval research institutes have already pivoted to the new requirements, and the fleets are running fresh tactical conferences.\n\nOne day soon, to safeguard regional peace, the People’s Navy will sail freely across the Pacific and the Indian Ocean!"
+
+  # =========================================================
+  # === “BUREAU SEAT” EVENT CHAIN — RECALL TO SERVICE
+  # =========================================================
+  prc_military.202.t: "Once More, the Teacher"
+  prc_military.202.d: "He had given his youth to the Republic’s navy. In those days he kept company with the stars and embraced the sea—pouring his blood and fire into every hull laid down and every strategy forged.\n\nBack then, constraints were everywhere: funds were scarce; technology lagged; talent was thin—teams hard to form for the hardest problems. Many dreams stayed dreams, never crossing from mind to matter. As time passed he thought he would quietly leave the stage. But fate loves a dramatic turn.\n\nOn an ordinary morning, first light brushed his weathered, unbowed face—and the summons came.\n\nThe world had grown stormy; he had expected it. But the speed and urgency still surprised him.\n\nAt that moment he learned the Republic had unrolled a grand new blueprint for the Navy—and that this great work needed its old war-horse to don armor again.\n\nHis heart thumped. Images sprang up: sweat poured in hard training; cheers at missions well done; vows sworn for the Navy’s future… The banked coals burst into flame.\n\nHe knew he would give his strength once more—without reserve—to the Republic’s Navy. It was his inescapable duty."
+  prc_military.202.a: "Retired Major General Zhang Zhaozhong—return to duty!"
+
+  # =========================================================
+  # === “ABYSSAL DRAGON” — TEACHING THE NEXT WAVE
+  # =========================================================
+  prc_military.203.t: "Old Teacher, New Students"
+  prc_military.203.d: "As he prepared fresh lesson plans, Zhang Zhaozhong mulled the grand shipbuilding program—and could not help but marvel.\n\nThe orders were placed—a testament to the Republic’s resolve to build a great navy. The naval academy was expanding; the once-solemn, modest campus now thrummed with new life. Towering classroom blocks rose; high-end simulators rendered complex sea battles so vividly that tactics felt like reality. The dorms gleamed—bright rooms and full amenities—giving cadets a proper place to rest. New cohorts arrived from every corner of the land, eyes lit with resolve and expectation.\n\nThey yearned to become guardians of the blue; with hot blood and steady hearts they would begin a hard but glorious course. In them, Zhang saw the Navy’s boundless future.\n\nThe People’s Navy’s goal is not merely the so-called PDO—it is to surpass even America at its height, and sail on to a greater future."
+  prc_military.203.a: "The future is now—sail blue-water."
+
+  # =========================================================
+  # === SHIPBUILDING AUTOMATION — FLEET TO THE SEA
+  # =========================================================
+  prc_military.204.t: "New Navy, New Sailors"
+  prc_military.204.d: "The cadets, loaded with hard-won skill, graduated with pride and strode off campus toward their futures.\n\nEvery blade of grass and brick had witnessed their growth; now those became a warm memory left behind.\n\nHaving watched them all the way through, Zhang Zhaozhong finally stole a half-day to walk the port.\n\nWaves chopped and flashed; spray caught the sun and scattered into a thousand lights before falling back to be swallowed by the next swell.\n\n“So they’re all out training—that’s good. Training is a whetstone; it makes these young ones sharper by the day. The future will be theirs.”\n\nHe watched the water boil in the basin. “The proof is coming soon enough. The Navy is where you stand on your real skill. Study—there’s no end to it…”"
+  prc_military.204.a: "Train to fight the strongest—train to defeat the strongest!"
+  
+  # =========================================================
+  # === NAVY — CARRIER STRIKE TRAINING
+  # =========================================================
+  prc_military.205.a: "We are the lead dancers on the knife’s edge—dare to challenge, press ever forward!"
+  prc_military.205.t: "Fledgling Eagles Take Wing"
+  prc_military.205.d: "On the high seas east of the Yellow Sea, the carrier group centered on *Fujian* was in routine workups.\n\nA rookie pilot, guided by a “yellow shirt” director’s crisp hand signals, eased his carrier fighter toward the catapult.\n\nThe director chopped his hands to brake; green shirts locked the shuttle to the nose gear. With all checks complete, the yellow shirt crouched, half-turned clear of the stroke, and flashed the classic launch signal. Throttles to the stops; the EMALS hurled the jet skyward. Overhead, a KJ-600 kept wary watch on the simulated JMSDF surface group, marshalling the fresh launches into formation and pushing them toward the training box. Veterans held an overhead stack, watching each fledgling climb, join, and depart—then slid in to shepherd them to the range.\n\nSince the reform began, the Navy has expanded pilot accessions and deck-qual cycles at scale. Carriers run near around-the-clock to bring new aviators and deck crews up the curve. Under this high-tempo regimen, skill and tactics are leaping ahead day by day. Soon, Chinese carrier strike groups will be a blue-water force that chills any foe."
+
+  # =========================================================
+  # === NAVY — MARINES AMPHIBIOUS EXERCISE
+  # =========================================================
+  prc_military.206.a: "Forward, Marines!"
+  prc_military.206.t: "Amphibious Landing Exercise"
+  prc_military.206.d: "At first light, a landing ship plowed on with an amphibious combined-arms task unit aboard.\n\nIn the well deck, troops checked kit with practiced calm. At the bow, the brigade commander lifted a bullhorn, cleared his throat, and spoke quietly: “We’re about to start. Back in school, teachers loved to say: treat every mock exam like the real thing. Why? Because the real thing will come—and if you treat the mock like the real, you won’t freeze on the day. Same here: I want you to treat every exercise like real combat.”\n\n“Time’s about up.” He cleared his throat again. “All hands—get your heads right. Exercise begins now!” Soldiers ran final checks, snugged helmets, straightened camo, and braced for the surf.\n\n“Five hundred meters to shore—commence landing!” The ramp yawned open. Meeting the first knife of sunlight and the cold slap of the sea, they surged for the beach."
+
+  # =========================================================
+  # === NAVY — TYPE 076 LHD & ADVANCED AMPHIBIOUS DOCTRINE
+  # =========================================================
+  prc_military.207.a: "Forward, Marines!"
+  prc_military.207.t: "Type 076 Amphibious Assault Ship Launched!"
+  prc_military.207.d: "Any future fight with the PDO must reckon with cross-ocean landings on Japan and Australia. To perfect our amphibious architecture, we designed and built the new Type 076 LHD— a steel giant comparable in size to the UK’s Queen Elizabeth class. It can serve as a task flagship for landing operations, and its EMALS equips it to launch heavy UAVs.\n\nAround the 076, the Marines will build a next-generation landing scheme: vertical-and-surface assault, deep fires, and precision air support from catapulted heavy drones to keep the assault echelons safe to the beach.\n\nAs more hulls join the fleet and larger landings are rehearsed, the Marines will master blue-water amphibious skill—and directly deter strikes on PDO homelands."
+
+  # =========================================================
+  # === NAVY — OPEN DAY / PUBLIC OUTREACH
+  # =========================================================
+  prc_military.208.a: "With the people behind us, the Navy grows mighty."
+  prc_military.208.t: "Navy Open Day"
+  prc_military.208.d: "Fuzhou’s Mawei port, by the Zhaozhong Shrine—Pier One.\n\nAnother Navy Open Day. Admiral Dong Jun smiled to himself: the last time he was here he’d been commanding the blockade of the Taiwan Strait—his proudest operation. Today was easier on the soul: the Type-055 destroyer *Fuzhou* was commissioning, and to honor civil-military unity her maiden voyage was a goodwill visit to Fuzhou. He was glad for the excuse to see the city again.\n\nAs he stepped ashore, children swarmed him and the sailors, eyes wide with envy and questions.\n\n“Uncle, uncle—can this ship chase off a combined enemy fleet?” one little boy broke through the scrum, grabbed Dong’s hand, and pointed up at *Fuzhou*.\n\n“Of course it can. Why do you ask?” Dong’s smile spread.\n\n“Our teacher told us about the First Sino–Japanese War. We lost so badly. Many heroes died…” the boy’s voice dropped.\n\n“We aren’t afraid now,” Dong said, lifting the child and pointing at the ship—then set his cap on the boy’s head. “This ship alone could send half their fleet to the bottom. Want to be a sailor? I’ll be waiting on board.”\n\n“It’s a promise!”\n\nPines and red walls watched from the shrine as if an elder waited by the door for a favorite great-grandchild home from school.\n\n*Fuzhou*’s horn bellowed. A flock of egrets spun up from the wetland, wheeling around the warship in long, bright loops."
+
+  # =========================================================
+  # === NAVY — NUCLEAR CARRIER UNDER CONSTRUCTION
+  # =========================================================
+  prc_military.209.a: "Humiliations past will never return."
+  prc_military.209.t: "Nuclear Carrier Under Construction"
+  prc_military.209.d: "Old Zhao of Dalian Shipyard had three decades in the trade; the young hands all called him “Master.”\n\nHis forebears had repaired Beiyang Fleet ships in the Self-Strengthening era—until 1895, when defeat shattered the fleet. His great-great-grandfather coughed blood and died, leaving a family charge: grow strong; wash away national shame.\n\nIn 1937 he could only watch from shore, weeping, as ROC Navy ships scuttled themselves at Jiangyin.\n\nZhao’s own hands helped refit *Liaoning* and build *Nanchang* and *Dalian*. Now, another colossal job had just come good: the newest nuclear-powered carrier taking shape.\n\nGazing at the steel giant’s towering lines, he whispered, “Ancestors… the country is strong now. Our navy no longer fears the Japanese fleet—never again.”"
+
+  # =========================================================
+  # === NAVY — FLEET REVIEW / “ABOVE & BELOW THE SEA, SUPREME”
+  # =========================================================
+  prc_military.210.a: "Once poor we were trod upon—today a prosperous nation stands proud."
+  prc_military.210.t: "PLA Navy Fleet Review"
+  prc_military.210.d: "With naval reform nearing its end, the CMC ordered a fleet review at Qingdao.\n\nDozens of China’s most advanced warships massed on the Yellow Sea’s glassy plain, their thunder rolling; carrier air wings painted “八一” across the sky—China showed the world the Navy’s strength.\n\nCNO Dong Jun watched the steel colossi approach and could not help but think on the bitter past: the Opium Wars’ gunboats; the Beiyang Fleet’s ruin in 1894–95; utter overmatch in the Anti-Japanese War… Today the reborn People’s Navy would scour that shame away.\n\nASEAN navies crossed the seas to attend and would join a follow-on joint exercise. Delegations from fifty-five navies came to exchange professionally and in friendship.\n\nAs the grey-white giants filed past, pride rose in Dong’s chest: this is the mightiest force at sea—the People’s Navy."
+
+  prc_military.211.a: "Cut through the waves; ride the open ocean!"
+  prc_military.211.t: "PLA Navy Reform Complete"
+  prc_military.211.d: "In the last century, constrained by the nation’s economy and industry, the People’s Navy was the weakest arm—holding the maritime line with outdated hulls.\n\nAfter the Cold War, the US Navy’s shadow loomed long. Galvanized by the 1990 Gulf War and the 1996 Taiwan Strait crisis, and faced with island-chain pressure, the Navy sought change and began the march to modernity.\n\nReacquiring *Varyag* (now *Liaoning*) opened the era of domestically built carriers. As industry surged, Dalian and Jiangnan ramped into high gear; hard-won technology translated into operational power, and new kit and tactics arrived in waves.\n\nWith this reform round concluded, there is no fleet in the Pacific or Indian Oceans that can stand against the People’s Navy."
+
+  # =========================================================
+  # === ARMY — REFORM OPENING
+  # =========================================================
+  prc_military.301.a: "Be—the finest soldiers!"
+  prc_military.301.t: "PLA Army Reform Begins!"
+  prc_military.301.d: "The Taiwan campaign proved the post–Second Gutian reform delivered: under the fires-and-network (C4ISR–fires) doctrine, the new combined-arms brigades showed striking combat power and adaptability.\n\nBut to meet tomorrow’s wars, that is not enough. With Japan, India, Australia, and Korea forming the PDO, their encirclement strategy is plain. The PLA must be ready for large-scale, simultaneous operations across the Indo–Pacific.\n\nWe need next-generation land systems, more—and tougher—training across the force, and fresh tactics crafted for the emerging battlespace. The time has come to launch the Army’s reform."
+
+  # =========================================================
+  # === ARMY — NEW GEAR, NEW RHYTHM (BARRACKS DIALOGUE)
+  # =========================================================
+  prc_military.302.a: "A disappointed murmur rises from Company HQ…"
+  prc_military.302.t: "New Issue for the Army… Right?"
+  prc_military.302.d: "“Why so many live-fire drills lately? I’m wiped.”\n\n“Already? Wang, you bragged you’d be the toughest ‘King of Soldiers.’ That’s it?”\n\n“Yeah, yeah. Zhang—look at the sweat pouring off you. Save it. Formation in five.”\n\n“Everyone’s tired. I figured after Taiwan we’d ease off—but a few months later the throttle’s back down.”\n\n“More training isn’t bad. The Party and the people need us ready. And weren’t you the one whining about never getting to shoot for real? Now you’re whining that it’s hard.”\n\n“Fair point.”\n\nAfter a minute of quiet bore-brushing, Zhang said, “Hey, hear this? The next battalion just got new kit. My buddy says it hits hard and it’s so automated even my grandma could run it.”\n\n“Sure, and he’s got a bridge to sell you. But yeah, new gear is coming. Didn’t you read the Army Daily? The CMC’s building a truly modern land force.”\n\nWang eyed his old QBZ-95. “I haven’t even touched a 191 yet… the 95’s a good design, but could we please get the new toys already?”\n\nNeither noticed the shadow gliding up behind them. “Wang. Zhang. Why so slow?”\n\nBoth jolted upright. “Company commander, sir!”\n\n“At ease. You two—Company HQ. Special tasking.”\n\n“Sir! We will accomplish the mission!”\n\nThey turned in weapons and hustled to HQ—where stacked crates of the very rifles Wang had been dreaming of waited by the door.\n\n“Whoa, Zhou—did you knock over an armory?”\n\n“Shoo. It’s part of the reform. The whole brigade’s moving to a new-era combat suite.” The supply NCO grinned.\n\n“We get to train with it today?” Zhang asked.\n\n“Not yet. First, hump these crates over to 7th, 8th, and 9th. The CO saw you two wandering—here’s your chance to square it.”\n\n“My new gear… nooo—”"
+  
+  # =========================================================
+  # === ARMY — ARMOR R&D (IRON DRAGON PROGRAM)
+  # =========================================================
+  prc_military.303.a: "Report! R&D is progressing steadily—prototype slated for testing in one month!"
+  prc_military.303.t: "Next-Generation Main Battle Tank in Development"
+  prc_military.303.d: "From the Somme in the First World War, to the armored thrusts through France, to Kursk’s steel clash, tanks have shaped modern battlefields.\n\nThe PLA’s own story with armor is bittersweet: in the Anti-Japanese War, lacking tanks and AT guns, even obsolete enemy light tanks vexed us. In the Civil War, armored units—epitomized by the “Gongchen” tank—shone and opened a new chapter of PLA armored warfare.\n\nAs the global security climate shifts, so do battlefield demands. Our current ZTZ-99A/B fleet no longer suffices—we need a faster MBT with advanced datalinks, full digitization, and robust counter-UAS tools.\n\nThe CMC Equipment Development Department has drafted a design that meets Army requirements, and the Baotou plant is now rushing the prototype toward trials."
+
+  # =========================================================
+  # === ARMY — HUMOR (DISCIPLINE & DRIVE)
+  # =========================================================
+  prc_military.304.a: "Wait—sorry, you said WHO is his driver?!"
+  prc_military.304.t: "Hot Lap on Base"
+  prc_military.304.d: "A batch of new “Mountain Cat” all-terrain vehicles arrived in Beijing.\n\nHearing the news, General Zhang Youxia headed to the test track early. He loved the new variant with fixed grenade launchers and insisted on a ride. To probe the suspension, he ordered his aide to go full speed over obstacles. The aide, worried about breaking kit—and about jostling the Vice-Chairman—held back. Finding it tame, Zhang swapped seats and drove himself. The Mountain Cat ripped around the course for kilometers—right past a veteran MP.\n\nThe old MP fumed. Spotting a junior MP who’d been watching, he barked, “Why didn’t you stop that driver?” The rookie glanced at the grinning man cradling a grenade launcher. “Sir… that’s a very senior leader. Hard to… cite.”\n\n“A leader outranks a general? The PLA is a force of discipline. Even a general gets written up! Now—how senior can that joker behind the launcher be?”\n\n“I don’t know,” the rookie said, “but Comrade Zhang Youxia—the CMC Vice-Chairman—is his driver.”"
+
+  # =========================================================
+  # === ARMY — ZHURIHE TRAINING & EVALUATION
+  # =========================================================
+  prc_military.305.a: "Reshape however we must—to win the wars we must fight."
+  prc_military.305.t: "Toward Real Combat: Zhurihe Kicks Off"
+  prc_military.305.d: "Since the Northeast Democratic Allied Army days, we’ve built systemic, experience-based combat evaluation. From 1999 onward, Zhurihe—where Genghis Khan once spurred his horse—grew into a vast joint operations lab and assessment range.\n\nThe Taiwan campaign exposed gaps in our force. We are overhauling the evaluation system to meet new training demands.\n\nThe upgraded metrics grade commanders on battlespace sense, planning and decision, C2, combined-arms coordination, improvisation, force economy, method employment; staffs on decision support, planning, coordination, COP control; and formations on plan execution, maneuver, tactics, effects, protection, and sustainment. We integrate adversarial, capability, specialized, and process evaluations into a composite score; refine the multi-dimensional model (AHP + weights + normalization); and expand cross-theater exercises.\n\nWith the new indicators, red-blue force-on-force pays off in real combat power. Only realistic, targeted training reduces losses when the shooting starts.\n\nToday, Zhurihe can run several joint task forces in parallel, render a transparent multi-domain battlespace, monitor and grade land-air joint fights end-to-end, and has spawned hundreds of new tactics from “information leads, systems break.”"
+
+  # =========================================================
+  # === ARMY — ZHURIHE OPORD & COURSE OF ACTION
+  # =========================================================
+  prc_military.306.a: "Infiltrate with an elite small unit and decapitate Blue HQ."
+  prc_military.306.b: "Mass shock forces and smash Blue HQ head-on."
+  prc_military.306.t: "Prepare the Battle Plan"
+  prc_military.306.d: "Command has said it often: an exercise isn’t a contest—but pride still stings. Years ago the 69th Brigade posted a near-700, yet as Red they still fell short on this ancient field.\n\nWith “god’s-eye” information advantages scripted for Blue by the directing staff, many units have had to fight nearly naked—and lost, regrouped, and fought again.\n\nNo, it isn’t “bias”—the aim is to expose gaps. If you only chase a W without the frictions of real war, victory is hollow—and harmful to readiness.\n\nOn paper, winning or losing matters little; in the gut, no one likes surrendering the laurels.\n\nTwo plans now lie before the 69th Brigade commander:"
+
+  # =========================================================
+  # === ARMY — ZHURIHE OUTCOME (BLUE WINS)
+  # =========================================================
+  prc_military.307.a: "That’s exactly what a whetstone is for."
+  prc_military.307.t: "Red Infiltration Fails"
+  prc_military.307.d: "The 69th Brigade’s infiltrators ranged deep—near Blue’s CP—then failed like many before them.\n\nWith directing-staff omniscience, Blue artillery achieved a brutal ~50% effects rate. Under Blue info-ops jamming, 69th’s comms went dark and concealment broke down; their CP was hit.\n\nBlue, alert to infiltrators, hardened defenses; Red’s strike on Blue’s info group fizzled, only pausing it briefly.\n\nJamming, comms severed, and fires—three hammer-blows—collapsed 69th’s command capacity. Recon and info groups were crippled; fires could not answer.\n\nOnce Blue confirmed 69th could not re-form under the C4ISR-fires onslaught, infantry and armor moved to seize the objective."
+
+  # =========================================================
+  # === ARMY — ZHURIHE OUTCOME (RED WINS)
+  # =========================================================
+  prc_military.308.a: "This time the blade cut the whetstone."
+  prc_military.308.t: "Red Raid Succeeds"
+  prc_military.308.d: "With omniscient scripting, Blue artillery posted ~50% effects. Jamming severed 69th’s comms; their CP took hits.\n\nBut just as Blue seemed to cruise, 69th’s raiders broke the outer belt and wrecked Blue’s info group, buying time to re-organize and bring the fires complex back online. As jamming ebbed, micro-UAVs finally launched.\n\nThose UAVs pushed sensing-to-strike down to squad and platoon. The 69th chose a different play: use heterogeneous swarms to knit a sustained suppression web, restoring a battered fires system and upending Blue’s plan.\n\nWhile Blue scrambled against pinprick raids and pounding fires, 69th’s staff spotted a seam, struck Blue’s CP, and accomplished the mission card."
+
+  # =========================================================
+  # === ARMY — COMMANDER RETRAINING
+  # =========================================================
+  prc_military.309.a: "Maybe… ‘I’m too old’ isn’t much of an excuse after all?"
+  prc_military.309.t: "Study—Learning Never Ends"
+  prc_military.309.d: "Battalion Commander Li eyed the “Commander Training Course” banner and felt a twinge. He looked at the 50/100 on his quiz and rehearsed a hundred excuses.\n\n“Commander Li—class time!”\n\nHe looked up. The young female instructor for new-style tactics stood smiling at the door.\n\n“…Given this situation, we should…”\n\nSun warmed the classroom floor. Li stared longingly at new recruits jogging outside; he’d rather do laps with a fever than sit through a day of lectures.\n\n“Commander Li, your plan for this scenario?” The instructor’s voice snapped him back.\n\n“I… uh…” He glanced at his tablemate, who grimaced and showed a blank notebook.\n\n“Commander Li can’t answer?” She smiled. “Who can?”\n\nLi expected silence. Instead, nearly half the room raised hands—including a grizzled veteran who’d once been Li’s own CO, twenty-plus years in uniform.\n\nWatching them, a flush of shame rose in Li’s chest."
+
+  # =========================================================
+  # === ARMY — FIRES–INFORMATION INTEGRATION VISIT
+  # =========================================================
+  prc_military.310.a: "Sky-eye open; let fire-rain fall."
+  prc_military.310.t: "CMC Vice-Chairman Inspects Sensing-to-Fires Integration"
+  prc_military.310.d: "\"Battery—short halt! Guns 1–7, data uploaded. HE frag, three rounds rapid—3, 2, 1—fire!\"\n\nSensors found and fixed; data flowed to the fires cell; artillery struck under EW and air-defense cover. BDA ran; infantry and armor closed to seize the objective.\n\nWatching from the directorate gallery, Vice-Chairman Zhang Youxia stood and said to his staff: “Pass to all echelons: sense, allocate, execute—this is the standard. Our scientists are wiring AI recognition and processing into the loop. Next time, faster still.”\n\nHe knows the weight of superior fires. In 1984 on Songmaoling, Colonel Zhang’s 119th Regiment faced two reinforced enemy regiments. On July 12, supporting fires alone expended roughly 2.09 basic loads of 122-mm howitzer shells and 0.82 of 130-mm rockets; first-echelon and reinforcing troops were scythed down. The stench of corpses hung over the heights for days. Yet with poor information, much steel fell on empty ground; later his gunners were trucking ammunition up from Honghe to maintain the wall of fire. He began to ask: how do we raise effects?\n\nFrom division commander to theater commander, to CMC member and armaments minister, to today’s Vice-Chairman, the answer matured with new tech: only by seizing information supremacy can we truly fuse fires and arms and maximize effects.\n\nFrom tree-like C2 to flattened, from company radio-men to soldier handhelds and battle terminals, from flags and shouts to vehicle-to-vehicle networks, from “Gen-3 core/Gen-2 bulk” to “Gen-3 bulk/Gen-4 core,” the PLA has become an information-age force.\n\nZhang leaned back, satisfied, watching smoke blossom over “enemy” icons: first to see, first to fire—that is survival, and victory."
+  
+  # =========================================================
+  # === ARMY — ZHURIHE GRAND PARADE
+  # =========================================================
+  prc_military.311.a: "Forward—our blood runs hot; bare the blade and shake the tigers and wolves!"
+  prc_military.311.t: "Grand Parade at Zhurihe"
+  prc_military.311.d: "Zhurihe is the PRC Army’s most famous training ground. Over the past decade, every elite combined-arms brigade has fought realistic force-on-force there against the Blue Brigade, tempering skill and will.\n\nToday, Zhurihe hosts the first ground forces parade since 2017. On the sands stand rows of the newest MBTs, light tanks, SP artillery, trucks and IFVs; before them, ranks of PLA soldiers in the latest exoskeleton suits and \"Stylus\" high-intelligence rifles.\n\nSeveral Mountain Cat ATVs roll up; the people’s generals dismount: CMC Vice-Chairmen Zhang Youxia and He Weidong; CMC members Li Zuocheng and Liu Zhenli; Army Minister Li Qiaoming; and theater commanders Han Weiguo, Huang Ming, and others. Led by Zhang Youxia, they mount the dais and salute the troops.\n\n\"Comrades!\"\n\"Greetings, Comrade Commander!\"\n\nA middle-aged officer—without an exoskeleton—steps forward and reports loudly:\n\n\"Brigadier Man Guangzhi of the 195th Combined Brigade, 81st Group Army, reports to the Central Military Commission with the brigade!\"\n\n\"Good. You have all worked hard,\" Zhang says, sweeping his gaze over the \"Prairie Wolves.\" \"Through these reform years, your brigade has served as our whetstone—testing commanders and troopers alike—forging top-quality soldiers who obey the Party, win battles, and keep fine conduct.\"\n\n\"Your efforts are seen in every exercise. The sweat you shed at Zhurihe will be repaid. I declare the Zhurihe parade—commence!\"\n\n\"Yes, sir!\" Man Guangzhi salutes again. \"All units—forward, march!\""
+
+  # =========================================================
+  # === ARMY — REFORMS COMPLETE (QUALITY TROOPS, STEEL AVALANCHE)
+  # =========================================================
+  prc_military.312.a: "Elite troops—a Great Wall of steel!"
+  prc_military.312.t: "PLA Ground Force Reforms Complete!"
+  prc_military.312.d: "The PLA Ground Force is proud—and for decades, often \"pent-up.\" The oldest service traces a lineage from Nanchang Uprising troops, the Workers’ and Peasants’ Red Army, the Eighth Route Army/New Fourth Army, to the PLA itself. From Jinggangshan, Sanwan, Gutian, and the Long March to the Rectification Movement, it was forged by Chairman Mao as the very definition of the people’s army. Yet in lean years we endured—at times even propped up by military commercial ventures—until those were ended under Jiang Zemin. For long afterward we yielded resources to our younger siblings, the Air Force and Navy, and became a punchline among fans.\n\nIn the recent Taiwan operation, Navy and Air Force took the spotlight, while the Army seemed to \"do the chores\"—for shattered foes and antique armor were no match.\n\nToday, with reforms complete, robot dogs and UAVs at the lowest echelons; roaring SP guns and \"knight guns\"; fifth-generation MBTs and IFVs sprinting; ghostlike Mountain Cats everywhere—together form an unstoppable steel torrent. Paired with \"Stylus\" intelligent small arms, exoskeletons across the force, relentless training, and world-class political work and discipline, we have forged the finest soldiers.\n\nThe People’s Army proudly declares: we remain the Republic’s most reliable guardian; since 1949 the undefeated land force; unafraid of any challenger. With the PLA Ground Force ever ready, the people will sleep soundly."
+
+  # =========================================================
+  # === STRATEGIC SUPPORT FORCE — REORGANIZATION
+  # =========================================================
+  prc_military.401.a: "Be the dagger point; be the iron fist."
+  prc_military.401.t: "Strategic Support Force Reorganization Begins!"
+  prc_military.401.d: "Sun Tzu wrote: before the army moves, logistics must. Without trains, grain, or stores—an army dies. At Huaihai, millions of civilians pushed our logistics with handcarts—pushing us to victory. In Korea, meager support forced seven-day offensives and left us stymied by Ridgway’s \"magnetic\" defense.\n\nSince the Second Gutian Conference and the founding of the SSF, logistics and many advanced support capabilities have been built and integrated.\n\nIn the Taiwan operation, the young SSF excelled: replenishment ships fueled the fleets; the Joint Logistics Support Force airdropped and shipped supplies to assault troops; military satellites tracked hostile movements and detected attempted intervention by PDO naval and air forces. Yet the crucible also revealed gaps.\n\nTo meet a more complex future battlefield, we will reorganize the SSF into four pillars—Joint Logistics, Space, Cyberspace, and Information Support—fielding advanced systems to deliver full-spectrum support to the PLA."
+
+  # =========================================================
+  # === STRATEGIC SUPPORT FORCE — JOINT LOGISTICS SPOT CHECK
+  # =========================================================
+  prc_military.402.a: "\"Dad—our boys at the front can have meat with every meal now…\""
+  prc_military.402.t: "Spot Inspection"
+  prc_military.402.d: "\"Good. Very good.\" Zhang Youxia ran his hand along the Y-20’s gleaming skin, satisfied as electronics, kit—and crates of fruits and vegetables—flowed into the cavernous hold. \"I heard about a lift shortfall earlier. Is it fixed?\"\n\n\"Yes, Comrade Vice-Chairman.\" The support chief smiled. \"If only we’d known you were coming—we’d have prepared a welcome…\"\n\n\"I didn’t tell you on purpose—to spring a ‘spot check.’ You’ve done well. In real war, you rarely get warning. As new-era PLA, you must be ready—always.\" Zhang took a bottle of orange drink from a bodyguard.\n\nWatching the spirited scene, he thought of his father General Zhang Zongxun’s tales of the Northwest Field Army’s privations. \"If only our weapons had been better… if only we’d had more grain…\" Those words branded themselves on the son’s heart—through the elder’s passing, the former minister of logistics still couldn’t let go of the Army’s sustainment needs.\n\nZhang looked up into the sky, drew a long breath, and blinked back the rising heat in his eyes."
+
+  # =========================================================
+  # === STRATEGIC SUPPORT FORCE — COOKHOUSE & COMPOSITE SUPPORT
+  # =========================================================
+  prc_military.403.a: "Chow time—potato beef stew today!"
+  prc_military.403.t: "A Cookhouse Story"
+  prc_military.403.d: "Zhao Biao inhaled the steam from the wok—potato beef stew—and felt himself back in childhood. He ladled it into pans, set down the spatula, and stretched.\n\nA year ago he’d never have imagined cooking fresh hot meals for comrades in the deep desert. He stepped out of the tent and watched fresh produce arrive by the crate. Back then on the Gobi ranges, eating ration bars and self-heating meals in the wind and grit, he’d dreamed of front-line hot chow like at garrison. A year later—that dream came true.\n\nThe aroma drew him back to schoolbook tales—Lai Ning, the Golden Fishhook—stories of cookhouse martyrs who gave their lives to support a force accomplishing the near-impossible. Today, that human warmth is quietly delivered to every soldier at the edge.\n\n\"Zhao! Chow up?\" Troops returning from training waved at the gate. \"We could smell the beef from two li away!\""
+
+  # =========================================================
+  # === STRATEGIC SUPPORT FORCE — MILITARY SATELLITE UPGRADE
+  # =========================================================
+  prc_military.404.a: "What a beautiful bride."
+  prc_military.404.t: "The Bride Weds"
+  prc_military.404.d: "Wenchang Space Launch Center, Hainan.\n\nTwo engineers with flecks of gray stood in mission control, gazing at the rocket outside. After nearly seven years of grind, a new telemetry satellite would replace the Fengyun series for observation. Progress came at the cost of hairlines.\n\n\"Xia—remember your first thought seeing her?\"\n\n\"Forget? I said, ‘Subsystem chief? I’m not worthy.’\"\n\nThose former interns now led subsystems. Behind the rapid upgrades lay countless nights of sweat. That the two sported only salt-and-pepper—rather than the clean domes of their cohort—felt like divine mercy.\n\n\"Engineers Xia! Li! It’s almost time!\" A young tech jogged up, echo of their past.\n\n\"Round up the team—take stations. Our bride is ready to go.\" One engineer clasped his hands behind his back and headed for the console—pausing just long enough to give his colleague a firm swat on the backside.\n\n\"Li, how old are you?!\" the other spluttered, chasing him. \"If this launch succeeds, I’m not letting you off!\"\n\nOutside, the blue-and-white rocket stood silent and proud."
+
+  #prc_military.405.a: "丸辣！" #未来军队计划
+  #prc_military.405.t: "半夜授衔"
+  #prc_military.405.d: "晚上的军营格外冷清，墙上的时钟已经跨越了十二点的时刻，又是新的一天。\n吕上尉结束了今天的工作..."
+
+  # =========================================================
+  # === FUTURE FORCE — NEW ARMY EQUIPMENT FIELDING
+  # =========================================================
+  prc_military.406.a: "At last—the Army gets new toys, not just new troops."
+  prc_military.406.t: "New Army Equipment"
+  prc_military.406.d: "At an unnamed field training area, Zhang and Wang’s company was shaking down new gear.\n\n\"Pick it up back there! New kit and still that slow—don’t make me set extra drills!\" Feet quickened.\n\n\"Wang, why so winded—with new gear?\" \n\n\"Easy for you to say—you drew an exoskeleton in the first batch.\"\n\n\"And you’ve got a robot dog hauling your kit.\" Zhang nodded at the mechanical canine and grinned. \"Maybe you’ve been slacking in training.\"\n\n\"Quit the banter. Hustle—or we really will get smoked.\"\n\nWang pushed the pace; the robot dog matched speed.\n\nAfter the run, they paired up for a MOUT room-clearing drill.\n\n\"All squads—commence entry drills in pairs.\"\n\n\"Let’s move.\" They advanced, clearing targets in tandem. At a corridor-room junction they halted. Zhang unclipped a sonic detector from his exosuit. \"One left, one right, one inside. Send the dog for the room.\"\n\n\"On it.\" Wang crouched to task the dog. It dispatched the room target; the pair dropped the corridor targets and finished the run.\n\n\"Zhang and Wang—clean work. Training shows—and you’ve got a deft touch with the new kit. Keep it up; bring honor to 3rd Company!\"\n\n\"Yes, sir!\" They snapped to, saluting the CO and their comrades.\n\n\"Next pair—stand by!\""
+  
+  # =========================================================
+  # === FUTURE FORCE — SUBORBITAL VEHICLE TEST
+  # =========================================================
+  prc_military.407.a: "Air–space as one! Offense and defense in balance!"
+  prc_military.407.t: "Notes on a Certain Suborbital Flight-Test"
+  prc_military.407.d: "Veteran Gao was among the first posted to the “1st Air & Space Defense Battalion” in 2016. A pioneer of the Republic’s air–space shield, he helped trial land-based midcourse intercepts with the HQ-19 in 2021. Same garrison, different age: outside the window now sat interceptors far meaner than HQ-19—restricted to two per special carrier—tasked to guard the northwest ICBM fields. Not today, though: today his unit would support a team testing a suborbital penetration vehicle, providing data for Joint Staff evaluation.\n\n23:11—the launch. Gao slewed the radar beam to the notified sector. Twenty-six minutes… nothing. By the provided ephemeris the target should already be in line-of-sight. He radioed: “Command, ABM site here—vehicle status normal?”\n\n“ABM site, Command—nominal. Datalink solid.”\n\nThen the return hit. Gao read the solution and swore: “Good grief—suborbital, skimming the air, and it’s maneuvering. What am I supposed to intercept that with—my forehead?” Grumbling done, he soberly computed the current missile’s engagement probability.\n\nAt the next day’s review he logged his assessment: the vehicle could penetrate all existing national BMD architectures—and its maneuver envelope was, in his words, “beyond imagination.”"
+
+  # =========================================================
+  # === SUPPORT — DIGITAL INFORMATION SUPPORT (MIDNIGHT COMMISSION)
+  # =========================================================
+  prc_military.408.a: "Heck yeah!"
+  prc_military.408.t: "A Midnight Commission"
+  prc_military.408.d: "The barracks were silent past midnight. Captain Lü, commander of one of the PAP’s first unmanned-systems detachments, finished the day’s paperwork. The digital stack meant no less work than before—he could have turned in an hour earlier—but a quick game in the gaps is only human.\n\nFinal file archived; the automation dashboard showed green across the board—no alarms. He exhaled.\n\nThe phone shattered the quiet. He picked up to hear the last voice he wanted at this hour.\n\n“Captain—still awake? Young people shouldn’t keep such hours. Your sentries are asleep. If that robot-dog sentinel at the gate didn’t pull nights, I’d have walked in for tea.”\n\nOn the monitor the system still showed no active alarms. Only one red log entry stood out: 【00:10】 System Warning【Unauthorized presence at Sentry Post 1】Cleared. Reason:【Recognized as Detachment Permission Level 01】"
+
+  # =========================================================
+  # === CYBERSECURITY — TALENT RECRUITMENT
+  # =========================================================
+  prc_military.409.a: "Hi, mom—I've got great news…"
+  prc_military.409.t: "Hacker Recruitment"
+  prc_military.409.d: "“I don’t know anything!” In the precinct interview room, a hoodie-clad student squirmed on the metal chair, protesting to the officers.\n\n“You think we grab people without evidence?” the senior cop said mildly. “A little script kiddie stunt, sloppy OPSEC—don’t flatter yourself.”\n\n“I’m just a college kid—I don’t ‘hack’ anything!”\n\n“Beyond people, beyond skies,” another voice cut in—a plainclothes man entering. “From the moment you started probing attack methods last year, cyber tracked you.”\n\n“This kid is bold,” the cop chuckled. “If you must practice, maybe don’t pick government sites.”\n\n“But he’s got hands,” the newcomer said. “We’ve orders. He’s mine.”\n\n“Running that program again?” The cop rose with his mug. “Fine. Shout if you need me.”\n\n“Good work,” the plainclothes officer said, sliding a paper over. “Interested?”\n\n“And you are…?” The student read the header: “Cybersecurity Training Program.”\n\n“Ministry of State Security. Liu—call me Team Lead Liu. You were reckless, but no harm done—and our folks rate your potential. The state is investing heavily in EW. Join our program, get real mentorship, turn your hobby into a career. Well?”\n\nHe left the station feeling like he’d woken from a dream. Only two things proved it real: Liu’s card in his hand, and the signed form in his pocket. Hands shaking, he dialed home."
+
+  # =========================================================
+  # === SSF REORGANIZATION — ASSEMBLY
+  # =========================================================
+  prc_military.410.a: "We are the dagger; we are the iron fist!"
+  prc_military.410.t: "Strategic Support Force Reorganization Assembly"
+  prc_military.410.d: "General Zhang Youxia mounted the rostrum, heart uncharacteristically stirring. After a life of fire and steel, little moved his face—but today was different. Four tight formations stood below, awaiting his words.\n\n“Comrades,” he began, “today we celebrate the successful reorganization of the PLA Strategic Support Force.”\n\n“I have seen this scene many times—and each time the same spirit: resolve, courage, burning blood. Yet each time is also new: equipment better, training deeper, progress greater.”\n\n“This year marks a leap. Joint Logistics—Sunzi wrote: before the army moves, logistics must. Without stores, the army dies. Your mission is vital. Study the handcart spirit of Huaihai—be the ‘red blood cells’ of the people’s army!”\n\n“Rest assured, Comrade Commander!” the logistics ranks roared. “We will complete every task!”\n\n“Information Support and Cyberspace,” Zhang continued. “Know self, know foe. What is secret succeeds; what leaks fails. Far from the front, you are the eyes and wizardry that let comrades strike a thousand li away.”\n\n“Rest assured!” the two middle blocks replied. “We will not fail the Party or the people!”\n\n“Military Space,” he turned to the fourth formation, their space-force badges flashing in the sun. “Tomorrow’s battlefield isn’t only on Earth. Space will be vital. You are the future of our arms.”\n\n“Our journey is to the stars and the sea!” the space troops thundered, their chant rolling over the parade ground.\n\n“Comrades of the SSF,” Zhang’s gaze lingered on the young faces. For a breath he was back forty years; his voice nearly caught. “You are the pride of the nation—the stoutest shield of the people’s army. Keep striving. For the motherland, for the Party and the people—give your strength!”"
+
+  # =========================================================
+  # === SSF REORGANIZATION — COMPLETE
+  # =========================================================
+  prc_military.411.a: "Immovable as a mountain; water-like in virtue!"
+  prc_military.411.t: "Strategic Support Force Reorganization Complete!"
+  prc_military.411.d: "“Before the army moves, logistics must.” The people’s soldiers will never forget the Huaihai handcarts; the lone apple in Korea is a wound that never quite heals. “What seems ordinary is most miraculous” is our pride—but also the hardship we bore. From Nanchang through Liberation; from Korea to the counterattacks—we wrung miracles from scarcity. The memory is carved into the force: if we could triumph then, how could any foe provoke us when the rear is strong?\n\nFrom today, generations of longing see harvest. On the southwest frontier, troops eat hot “hard dishes” while joking about the poor souls beyond the ridge. At sea, sailors drill under the wing of replenishment ships. In the sky, the J-36 “Jade Dragon” tops off and climbs, setting new endurance marks. Across road and rail, trains and trucks—meticulously queued by the Joint Logistics Force—flow supply to the next hub, onward to barracks and depots. In space, Beidou and a constellation of military birds keep steady watch. In the unseen fight, Cyberspace and Information Support keep our links clear and the Republic secure.\n\nIf the PLA’s sea, land, and air are sword and shield, fists and hands, then the Strategic Support Force is the beating heart behind them—keeping the body in fighting trim. Today we can say with confidence: whomever the foe—if we hold, we are immovable as mountains; if we strike, we are fire.\n\nWe remain the frugal people’s army—but we no longer need to pinch rounds or starve ourselves to fight."
+  
+  # =========================================================
+  # === JOINT COMMAND — MODERN JOINT STAFF (TRIAL RUN)
+  # =========================================================
+  prc_military.502.a: "Tri-service synergy—invincible and unstoppable!"
+  prc_military.502.t: "Joint Staff Trial Operation"
+  prc_military.502.d: "Beijing, late night, at a classified site. The brand-new CMC Joint Operations Command Center blazed with light as staff officers and logisticians hustled to bring every console online.\n\nOn the rostrum sat Vice Chairmen Zhang Youxia and General He Weidong; nearby were Joint Staff Chief Li Zuocheng and Deputy Chief General Liu Zhenli. At the three service stations, Army Commander Li Qiaoming, Navy Commander Dong Jun, and Air Force Commander Chang Dingqiu paged through fresh intelligence.\n\n“How are we looking?” Zhang swept the floor with his gaze. “In one week we run a major exercise. The Chairman will observe in person, with a live broadcast. I want two hundred percent readiness.”\n\n“Sir! We guarantee mission success!”\n\n“Army station reporting: command links nominal.”\n“Air Force station: systems green.”\n“Navy station: network online, checks complete.”\n“Strategic Support station: all four subordinate forces reporting, data streaming continuous.”\n\n“Staff reporting: tri-service datalink is up—we can begin a dry run.” Chiefs Li and Liu worked in tandem, aides checking every cross-domain feed.\n\n“Excellent,” He Weidong nodded. “Spend the week mastering the new C2 system.”\n\n“Sir!”"
+
+  # =========================================================
+  # === TRI-SERVICE EXERCISE — JOINT SWORD
+  # =========================================================
+  prc_military.503.a: "“Exercise Joint Sword concluded successfully!”"
+  prc_military.503.t: "Joint Sword: Large-Scale Tri-Service Exercise"
+  prc_military.503.d: "Since the Taiwan campaign, the PLA had not staged a tri-service exercise on this scale. Ranges from Xinjiang to the East China Sea were booked—unprecedented. The directing HQ was not forward, but here in Beijing at the new CMC Joint Ops Command Center.\n\nMilitary media set up carefully controlled cameras to protect secrets. Staffers and commanders waited for the CMC to arrive.\n\nAt 08:00 the doors opened. Chairman Xi and the Commission entered; officers rose and saluted.\n\n“Good morning, Comrade Chairman!”\n\n“Greetings, comrades—thank you for your hard work.” He returned the salute and took the dais.\n\n“Chairman, Exercise Joint Sword is ready for execution. Your orders?” reported General Zhang Youxia, overall director.\n\n“I declare the exercise begun.”\n\nAcross five theaters the drills surged to life; torrents of data flooded the big screen.\n\n“Air Force: large enemy air package detected in the Eastern Theater—our forces are scrambling per plan.”\n\n“Army: hostile incursion on the Western frontier—two heavy combined-arms brigades mobilized.”\n\n“Strategic Support: milsat coverage live to all theaters; Joint Logistics moving sustainment.”\n\n“Navy: enemy fleet aims to choke Malacca—Guangxi–Guangdong dual-carrier groups formed, moving to contact.”\n\nWatching orders flow and blue/red icons dance, the Chairman’s thoughts turned heavy—on other continents great powers had fallen into flame. Such ruin must never visit this land again.\n\nNear midnight, with each theater closing cleanly, he allowed himself a smile. Two Gutian Conferences; two great reforms—the people’s army handed down by the forerunners had been forged into a dragon unafraid of any foe.\n\nTonight, the nation would sleep soundly. The PLA would break any hand raised against China.\nHe slipped a glutinous millet bar from his pocket and took a quiet bite."
+
+  # =========================================================
+  # === GRAND REFORM — “DRAGON SOARS”
+  # =========================================================
+  prc_military.504.a: "Flames rise—let the dragon ascend!"
+  prc_military.504.t: "PLA Reform Complete!"
+  prc_military.504.d: "In 1927 a rifle cracked at Nanchang—the people gained their own army. Soviet Red Army, Chinese Red Army, Eighth Route, New Fourth, People’s Liberation Army—the names changed, the essence did not: the red banner, the Party’s command, Party branches down to the company line, and Mao Zedong Thought held high.\n\nA century of wind and rain saw many underestimate this force; all were corrected by steel will. Marxism-Leninism and Mao Zedong Thought created this army; President Jiang ended the era of business-run units; President Xi’s twin reforms finally forged the PLA into the world’s most advanced force—relentless realistic training, iron discipline, political work without peer, deep integration across services, fused data and C2 chains, leading-edge equipment, and combat-proven doctrine. Today the PLA stands far ahead. Armies once dominant—of America, the Soviets, Germany, Britain, France—now pale by comparison.\n\nThe world burns; a spark could set Asia alight. But the people will not fear. From snowbound Northeast to the Tibetan highlands, from the Xinjiang desert to the storming South and East Seas—the people’s army stands watch.\n\nA true dragon does not fear flame—it rises through it."
+
+  # =========================================================
+  # === ARTILLERY — 203 mm PROJECT (INITIATION)
+  # =========================================================
+  prc_military.260.a: "Begin research!"
+  prc_military.260.t: "The 203 mm Artillery Project"
+  prc_military.260.d: "On an ordinary day at the Army Science & Tech Institute, an ‘unexpected guest’ arrived: CMC Vice Chairman Zhang Youxia.\n\n“What—cat got your tongues? Am I that scary?”\n\n“No, sir!”\n\n“Then relax. Sit—brief me on the new gun.”\n\n“Yes, Comrade Vice Chairman. Given global trends, brigade-level organic artillery is no longer adequate. We propose a new system: caliber 203 mm, with tight controls on size and weight to enable a truck chassis; fully automated ammo handling to ease crews; and—per your priority—native integration with our datalinks for precision cueing and rapid support. That concludes the brief—your guidance?”\n\nZhang blinked, muttering just loud enough for his aide: “Well I’ll be… a truck-mounted 203.” After a beat he nodded. “Good. Strong firepower, high automation, full digitization. I decide that the 203 mm system will…”"
+
+  # =========================================================
+  # === ARTILLERY — 203 mm PROJECT (PROVING)
+  # =========================================================
+  prc_military.267.a: "Fantastic!"
+  prc_military.267.t: "Report on the 203 mm Project"
+  prc_military.267.d: "Success.\n\nAt a test range a never-before-seen giant sat on its pad. A Lynx all-terrain vehicle rolled up; out stepped Vice Chairman Zhang. He hurried to the gun, running a palm along the barrel. “What a piece… ahem—let’s shoot. I’ll watch here—give me a terminal for BDA.”\n\nThe crew brought the system alive: stabilizers dug in; the autoloader cycled a round; a drone pushed target coordinates; the tube slewed.\n\n“Sir, target laid.”\n\n“Fire.”\n\nThe report punched the air; even through headsets eardrums throbbed. On screen a fireball rose and the target vanished.\n\n“Test successful!” Engineers hugged; Zhang kept rubbing the barrel’s still-warm steel.\n\n“A fine machine—truly fine. Though… perhaps we should upgrade the gunners’ headsets?”"
+
+  # =========================================================
+  # === INTELLIGENCE — REPORT ON JAPAN’S SECRET FLEET
+  # =========================================================
+  prc_military.10044.a: "Minister of State Security of the PRC, $PRC_MSS_leader_name$"
+  prc_military.10044.t: "Report on a Secret Japanese Fleet"
+  prc_military.10044.d: "\n\n\n\t\t\t\t £GFX_MSS_event_texticon   \n\n\n\n\nRespected Chairman,\n\nThrough corroborated agent reports, cyber infiltration, and satellite imagery, we assess that Japan is preparing to commission a large, modern covert fleet. Precise scale remains uncertain. Should these forces join the PDO navy, their strength would markedly increase; however, Joint Staff judges that the PLAN’s current numbers and capability still exceed PDO forces by a wide margin.\n\nIn line with the principle “strategically despise the enemy; tactically value him,” I recommend JSD and Navy HQ track this development closely. MSS and Information Support will provide continuous updates.\n\nRespectfully,"
+
+  # =========================================================
+  # === AEROSPACE — “LUANBIRD” AIR–SPACE CARRIER (START)
+  # =========================================================
+  prc_military.2751.a: "Commit fully—victory is imperative."
+  prc_military.2751.b: "Stand down—for now…"
+  prc_military.2751.t: "Project Luanbird Begins"
+  prc_military.2751.d: "Today, with full PLAAF backing, AVIC officially launched the code-named “Luanbird” air–space carrier program—an audacious plan to field a strategic platform roaming between the stratosphere and LEO, opening a new battlespace for homeland defense.\n\nAir Force Commander Chang Dingqiu chaired the review with AVIC’s top designers. “We must cross technical no-man’s-lands,” he declared. “Future command of the skies belongs to those who dare.” The announcement stirred debate: supporters hailed the vision; skeptics questioned the cost and risk."
+
+  # =========================================================
+  # === AEROSPACE — “LUANBIRD” (PARTIAL SUCCESS)
+  # =========================================================
+  prc_military.2761.a: "Capture lessons—strengthen the PLAAF."
+  prc_military.2761.t: "Project Luanbird: Partial Success"
+  prc_military.2761.d: "After months of effort, the Luanbird air–space carrier fell short of its full ambition: propulsion complexity and high-altitude structures outpaced today’s limits, and primary development was halted. Yet the endeavor yielded gems—subsystems and algorithms with immediate value. These will be spun into upgrades across the active fleet. As one lead put it: “The Luanbird did not soar to the ninth heaven—but from it we tempered a sharper edge.” Debate flickered over sunk cost, but most citizens trust these seeds will make the PLAAF stronger, readier to defend the sky and defeat any foe."
+  
+  # === QILIN (ALL-ELECTRIC TANK) — KICKOFF ===
+  prc_military.2711.a: "A heavy mood"
+  prc_military.2711.b: "On second thought…"
+  prc_military.2711.t: "All-Electric Tank Symposium"
+  prc_military.2711.d: "With integrated-electric systems now in the spotlight, the Navy’s new ships have become proof-of-concept for the technology—naturally turning eyes toward the Army’s crown jewel: the main battle tank.\n\nA symposium on an all-electric tank convened at the CMC Equipment Development Department. Experts from many institutes gathered to debate feasibility.\n\nAcademician Ma Weiming opened: “We have all witnessed the efficiency, stability, and economy of full-electric systems at sea. Bringing that pedigree into tank design would usher in a new era for armored warfare.” The hall fell quiet as everyone weighed the potential.\n\nA young engineer leapt up, waving preliminary blueprints: “Electrification means massive instant torque. Compared to the gradual output of diesel, an all-electric tank would pounce like a leopard—instant acceleration, a breakthrough in mobility.” Heads nodded; anticipation thickened the air.\n\nA gray-haired professor then voiced concerns: “Bus stability, battery energy density, thermal management—these are mountain ranges on this path. Only a robust, efficient, and stable power supply will keep such a tank fighting across harsh battlefields.”\n\nThe words landed like a cool douse of water—sobering the room to the challenges ahead."
+
+  prc_military.2712.a: "Initiate Project Qilin"
+  prc_military.2712.t: "Greenlight"
+  prc_military.2712.d: "As the mood grew tense, the doors swung open. In strode CMC Vice Chairman Zhang Youxia—ramrod straight, stars glinting on his shoulders. His steps were steady; his smile, warm; his eyes, full of respect for the gathered experts.\n\n“Welcome, Comrade General!” Startled, the room rose as one, joy flashing in their faces.\n\nZhang waved them down. “Comrades, I came to see you. Your research is priceless to our defense and science. Don’t carry the burden alone—tell this old soldier your difficulties. The State takes your work very seriously.”\n\nRelief spread. An elder expert ventured, “Vice Chairman, we still need your decision.”\n\nZhang chuckled. “Me, decide? You’ll say I’m a ‘big-gun’ again. But I’m loud because I want combat power. Budgets are healthy—of course tank research moves up.” Laughter rolled; then his face turned firm. “We can’t cling to the past. Tech races forward; Japan and Russia are modernizing hard. Our kit and training must keep pace. The all-electric tank should be pursued—but in small, fast steps. Build an experimental platform first and see it in the real world. Agreed?”\n\nNods all around. Zhang approved the experimental platform—codename: Qilin."
+
+  prc_military.2721.a: "Forward to Vice Chairman Zhang Youxia"
+  prc_military.2721.t: "Report on the All-Electric Tank ‘Qilin’"
+  prc_military.2721.d: "The Equipment Development Department has completed Qilin’s prototype. It meets design indices—but exposes notable flaws.\n\nQilin’s electric drive offers clear gains in energy efficiency and reduced reliance on fuel; it can approach quietly in combat. Two core subprojects—an electromagnetic main gun and electric propulsion—passed rigorous reliability trials.\n\nBut the new power architecture brings stability risks. Initial tests saw intermittent power-module dropouts—battlefield-fatal events that would leave the tank dead in place.\n\nThe EM gun’s hit rate was far below expectations; the ballistic calibration system appears to fight the power architecture under combined loads.\n\nMoreover, the powertrain’s EMI caused repeated comms dropouts.\n\nWhile the e-power pack greatly simplifies mechanics, it demands entirely new maintenance skills—posing a major training and personnel challenge.\n\nRecommendation: move Qilin into technology reserve status and share the key datasets across PLA research entities."
+
+  prc_military.2722.a: "Project Qilin: Partial Success"
+  prc_military.2722.t: "Decision on Project Qilin"
+  prc_military.2722.d: "To the Equipment Development Department:\n\nYour recommendation to transition Qilin to the tech reserve is approved. Practice shows current materials and comms tech cannot yet support a fully combat-ready all-electric MBT. Subprojects already matured—especially the EM gun and electric propulsion—should proceed toward integration with existing platforms. Coordinate urgently with industry so Qilin’s成果 can be converted into combat power without delay."
+
+  # === TIANSU (EM-BOOSTED VLS) — PROPOSAL & SUCCESS ===
+  prc_military.2731.a: "Approve Project Tianshu"
+  prc_military.2731.b: "Not now…"
+  prc_military.2731.t: "Project Tianshu"
+  prc_military.2731.d: "Naval Research Academy — Ma Weiming\n\nTo the Central Military Commission:\n\nShort-range electromagnetic acceleration has reached maturity. This breakthrough opens unprecedented opportunities and will drive sweeping change.\n\nMilitarily, it enables new weapon systems. For a vertical-launch system using EM boost, missiles leave the cell with far higher initial energy—greatly extending range.\n\nAnother key benefit: drastically reduced launcher wear. EM boost is more efficient and stable than legacy mechanisms, cutting friction and energy loss.\n\nOur trials show that with EM boost, most high-G airframes can achieve hypersonic flight.\n\nWith integrated electric propulsion now standard across our fleet, an EM-boost upgrade module can be fitted widely, massively enhancing combat power."
+
+  prc_military.2741.a: "Prepare for shipboard trials"
+  prc_military.2741.t: "Report on the EM-Boost Vertical Launch System"
+  prc_military.2741.d: "Naval Research Academy — Ma Weiming\n\nTo the Central Military Commission:\n\nAfter a series of tests, we confirm major advantages:\n\n— In full-scale prototypes, EM-boost launch velocity far exceeds legacy cold-launch, materially increasing missile range.\n— Compared to traditional systems, EM-boost reduces mechanical friction, sharply cutting launcher wear.\n\nNext we will focus on operational trials and shipboard electromagnetic compatibility, with plans to test on the training ship Jiqui Guang. Request CMC approval."
+
+  prc_military.2742.a: "Grant us EM power—send the foe west"
+  prc_military.2742.t: "Project Tianshu Succeeds"
+  prc_military.2742.d: "A fine drizzle stitched the gray sea; damp air clung to the deck. Two officers in white strode beneath a tilted umbrella.\n\n“Comrade Dong Jun, let’s board,” said Academician Ma Weiming. They stepped onto Jiqui Guang as the ensign cracked in the wind.\n\nMa’s calm voice filled the ship: “Shipwide—prepare for EM-boost VLS trial.”\n\nFingers danced over consoles; checks rippled station to station.\n\n“Three, two, one—launch.” The word fell—and the round leapt like an arrow loosed from a taut string, screaming skyward.\n\n“Report: data nominal. The project is a success.”\n\nCheers rolled bow to stern. Months of toil had found their answer, while the flag at the prow snapped in the gale, proclaiming the moment."
+
+  # === J-36 (SIXTH-GEN) — FIRST FLIGHT (POETIC NEWS EVENT) ===
+  prc_military.3611.t: "Three Million Jade Dragons Take Wing"
+  prc_military.3611.d: "Morning mist still veiled Chengdu’s outskirts when Old Zhang split a hot roll at the street stall. His oil-stained phone blared a short video: “...our indigenously developed sixth-generation stealth fighter completed its first flight on the 26th!” His spoon clanged into the soy milk; splashes freckled a student’s canvas bag, unnoticed. On-screen, beneath a steel-blue sky, a tailless flying-wing howled past with a J-20S in chase, exhaust plumes sketching a jade ribbon in the dawn.\n\nIn the Mianyang wind tunnel, Engineer Liang removed his goggles, remembering pounding the dorm wall in 1999 when the embassy was bombed, clutching Aviation Knowledge in his fists; remembering the J-20’s 2011 debut and the U.S. defense secretary’s sour face—cheers caught in throats that day. Now, beyond the glass, ’90s-born engineers coolly watched three vectoring engines stream realtime data—as if tinkering with toy cars. To them, “far ahead” already felt normal.\n\nBy the Jinjiang, a teahouse owner pivoted a 4K projector toward the street. Couriers, retirees, students all paused to look up. The display showed lead ship “36011” cutting the blue; its skin’s stealth sheen flashed a cold jade, like a chilong rising from Kunlun myth.\n\nDefense banter flooded the livestream: “No vertical tails—how do you track that?” “Three engines? Twice an F-35’s payload easy!” “See that hex port? Bet it’s a DEW aperture!”\n\nIn the square the Great Man stood, greeting the people with an eternal wave—just as on the day a nation was declared."
+  prc_military.3611.a: "Three million jade dragons take wing, churning the vault of heaven"
+
+  # === J-36 ENCOUNTER — SPIRIT OF 81192 ===
+  prc_military.81192.a: "May imperishable merit shine—night after night on blue waves"
+  prc_military.81192.t: "Beneath the Leviathan’s Wings, the Jade Dragon Flies"
+  prc_military.81192.d: "Southwest mountains—PLAAF test range.\n\n“Airframe 36010 nominal, crew nominal. Proceeding to max altitude and speed.”\n\n“Cleared to test,” tower replied.\n\nThree engines thundered; the ‘ginkgo leaf’ surged to design limits. Below, ridges rolled like a stony sea.\n\n“Unknown contact—radar resolves as friendly.” A shadow crossed the canopy.\n\n“Is that… a J-8?” An aging silhouette clawed far past its limits, sheltering the newborn fighter. On the wing, the numbers 81192 flickered through the haze.\n\n“Request tower confirm airspace radar status.” The pilot stayed calm, throttling forward. The ginkgo leaf leapt faster still. He and his WSO traded a glance—words unnecessary. This would be kept between them; no report could capture it.\n\n“Tower confirms: airspace clear. Yulong-01, you are at max speed—collect data.”\n\n“Yulong-01 copy.” The old warrior dwindled into cloud, gone without a trace.\n\nThe jade leaf sketched a lazy arc in the sky—and turned for home."
+
+  # === OBITUARY — COMRADE XU QILIANG ===
+  prc_military.3000.t: "Comrade Xu Qiliang Passes Away"
+  prc_military.3000.d: "Xinhua, Beijing, June 2\n\nComrade Xu Qiliang—an outstanding member of the CPC, a loyal communist tested by struggle, a proletarian military strategist, an eminent leader of the People’s Liberation Army, and member of the 18th and 19th CPC Politburos; former Vice Chairman of the Central Military Commission—passed away in Beijing at 12:12 on June 2, 2025, aged 75.\n\nBorn in Linqu, Shandong; enlisted July 1966; joined the CPC July 1967. Promoted to Air Force general in June 2007.\n\nFrom a young line pilot in the 77th Regiment of the 26th Air Division, he rose through posts as pilot, deputy CO, CO, deputy division commander, division commander; deputy army commander of the 4th Air Army; chief of staff of the Shanghai Air Command; acting deputy commander and chief of staff of the 8th Air Army; commander of the 8th Air Army; deputy chief of staff of the PLAAF; chief of staff of the PLAAF—and ultimately Vice Chairman of the CMC of the People’s Republic of China."
+  prc_military.3000.a: "His heroic soul has returned to the blue sky"
