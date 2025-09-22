@@ -1,0 +1,26 @@
+﻿l_english:
+  AST_postwar_gov: "People's Republic of Australia"
+  AST_postwar_gov_DEF: "the People's Republic of Australia"
+  AST_postwar_gov_ADJ: "Australian"
+
+  AST_union_gov: "Oceanic Republic"
+  AST_union_gov_DEF: "the Oceanic Republic"
+  AST_union_gov_ADJ: "Oceanic"
+
+  PRC_antiair_build: "People's Air Defense Construction"
+
+  JAP_postwar_gov: "People's Republic of Japan"
+  JAP_postwar_gov_DEF: "the People's Republic of Japan"
+  JAP_postwar_gov_ADJ: "Japanese"
+
+  JAP_postwar_gov_totalitarian_socialist_party: "All-Japan People's Consultative Conference (New Red Army)"
+  JAP_postwar_gov_communist_party: "All-Japan People's Consultative Conference (Communist Union)"
+  JAP_postwar_gov_libertarian_socialist_party: "All-Japan People's Consultative Conference (Pragmatic Left)"
+  JAP_postwar_gov_social_democrat_party: "All-Japan People's Consultative Conference (Social Faction)"
+  JAP_postwar_gov_social_liberal_party: "All-Japan People's Consultative Conference (National Democratic)"
+  JAP_postwar_gov_market_liberal_party: "Free Market Revitalization Council"
+  JAP_postwar_gov_conservative_party: "Alliance of Tradition and Renewal"
+  JAP_postwar_gov_authoritarian_democrat_party: "Order Reconstruction Council"
+  JAP_postwar_gov_nationalist_party: "New Japan Development League"
+  JAP_postwar_gov_fascist_party: "§RIllegal§!"
+  JAP_postwar_gov_national_socialist_party: "§RIllegal§!"
